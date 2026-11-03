@@ -2,9 +2,9 @@
 """MCP server for the knowledge-base repository.
 
 This server is the single interface an agent needs to work the vault over stdio
-with JSON-RPC 2.0.  The vault holds domains (domains/<domain>/ with features/
-and rules/), repositories (repositories/<repo>/) and resources
-(resources/<slug>/, originals under raw/); the graph tags every node with its
+with JSON-RPC 2.0.  The vault holds domains (01_domains/<domain>/ with features/
+and rules/), repositories (02_repositories/<repo>/) and resources
+(03_resources/<slug>/, originals under raw/); the graph tags every node with its
 kind (`type`) and, for domain notes, its `domain`.  It exposes graph and note *querying* (graph_summary,
 graph_search_nodes, graph_neighbors, read_note, refresh_graph), *writing*
 (write_note for text, capture_raw for verbatim bytes from a local file or an
@@ -286,7 +286,7 @@ def _tool_definitions() -> List[Dict[str, Any]]:
             "description": (
                 "Search graph nodes by metadata and free text. `type` is the "
                 "kind of note (hub, meta, domain, feature, rule, repository, "
-                "resource); `domain` is the folder name under domains/."
+                "resource); `domain` is the folder name under 01_domains/."
             ),
             "inputSchema": {
                 "type": "object",
@@ -357,7 +357,7 @@ def _tool_definitions() -> List[Dict[str, Any]]:
                 "properties": {
                     "path": {
                         "type": "string",
-                        "description": "Vault-relative path, e.g. 'resources/demo/index.md'.",
+                        "description": "Vault-relative path, e.g. '03_resources/demo/index.md'.",
                     },
                     "content": {"type": "string", "description": "Full file content."},
                     "overwrite": {
@@ -394,7 +394,7 @@ def _tool_definitions() -> List[Dict[str, Any]]:
             "description": (
                 "Copy a local file or download an http(s) URL into the vault "
                 "byte-for-byte — the way an original PDF, image, or archive is "
-                "preserved under `resources/<slug>/raw/`. Provide exactly one "
+                "preserved under `03_resources/<slug>/raw/`. Provide exactly one "
                 "of `source_path` (absolute or CWD-relative path on this machine) "
                 "or `url`. Binary-safe; returns size and sha256. Read the "
                 "captured file back with `read_note`, which reports binary files "
@@ -406,7 +406,7 @@ def _tool_definitions() -> List[Dict[str, Any]]:
                 "properties": {
                     "path": {
                         "type": "string",
-                        "description": "Vault-relative destination, e.g. 'resources/demo/raw/paper.pdf'.",
+                        "description": "Vault-relative destination, e.g. '03_resources/demo/raw/paper.pdf'.",
                     },
                     "source_path": {
                         "type": "string",

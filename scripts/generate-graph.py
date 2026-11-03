@@ -1,13 +1,16 @@
 #!/usr/bin/env python3
 """Build `index/graph.json` from the vault's Markdown, and validate it.
 
-The vault models three kinds of knowledge, each in its own folder:
+The vault models three kinds of knowledge, each in its own folder, plus an
+archive for retired notes:
 
-  domains/<domain>/            a working domain (index.md), its feature
+  01_domains/<domain>/         a working domain (index.md), its feature
                                descriptions (features/) and rules (rules/)
-  repositories/<repo>/         where a repository lives and what is where in it
-  resources/<slug>/            static or online material that gives domains
+  02_repositories/<repo>/      where a repository lives and what is where in it
+  03_resources/<slug>/         static or online material that gives domains
                                context; originals kept untouched in raw/
+  04_archive/                  retired notes of any kind, moved here whole;
+                               they keep their declared `type` and their id
 
 The graph is the derived navigation layer agents query instead of walking the
 tree: one node per note (frontmatter, kind, domain, link counts) and one edge
@@ -81,8 +84,13 @@ NOTE_TYPES = {
 
 # Folders that hold notes. Everything else (agents/, skills/, tests/, ...) is
 # tooling and stays out of the graph; root-level *.md files count as notes when
-# they carry frontmatter.
-CONTENT_DIRS = ("domains", "repositories", "resources")
+# they carry frontmatter. The archive keeps retired notes in the graph so links
+# to them still resolve; an archived note keeps the `type` it declares.
+DOMAINS_DIR = "01_domains"
+REPOSITORIES_DIR = "02_repositories"
+RESOURCES_DIR = "03_resources"
+ARCHIVE_DIR = "04_archive"
+CONTENT_DIRS = (DOMAINS_DIR, REPOSITORIES_DIR, RESOURCES_DIR, ARCHIVE_DIR)
 ROOT_TYPE = "meta"
 
 
@@ -172,9 +180,11 @@ def expected_type(rel_path: str) -> str | None:
         return None
     if len(parts) == 2:
         return "hub"
-    if parts[0] == "repositories":
+    if parts[0] == ARCHIVE_DIR:
+        return None
+    if parts[0] == REPOSITORIES_DIR:
         return "repository"
-    if parts[0] == "resources":
+    if parts[0] == RESOURCES_DIR:
         return "resource"
     if len(parts) >= 4 and parts[2] == "features":
         return "feature"
@@ -184,9 +194,9 @@ def expected_type(rel_path: str) -> str | None:
 
 
 def domain_of(rel_path: str) -> str:
-    """The domain a note belongs to (its folder under domains/), else ""."""
+    """The domain a note belongs to (its folder under 01_domains/), else ""."""
     parts = Path(rel_path).parts
-    if len(parts) >= 3 and parts[0] == "domains":
+    if len(parts) >= 3 and parts[0] == DOMAINS_DIR:
         return parts[1]
     return ""
 

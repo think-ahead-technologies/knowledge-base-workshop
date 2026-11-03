@@ -79,13 +79,13 @@ class TestWriteNote(ToolTestCase):
     def test_creates_note_and_parent_directories(self) -> None:
         payload = self.structured(
             "write_note",
-            path="resources/demo/index.md",
+            path="03_resources/demo/index.md",
             content="---\nid: resource/demo\n---\n\n# Demo\n",
         )
-        target = self.root / "resources/demo/index.md"
+        target = self.root / "03_resources/demo/index.md"
         self.assertTrue(target.exists())
         self.assertIn("# Demo", target.read_text(encoding="utf-8"))
-        self.assertEqual(payload["path"], "resources/demo/index.md")
+        self.assertEqual(payload["path"], "03_resources/demo/index.md")
         self.assertTrue(payload["created"])
 
     def test_refuses_to_overwrite_existing_note_by_default(self) -> None:
@@ -178,12 +178,12 @@ class TestGitCommit(ToolTestCase):
         return _git(self.root, "log", "--format=%s", "-n", "1").stdout.strip()
 
     def test_stages_named_paths_and_commits(self) -> None:
-        self.call("write_note", path="resources/demo/index.md", content="# Demo\n")
-        self.call("write_note", path="resources/demo/topic.md", content="# Topic\n")
+        self.call("write_note", path="03_resources/demo/index.md", content="# Demo\n")
+        self.call("write_note", path="03_resources/demo/topic.md", content="# Topic\n")
         payload = self.structured(
             "git_commit",
             message="feat: ingest demo resource",
-            paths=["resources/demo/index.md", "resources/demo/topic.md"],
+            paths=["03_resources/demo/index.md", "03_resources/demo/topic.md"],
         )
         self.assertEqual(payload["exit_code"], 0)
         self.assertEqual(self._log(), "feat: ingest demo resource")
@@ -299,10 +299,10 @@ class TestCaptureRaw(ToolTestCase):
     def test_copies_a_local_binary_verbatim(self) -> None:
         payload = self.structured(
             "capture_raw",
-            path="resources/demo/raw/paper.pdf",
+            path="03_resources/demo/raw/paper.pdf",
             source_path=str(self.pdf),
         )
-        target = self.root / "resources/demo/raw/paper.pdf"
+        target = self.root / "03_resources/demo/raw/paper.pdf"
         self.assertEqual(target.read_bytes(), self.PDF_BYTES)
         self.assertEqual(payload["bytes"], len(self.PDF_BYTES))
         self.assertEqual(
@@ -314,10 +314,10 @@ class TestCaptureRaw(ToolTestCase):
     def test_downloads_a_binary_verbatim(self) -> None:
         payload = self.structured(
             "capture_raw",
-            path="resources/demo/raw/paper.pdf",
+            path="03_resources/demo/raw/paper.pdf",
             url=f"{self.base_url}/paper.pdf",
         )
-        target = self.root / "resources/demo/raw/paper.pdf"
+        target = self.root / "03_resources/demo/raw/paper.pdf"
         self.assertEqual(target.read_bytes(), self.PDF_BYTES)
         self.assertEqual(
             payload["sha256"], hashlib.sha256(self.PDF_BYTES).hexdigest()
@@ -402,13 +402,13 @@ class TestCaptureRaw(ToolTestCase):
     def test_captured_binary_is_committable(self) -> None:
         self.call(
             "capture_raw",
-            path="resources/demo/raw/paper.pdf",
+            path="03_resources/demo/raw/paper.pdf",
             source_path=str(self.pdf),
         )
         payload = self.structured(
             "git_commit",
             message="feat: ingest demo pdf",
-            paths=["resources/demo/raw/paper.pdf"],
+            paths=["03_resources/demo/raw/paper.pdf"],
         )
         self.assertEqual(payload["exit_code"], 0)
 
@@ -417,15 +417,15 @@ class TestReadNoteBinary(ToolTestCase):
     """read_note must say what to do instead of choking on binary bytes."""
 
     def test_reports_binary_notes_instead_of_failing_to_decode(self) -> None:
-        target = self.root / "resources/demo/raw/paper.pdf"
+        target = self.root / "03_resources/demo/raw/paper.pdf"
         target.parent.mkdir(parents=True)
         target.write_bytes(b"%PDF-1.7\n\x00\x01\xff binary")
-        result = self.call("read_note", path="resources/demo/raw/paper.pdf")
+        result = self.call("read_note", path="03_resources/demo/raw/paper.pdf")
         payload = result["structuredContent"]
         self.assertTrue(payload["binary"])
         self.assertNotIn("content", payload)
         self.assertIn("sha256", payload)
-        self.assertIn(str(self.root / "resources/demo/raw/paper.pdf"), payload["hint"])
+        self.assertIn(str(self.root / "03_resources/demo/raw/paper.pdf"), payload["hint"])
 
 
 if __name__ == "__main__":
@@ -457,7 +457,7 @@ class TestGraphSummary(ToolTestCase):
         base = {
             "id": node_id,
             "title": node_id,
-            "path": f"resources/{node_id}.md",
+            "path": f"03_resources/{node_id}.md",
             "domain": "",
             "type": "resource",
             "status": "active",

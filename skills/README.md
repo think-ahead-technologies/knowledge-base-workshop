@@ -11,7 +11,7 @@ knowledge in the domains / repositories / resources model (see `README.md`):
 - `knowledge-base-document-repository/` - document where a repository lives and
   where to find what in it, and link the domains it implements.
 - `knowledge-base-ingest-resource/` - capture a document or online resource
-  into `resources/<slug>/` and link it with `context` to the domains that need it.
+  into `03_resources/<slug>/` and link it with `context` to the domains that need it.
 
 When creating a new skill or renaming a folder, adjust the links in
 `./.claude/skills/`.

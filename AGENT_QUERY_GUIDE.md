@@ -14,9 +14,10 @@ links there. Use it!
 
 The vault holds three kinds of knowledge (see `README.md`):
 
-- `domains/<domain>/` - the domain (`index.md`), its `features/` and `rules/`
-- `repositories/<repo>/` - where a repository lives and what is where in it
-- `resources/<slug>/` - static or online material that gives domains context
+- `01_domains/<domain>/` - the domain (`index.md`), its `features/` and `rules/`
+- `02_repositories/<repo>/` - where a repository lives and what is where in it
+- `03_resources/<slug>/` - static or online material that gives domains context
+- `04_archive/` - retired notes of any kind; they keep their `type` and id, so links still resolve
 
 ## Schema
 
@@ -29,14 +30,15 @@ The vault holds three kinds of knowledge (see `README.md`):
   - `id` (string): stable note identifier (usually from frontmatter)
   - `title` (string): note title
   - `path` (string): vault-relative markdown path
-  - `domain` (string): the folder name under `domains/` for domain, feature and
+  - `domain` (string): the folder name under `01_domains/` for domain, feature and
     rule notes; `""` for every other note
   - `type` (string): the kind of note, from a controlled vocabulary -
     `hub|meta|domain|feature|rule|repository|resource`. The folder implies it
-    (`domains/<d>/features/` is `feature`, `domains/<d>/rules/` is `rule`, other
-    `domains/<d>/` files are `domain`, `repositories/` is `repository`,
-    `resources/` is `resource`, the three folder `index.md` files are `hub`,
-    root notes default to `meta`). `--validate` fails on a value outside the
+    (`01_domains/<d>/features/` is `feature`, `01_domains/<d>/rules/` is `rule`, other
+    `01_domains/<d>/` files are `domain`, `02_repositories/` is `repository`,
+    `03_resources/` is `resource`, the four folder `index.md` files are `hub`,
+    `04_archive/` notes keep the `type` they declare, root notes default to
+    `meta`). `--validate` fails on a value outside the
     vocabulary and on a frontmatter `type` that contradicts the folder.
   - `status` (string): lifecycle state (`active`, `draft`, `deprecated`)
   - `tags` (string array): topic tags

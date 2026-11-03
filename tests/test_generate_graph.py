@@ -68,17 +68,18 @@ class TestExpectedType(unittest.TestCase):
 
     def test_maps_each_location_to_its_kind(self) -> None:
         cases = {
-            "domains/index.md": "hub",
-            "repositories/index.md": "hub",
-            "resources/index.md": "hub",
-            "domains/billing/index.md": "domain",
-            "domains/billing/glossary.md": "domain",
-            "domains/billing/features/invoicing.md": "feature",
-            "domains/billing/rules/no-negative-totals.md": "rule",
-            "repositories/billing-api/index.md": "repository",
-            "repositories/billing-api/layout.md": "repository",
-            "resources/oauth2-rfc6749/index.md": "resource",
-            "resources/oauth2-rfc6749/grant-types.md": "resource",
+            "01_domains/index.md": "hub",
+            "02_repositories/index.md": "hub",
+            "03_resources/index.md": "hub",
+            "01_domains/billing/index.md": "domain",
+            "01_domains/billing/glossary.md": "domain",
+            "01_domains/billing/features/invoicing.md": "feature",
+            "01_domains/billing/rules/no-negative-totals.md": "rule",
+            "02_repositories/billing-api/index.md": "repository",
+            "02_repositories/billing-api/layout.md": "repository",
+            "03_resources/oauth2-rfc6749/index.md": "resource",
+            "03_resources/oauth2-rfc6749/grant-types.md": "resource",
+            "04_archive/index.md": "hub",
         }
         for path, expected in cases.items():
             with self.subTest(path=path):
@@ -87,11 +88,16 @@ class TestExpectedType(unittest.TestCase):
     def test_root_notes_have_no_implied_kind(self) -> None:
         self.assertIsNone(gen.expected_type("README.md"))
 
+    def test_archived_notes_keep_their_own_kind(self) -> None:
+        self.assertIsNone(gen.expected_type("04_archive/old-billing/index.md"))
+        self.assertIsNone(gen.expected_type("04_archive/old-billing/rules/r.md"))
+        self.assertEqual(gen.domain_of("04_archive/old-billing/index.md"), "")
+
     def test_derives_the_domain_from_the_path(self) -> None:
-        self.assertEqual(gen.domain_of("domains/billing/rules/x.md"), "billing")
-        self.assertEqual(gen.domain_of("domains/billing/index.md"), "billing")
-        self.assertEqual(gen.domain_of("domains/index.md"), "")
-        self.assertEqual(gen.domain_of("repositories/billing-api/index.md"), "")
+        self.assertEqual(gen.domain_of("01_domains/billing/rules/x.md"), "billing")
+        self.assertEqual(gen.domain_of("01_domains/billing/index.md"), "billing")
+        self.assertEqual(gen.domain_of("01_domains/index.md"), "")
+        self.assertEqual(gen.domain_of("02_repositories/billing-api/index.md"), "")
 
 
 class TestEdgeConstraints(unittest.TestCase):
@@ -177,7 +183,7 @@ class VaultTestCase(unittest.TestCase):
 
 class TestGraphNodes(VaultTestCase):
     def test_nodes_carry_the_kind_implied_by_their_folder(self) -> None:
-        self.write("domains/billing/features/invoicing.md", "id: feature/invoicing")
+        self.write("01_domains/billing/features/invoicing.md", "id: feature/invoicing")
         node = self.graph()["nodes"][0]
         self.assertEqual(node["type"], "feature")
         self.assertEqual(node["domain"], "billing")
@@ -185,7 +191,7 @@ class TestGraphNodes(VaultTestCase):
 
     def test_scans_the_content_folders_and_root_notes_with_frontmatter(self) -> None:
         self.write("README.md", "id: home\ntype: hub")
-        self.write("domains/billing/index.md", "id: domain/billing")
+        self.write("01_domains/billing/index.md", "id: domain/billing")
         self.write("agents/helper.md", "id: agent")
         self.write("skills/x/SKILL.md", "id: skill")
         self.write("tests/fixture.md", "id: fixture")
@@ -193,9 +199,15 @@ class TestGraphNodes(VaultTestCase):
         ids = sorted(n["id"] for n in self.graph()["nodes"])
         self.assertEqual(ids, ["domain/billing", "home"])
 
+    def test_scans_the_archive(self) -> None:
+        self.write("04_archive/old-billing/index.md", "id: domain/old-billing\ntype: domain")
+        node = self.graph()["nodes"][0]
+        self.assertEqual(node["id"], "domain/old-billing")
+        self.assertEqual(node["type"], "domain")
+
     def test_skips_raw_captures(self) -> None:
-        self.write("resources/paper/index.md", "id: resource/paper")
-        self.write("resources/paper/raw/page.md", "id: raw-page")
+        self.write("03_resources/paper/index.md", "id: resource/paper")
+        self.write("03_resources/paper/raw/page.md", "id: raw-page")
         ids = [n["id"] for n in self.graph()["nodes"]]
         self.assertEqual(ids, ["resource/paper"])
 
@@ -208,13 +220,13 @@ class TestValidateExitCode(VaultTestCase):
 
     def test_passes_on_a_well_formed_vault(self) -> None:
         self.write(
-            "domains/billing/index.md",
+            "01_domains/billing/index.md",
             "id: domain/billing",
             '[API](repository/billing-api){"type":"implemented-in","link-info":"invoice endpoints"}\n'
             '[RFC](resource/oauth2){"type":"context","link-info":"token flow the API follows"}',
         )
-        self.write("repositories/billing-api/index.md", "id: repository/billing-api")
-        self.write("resources/oauth2/index.md", "id: resource/oauth2")
+        self.write("02_repositories/billing-api/index.md", "id: repository/billing-api")
+        self.write("03_resources/oauth2/index.md", "id: resource/oauth2")
         proc = self.validate()
         self.assertEqual(proc.returncode, 0, proc.stdout + proc.stderr)
         self.assertIn("all node types are in the controlled vocabulary", proc.stdout)
@@ -226,19 +238,19 @@ class TestValidateExitCode(VaultTestCase):
         self.assertIn("descision", proc.stdout)
 
     def test_fails_on_a_note_whose_type_contradicts_its_folder(self) -> None:
-        self.write("domains/billing/rules/r.md", "id: rule/r\ntype: feature")
+        self.write("01_domains/billing/rules/r.md", "id: rule/r\ntype: feature")
         proc = self.validate()
         self.assertEqual(proc.returncode, 1)
-        self.assertIn("domains/billing/rules/r.md", proc.stdout)
+        self.assertIn("01_domains/billing/rules/r.md", proc.stdout)
         self.assertIn("rule", proc.stdout)
 
     def test_fails_on_a_context_link_without_a_reason(self) -> None:
         self.write(
-            "domains/billing/index.md",
+            "01_domains/billing/index.md",
             "id: domain/billing",
             '[RFC](resource/oauth2){"type":"context"}',
         )
-        self.write("resources/oauth2/index.md", "id: resource/oauth2")
+        self.write("03_resources/oauth2/index.md", "id: resource/oauth2")
         proc = self.validate()
         self.assertEqual(proc.returncode, 1)
         self.assertIn("link-info", proc.stdout)

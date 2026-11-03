@@ -23,13 +23,13 @@ are ONLY for external URLs that notes cite - never for the vault itself.
 The vault holds three kinds of knowledge:
 
 ```
-domains/<domain>/index.md          a working domain        (type: domain)
-domains/<domain>/features/<f>.md   a feature of it         (type: feature)
-domains/<domain>/rules/<r>.md      a rule that holds in it (type: rule)
-repositories/<repo>/index.md       where a repo lives, where is what (type: repository)
-resources/<slug>/index.md          a document / online resource (type: resource)
-resources/<slug>/<topic>.md        a topic distilled from it    (type: resource)
-domains/index.md, repositories/index.md, resources/index.md   hubs
+01_domains/<domain>/index.md          a working domain        (type: domain)
+01_domains/<domain>/features/<f>.md   a feature of it         (type: feature)
+01_domains/<domain>/rules/<r>.md      a rule that holds in it (type: rule)
+02_repositories/<repo>/index.md       where a repo lives, where is what (type: repository)
+03_resources/<slug>/index.md          a document / online resource (type: resource)
+03_resources/<slug>/<topic>.md        a topic distilled from it    (type: resource)
+01_domains/index.md, 02_repositories/index.md, 03_resources/index.md   hubs
 README.md                          vault hub and model description
 ```
 
@@ -42,7 +42,7 @@ Edges that join the kinds:
 - `part-of` - feature/rule -> domain; topic -> resource.
 
 Every node carries `id`, `title`, `path`, `type`, `domain` (folder under
-`domains/`, else `""`), `status` (`active|draft|deprecated`), `tags`,
+`01_domains/`, else `""`), `status` (`active|draft|deprecated`), `tags`,
 `last_reviewed`.
 
 ## MCP tools

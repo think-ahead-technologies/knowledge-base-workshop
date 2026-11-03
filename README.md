@@ -27,13 +27,14 @@ writing notes.
 ## Layout
 
 ```
-domains/<domain>/index.md            the domain (type: domain)
-domains/<domain>/features/<f>.md     a feature of the domain (type: feature)
-domains/<domain>/rules/<r>.md        a rule of the domain (type: rule)
-repositories/<repo>/index.md         a code repository (type: repository)
-resources/<slug>/index.md            a resource (type: resource)
-resources/<slug>/<topic>.md          a topic distilled from it (type: resource)
-resources/<slug>/raw/                untouched original bytes (not in the graph)
+01_domains/<domain>/index.md            the domain (type: domain)
+01_domains/<domain>/features/<f>.md     a feature of the domain (type: feature)
+01_domains/<domain>/rules/<r>.md        a rule of the domain (type: rule)
+02_repositories/<repo>/index.md         a code repository (type: repository)
+03_resources/<slug>/index.md            a resource (type: resource)
+03_resources/<slug>/<topic>.md          a topic distilled from it (type: resource)
+03_resources/<slug>/raw/                untouched original bytes (not in the graph)
+04_archive/<...>                        retired notes, moved whole (keep their type and id)
 index/          generated graph (index/graph.json)
 scripts/        graph generator, link inventory, MCP server, git hook
 agents/         subagent definitions, symlinked into .claude/agents/
@@ -43,8 +44,9 @@ tests/          unit tests for the tooling
 
 The folder decides a note's kind. `type` in the frontmatter is optional; when
 given it must match the folder, and `make validate-graph` fails otherwise. Only
-`domains/`, `repositories/`, `resources/` and root-level `*.md` files are in the
-graph.
+`01_domains/`, `02_repositories/`, `03_resources/`, `04_archive/` and
+root-level `*.md` files are in the graph. Notes in `04_archive/` keep the
+`type` they declare.
 
 ## How the kinds connect
 

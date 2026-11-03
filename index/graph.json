@@ -1,11 +1,30 @@
 {
   "version": 1,
-  "generated_at": "2026-11-03T08:13:05.305010+00:00",
+  "generated_at": "2026-11-03T08:28:09.298039+00:00",
   "nodes": [
+    {
+      "id": "archive/index",
+      "title": "Archive Hub",
+      "path": "04_archive/index.md",
+      "domain": "",
+      "type": "hub",
+      "status": "active",
+      "tags": [
+        "archive",
+        "hub"
+      ],
+      "last_reviewed": "2026-11-03",
+      "outbound_links": [
+        "domain/index",
+        "repository/index",
+        "resource/index"
+      ],
+      "inbound_count": 0
+    },
     {
       "id": "domain/index",
       "title": "Domains Hub",
-      "path": "domains/index.md",
+      "path": "01_domains/index.md",
       "domain": "",
       "type": "hub",
       "status": "active",
@@ -18,7 +37,7 @@
         "repository/index",
         "resource/index"
       ],
-      "inbound_count": 3
+      "inbound_count": 4
     },
     {
       "id": "knowledge-base/home",
@@ -60,7 +79,7 @@
     {
       "id": "repository/index",
       "title": "Repositories Hub",
-      "path": "repositories/index.md",
+      "path": "02_repositories/index.md",
       "domain": "",
       "type": "hub",
       "status": "active",
@@ -73,12 +92,12 @@
         "domain/index",
         "resource/index"
       ],
-      "inbound_count": 3
+      "inbound_count": 4
     },
     {
       "id": "resource/index",
       "title": "Resources Hub",
-      "path": "resources/index.md",
+      "path": "03_resources/index.md",
       "domain": "",
       "type": "hub",
       "status": "active",
@@ -91,10 +110,37 @@
         "domain/index",
         "repository/index"
       ],
-      "inbound_count": 3
+      "inbound_count": 4
     }
   ],
   "edges": [
+    {
+      "from": "archive/index",
+      "to": "domain/index",
+      "kind": "markdown_link",
+      "type": "related",
+      "anchor_text": "Domains Hub",
+      "annotation": "Active working domains",
+      "weight": 1.0
+    },
+    {
+      "from": "archive/index",
+      "to": "repository/index",
+      "kind": "markdown_link",
+      "type": "related",
+      "anchor_text": "Repositories Hub",
+      "annotation": "Active code repositories",
+      "weight": 1.0
+    },
+    {
+      "from": "archive/index",
+      "to": "resource/index",
+      "kind": "markdown_link",
+      "type": "related",
+      "anchor_text": "Resources Hub",
+      "annotation": "Active resources",
+      "weight": 1.0
+    },
     {
       "from": "domain/index",
       "to": "repository/index",

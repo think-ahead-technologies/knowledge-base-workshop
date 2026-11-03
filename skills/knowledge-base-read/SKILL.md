@@ -7,11 +7,11 @@ description: Read and query the knowledge-base vault - a docs-as-code knowledge 
 
 The vault is a docs-as-code knowledge graph with three kinds of knowledge:
 
-- **Domains** - `domains/<domain>/index.md` describes the working domain,
+- **Domains** - `01_domains/<domain>/index.md` describes the working domain,
   `features/<feature>.md` its features, `rules/<rule>.md` the rules that hold.
-- **Repositories** - `repositories/<repo>/index.md`: where the repository lives
+- **Repositories** - `02_repositories/<repo>/index.md`: where the repository lives
   and where to find what inside it.
-- **Resources** - `resources/<slug>/`: static documents and online material that
+- **Resources** - `03_resources/<slug>/`: static documents and online material that
   give the domains context. Originals stay in `raw/`.
 
 Domains link to repositories with `implemented-in` and to resources with
@@ -25,38 +25,40 @@ do not modify notes.
 ## Layout
 
 ```
-domains/index.md                     hub: list of domains
-domains/<domain>/index.md            the domain             (type: domain)
-domains/<domain>/features/<f>.md     a feature              (type: feature)
-domains/<domain>/rules/<r>.md        a rule                 (type: rule)
-repositories/index.md                hub: list of repositories
-repositories/<repo>/index.md         a repository           (type: repository)
-resources/index.md                   hub: list of resources
-resources/<slug>/index.md            a resource             (type: resource)
-resources/<slug>/<topic>.md          a topic of a resource  (type: resource)
-resources/<slug>/raw/                untouched originals (not in the graph)
+01_domains/index.md                     hub: list of domains
+01_domains/<domain>/index.md            the domain             (type: domain)
+01_domains/<domain>/features/<f>.md     a feature              (type: feature)
+01_domains/<domain>/rules/<r>.md        a rule                 (type: rule)
+02_repositories/index.md                hub: list of repositories
+02_repositories/<repo>/index.md         a repository           (type: repository)
+03_resources/index.md                   hub: list of resources
+03_resources/<slug>/index.md            a resource             (type: resource)
+03_resources/<slug>/<topic>.md          a topic of a resource  (type: resource)
+03_resources/<slug>/raw/                untouched originals (not in the graph)
+04_archive/index.md                     hub: retired notes
+04_archive/<...>                        retired notes, any kind (keep type and id)
 index/graph.json                     generated graph (nodes + edges)
 README.md                            vault hub; AGENT_QUERY_GUIDE.md: graph schema + queries
 ```
 
 Every graph node has `id`, `title`, `path`, `type`
 (`hub|meta|domain|feature|rule|repository|resource`, implied by the folder),
-`domain` (folder name under `domains/`, else `""`), `status`
+`domain` (folder name under `01_domains/`, else `""`), `status`
 (`active|draft|deprecated`), `tags`, `last_reviewed`. Links are typed markdown
 links `[text](note-id){"type":"…","link-info":"…"}` resolved by `id`.
 
 ## 1. Orient
 
 - `README.md` - the model and the hubs.
-- `domains/index.md`, `repositories/index.md`, `resources/index.md` - what exists.
+- `01_domains/index.md`, `02_repositories/index.md`, `03_resources/index.md` - what exists.
 
 Classify the question:
 
 | Question is about           | Start at                                    |
 |-----------------------------|---------------------------------------------|
-| a domain / a feature / a rule | `domains/<domain>/index.md`, then its `features/` and `rules/` |
-| where code lives / where X is in a repo | `repositories/<repo>/index.md`; or the domain note's `implemented-in` links |
-| background, specs, standards | `resources/<slug>/index.md`; or a domain note's `context` links |
+| a domain / a feature / a rule | `01_domains/<domain>/index.md`, then its `features/` and `rules/` |
+| where code lives / where X is in a repo | `02_repositories/<repo>/index.md`; or the domain note's `implemented-in` links |
+| background, specs, standards | `03_resources/<slug>/index.md`; or a domain note's `context` links |
 
 If the domain or repository has no node, say it is not documented yet.
 
@@ -90,7 +92,7 @@ jq -r '.nodes[] | select(.tags[]? == "invoices") | "\(.id)\t\(.path)"' index/gra
 Full-text fallback when you do not know the tag, domain or id:
 
 ```bash
-grep -rIl "<term>" domains repositories resources
+grep -rIl "<term>" 01_domains 02_repositories 03_resources 04_archive
 ```
 
 ## 3. Read the notes and follow the links

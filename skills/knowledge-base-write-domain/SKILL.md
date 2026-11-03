@@ -1,6 +1,6 @@
 ---
 name: knowledge-base-write-domain
-description: Write or update domain knowledge in the knowledge-base vault - a working domain (domains/<domain>/index.md), a feature description inside it (features/<feature>.md), or a rule that holds in it (rules/<rule>.md) - and link it to the repositories that implement it (`implemented-in`) and the resources that give it context (`context`), each with the reason. Use when the user says "document this domain / feature / rule", "add a rule", "record how feature X works", or when new domain knowledge turns up while working.
+description: Write or update domain knowledge in the knowledge-base vault - a working domain (01_domains/<domain>/index.md), a feature description inside it (features/<feature>.md), or a rule that holds in it (rules/<rule>.md) - and link it to the repositories that implement it (`implemented-in`) and the resources that give it context (`context`), each with the reason. Use when the user says "document this domain / feature / rule", "add a rule", "record how feature X works", or when new domain knowledge turns up while working.
 ---
 
 # Write Domain Knowledge
@@ -19,7 +19,7 @@ Obey `AGENTS.md` (read it if not loaded this session). Write only what the
 sources (the user, the code, a resource) say - never invent behavior or rules.
 
 ```
-domains/<domain>/
+01_domains/<domain>/
   index.md              the domain           id: domain/<domain>
   features/<f>.md       a feature            id: feature/<domain>/<f>
   rules/<r>.md          a rule               id: rule/<domain>/<r>
@@ -41,7 +41,7 @@ Or `graph_search_nodes(type="domain")` on the `knowledge-database` MCP server.
 - It does not exist: create it (step 2). Pick a short kebab-case name; check
   with the user if the domain boundary is unclear.
 
-## 2. Domain note - `domains/<domain>/index.md`
+## 2. Domain note - `01_domains/<domain>/index.md`
 
 ```md
 ---
@@ -76,11 +76,11 @@ last_reviewed: <today, YYYY-MM-DD>
 - [<Resource>](resource/<slug>){"type":"context","link-info":"<why the domain needs it>"}
 ```
 
-List the new domain in `domains/index.md` under `## Domains` (replace the
+List the new domain in `01_domains/index.md` under `## Domains` (replace the
 `// no document, yet` line if present):
 `- [<Domain Title>](domain/<domain>){"type":"related","link-info":"<one line>"}`
 
-## 3. Feature note - `domains/<domain>/features/<f>.md`
+## 3. Feature note - `01_domains/<domain>/features/<f>.md`
 
 ```md
 ---
@@ -113,7 +113,7 @@ Part of [<Domain Title>](domain/<domain>){"type":"part-of","link-info":"<role in
 
 Add the feature to the domain note's `## Features`.
 
-## 4. Rule note - `domains/<domain>/rules/<r>.md`
+## 4. Rule note - `01_domains/<domain>/rules/<r>.md`
 
 A rule is one statement that must always hold in the domain (an invariant, a
 constraint, a policy). One rule per note; name it after what it demands
@@ -179,8 +179,8 @@ Fix every reported problem and re-run until clean.
 Stage each touched path individually - never `git add -A` / `git add .`:
 
 ```bash
-git add domains/<domain>/
-git add domains/index.md
+git add 01_domains/<domain>/
+git add 01_domains/index.md
 git add index/graph.json
 ```
 

@@ -9,10 +9,10 @@ last_reviewed: 2026-11-03
 
 # Domains Hub
 
-Working domains, one folder each under `domains/<domain>/`:
+Working domains, one folder each under `01_domains/<domain>/`:
 
 ```
-domains/<domain>/
+01_domains/<domain>/
   index.md              the domain: purpose, scope, vocabulary, repos, context
   features/<feature>.md one note per feature the domain provides
   rules/<rule>.md       one note per rule that holds in the domain

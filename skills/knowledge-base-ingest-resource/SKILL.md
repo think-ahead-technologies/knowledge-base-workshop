@@ -1,6 +1,6 @@
 ---
 name: knowledge-base-ingest-resource
-description: Ingest a resource (local file, URL/webpage, PDF, YouTube video, etc.) into the knowledge-base vault so it can feed domains with context. Copies the original into resources/<slug>/raw/, reads it, breaks it into topics, and wires it to the domains, features and rules that need it with `context` links that say why. For YouTube, pulls the transcript into raw/. Use when the user says "ingest", "add this resource", "save this link/video/paper/spec", or hands you a file/URL to capture and link.
+description: Ingest a resource (local file, URL/webpage, PDF, YouTube video, etc.) into the knowledge-base vault so it can feed domains with context. Copies the original into 03_resources/<slug>/raw/, reads it, breaks it into topics, and wires it to the domains, features and rules that need it with `context` links that say why. For YouTube, pulls the transcript into raw/. Use when the user says "ingest", "add this resource", "save this link/video/paper/spec", or hands you a file/URL to capture and link.
 ---
 
 # Ingest a Resource
@@ -15,14 +15,14 @@ Obey `AGENTS.md` (read it if not already loaded this session).
 The output is:
 
 ```
-resources/<slug>/
+03_resources/<slug>/
   index.md          the resource note (summary, source, topics, who needs it)
   <topic>.md        one note per topic worth recalling
   raw/              original bytes / transcript / fetched page (not in the graph)
 ```
 
 plus `context` links into it from the domain notes that need it. All notes in
-`resources/` are `type: resource` (the folder implies it; you may omit `type`).
+`03_resources/` are `type: resource` (the folder implies it; you may omit `type`).
 
 ## 1. Identify the resource and its type
 
@@ -46,8 +46,8 @@ Pick a short kebab-case `<slug>` from the title / filename (e.g.
 `cyclonedx-sbom-spec`, `oauth2-rfc6749`).
 
 ```bash
-ls resources/                      # check the slug is not taken
-mkdir -p resources/<slug>/raw
+ls 03_resources/                      # check the slug is not taken
+mkdir -p 03_resources/<slug>/raw
 ```
 
 If the slug exists, either you are re-ingesting (update in place, tell the user)
@@ -59,34 +59,34 @@ Always preserve the source bytes untouched.
 
 **Local file** - copy verbatim, keep the original name:
 ```bash
-cp "<source-path>" "resources/<slug>/raw/"
+cp "<source-path>" "03_resources/<slug>/raw/"
 ```
 
 **PDF / binary at a URL** - download verbatim:
 ```bash
-curl -fsSL "<url>" -o "resources/<slug>/raw/<filename>"
+curl -fsSL "<url>" -o "03_resources/<slug>/raw/<filename>"
 ```
 
 **Webpage / link** - record the URL, fetch the page with `WebFetch` (request
 markdown) and write the result to `raw/page.md`:
 ```bash
-printf '%s\n' "<url>" > "resources/<slug>/raw/source.url"
+printf '%s\n' "<url>" > "03_resources/<slug>/raw/source.url"
 ```
 
 **YouTube video** - record the URL, then pull the transcript:
 ```bash
-printf '%s\n' "<url>" > "resources/<slug>/raw/source.url"
+printf '%s\n' "<url>" > "03_resources/<slug>/raw/source.url"
 
 # Preferred: yt-dlp grabs subs + metadata without downloading the video
 yt-dlp --skip-download --write-subs --write-auto-subs --sub-lang en \
   --convert-subs srt --write-info-json \
-  -o "resources/<slug>/raw/%(title)s.%(ext)s" "<url>"
+  -o "03_resources/<slug>/raw/%(title)s.%(ext)s" "<url>"
 
 # Fallback if yt-dlp is absent: python transcript API
 python3 -c "import youtube_transcript_api" 2>/dev/null && \
   python3 -c "from youtube_transcript_api import YouTubeTranscriptApi as A; \
 vid='<VIDEO_ID>'; \
-open('resources/<slug>/raw/transcript.txt','w').write(\
+open('03_resources/<slug>/raw/transcript.txt','w').write(\
 '\n'.join(s['text'] for s in A.get_transcript(vid)))"
 ```
 If neither tool is installed, tell the user which to install (`pip install yt-dlp`
@@ -106,7 +106,7 @@ context to:
 ```bash
 jq -r '.nodes[] | select(.type=="domain" or .type=="feature" or .type=="rule")
   | "\(.type)\t\(.id)\t\(.title)"' index/graph.json
-grep -rIl "<term>" domains
+grep -rIl "<term>" 01_domains
 ```
 
 Prefer the `knowledge-database` MCP server when available
@@ -131,7 +131,7 @@ jq -r --arg q "<topic>" '.nodes[] | select(.type=="resource")
 
 ## 6. Write a note per new topic
 
-`resources/<slug>/<topic>.md`:
+`03_resources/<slug>/<topic>.md`:
 
 ```md
 ---
@@ -160,7 +160,7 @@ One topic = one file. Skip trivia.
 
 ## 7. Write the resource note
 
-`resources/<slug>/index.md`:
+`03_resources/<slug>/index.md`:
 
 ```md
 ---
@@ -181,7 +181,7 @@ last_reviewed: <today, YYYY-MM-DD>
 ## Source
 - Type: <local file | webpage | youtube | pdf | ...>
 - Origin: <url or original path>
-- Raw: `resources/<slug>/raw/`
+- Raw: `03_resources/<slug>/raw/`
 
 ## Topics
 - [<Topic>](resource/<slug>/<topic>){"type":"related","link-info":"<one line>"}
@@ -209,7 +209,7 @@ Point at a topic note instead (`resource/<slug>/<topic>`) when only that topic
 matters. The `link-info` is required - `make graph` fails without it. Use
 individual edits; change nothing else in the consumer notes.
 
-Then list the resource in `resources/index.md` under `## Resources`, replacing
+Then list the resource in `03_resources/index.md` under `## Resources`, replacing
 the `// no document, yet` line if present:
 
 ```md
@@ -232,8 +232,8 @@ stale or invalid graph.
 NEVER use `git add -A` or `git add .`. Stage each touched path:
 
 ```bash
-git add resources/<slug>/
-git add resources/index.md
+git add 03_resources/<slug>/
+git add 03_resources/index.md
 git add <each-consumer-note-you-linked>.md
 git add index/graph.json
 ```

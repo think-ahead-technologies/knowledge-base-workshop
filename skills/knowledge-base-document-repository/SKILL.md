@@ -1,6 +1,6 @@
 ---
 name: knowledge-base-document-repository
-description: Document a code repository in the knowledge-base vault (repositories/<repo>/index.md) - where it lives (remote URL, default branch, local checkout), what it is for, its layout and where to find what, how to build/test/run it - and link the domains, features and rules it implements with `implemented-in`. Use when the user says "document this repo", "add repo X to the knowledge base", or when a domain note needs an implementation link to a repository the vault does not know yet.
+description: Document a code repository in the knowledge-base vault (02_repositories/<repo>/index.md) - where it lives (remote URL, default branch, local checkout), what it is for, its layout and where to find what, how to build/test/run it - and link the domains, features and rules it implements with `implemented-in`. Use when the user says "document this repo", "add repo X to the knowledge base", or when a domain note needs an implementation link to a repository the vault does not know yet.
 ---
 
 # Document a Repository
@@ -14,10 +14,10 @@ Obey `AGENTS.md` (read it if not loaded this session). Write only what you
 verified in the repository or what the user told you.
 
 ```
-repositories/<repo>/index.md     id: repository/<repo>   (type: repository)
+02_repositories/<repo>/index.md     id: repository/<repo>   (type: repository)
 ```
 
-Extra notes for a large repository (e.g. `repositories/<repo>/layout.md`) are
+Extra notes for a large repository (e.g. `02_repositories/<repo>/layout.md`) are
 allowed; they are `type: repository` too and link to `index.md` with `part-of`.
 
 ## 1. Check the vault
@@ -56,7 +56,7 @@ Match the repository's modules to domains, features and rules. For each match,
 note the part of the repository that implements it - that becomes the
 `implemented-in` link-info on the domain side.
 
-## 4. Write `repositories/<repo>/index.md`
+## 4. Write `02_repositories/<repo>/index.md`
 
 ```md
 ---
@@ -102,7 +102,7 @@ last_reviewed: <today, YYYY-MM-DD>
 readable from both ends. Write `None yet.` if no domain note exists. Do not
 leave a section empty; write `None.` if it truly has nothing.
 
-List the repository in `repositories/index.md` under `## Repositories`
+List the repository in `02_repositories/index.md` under `## Repositories`
 (replace the `// no document, yet` line if present):
 `- [<repo>](repository/<repo>){"type":"related","link-info":"<purpose in one line>"}`
 
@@ -131,8 +131,8 @@ Fix every reported problem and re-run until clean.
 Stage each touched path individually - never `git add -A` / `git add .`:
 
 ```bash
-git add repositories/<repo>/
-git add repositories/index.md
+git add 02_repositories/<repo>/
+git add 02_repositories/index.md
 git add <each-domain-note-you-linked>.md
 git add index/graph.json
 ```

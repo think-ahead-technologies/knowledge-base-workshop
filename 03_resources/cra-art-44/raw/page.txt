@@ -1,0 +1,82 @@
+EU CRA Artikel 44 — Kennnummern und Verzeichnisse notifizierter Stellen
+Die ersten Pflichten des EU Cyber Resilience Act für Hersteller gelten seit dem 11. September 2026.Erste Pflichten seit September 2026Was jetzt zu tun ist
+Plattform
+Lösungen
+Ressourcen
+Unternehmen
+Wissensdatenbank
+
+DE
+EinloggenDemo anfordernToggle menu
+
+WissensdatenbankArtikelArtikel 44Kapitel IV - NOTIFIZIERUNG VON KONFORMITÄTSBEWERTUNGSSTELLEN
+44Artikel 44
+Kennnummern und Verzeichnisse notifizierter Stellen
+
+Verordnung (EU) 2024/2847 — veröffentlicht 10. Dezember 2024 · Letzte Prüfung durch Kunnus: März 2026
+(1)Die Kommission weist jeder notifizierten Stelle eine Kennnummer zu. Selbst wenn eine Stelle gemäß mehreren Rechtsakten der Union notifiziert ist, erhält sie nur eine einzige Kennnummer.
+
+(2)Die Kommission veröffentlicht das Verzeichnis der nach dieser Verordnung notifizierten Stellen samt den ihnen zugewiesenen Kennnummern und den Tätigkeiten, für die sie notifiziert wurden. Die Kommission sorgt dafür, dass dieses Verzeichnis stets auf dem neuesten Stand gehalten wird.
+
+Vorheriger Artikel
+Artikel 43Artikel 43 - Notifizierungsverfahren
+
+Nächster Artikel
+Artikel 45Artikel 45 - Änderungen der Notifizierungen
+
+CRA-Updates per E-Mail
+Fristen, Guidance und Mythos-Faktenchecks zum EU Cyber Resilience Act, kompakt im Newsletter.
+
+Newsletter ansehen
+
+Dieser Text wurde aus der Verordnung (EU) 2024/2847 des Europäischen Parlaments und des Rates vom 23. Oktober 2024 übernommen. Die Darstellung dient ausschließlich Informationszwecken und stellt keine Rechtsberatung dar. Maßgeblich ist allein der im Amtsblatt der Europäischen Union veröffentlichte Wortlaut. Originaltext auf EUR-Lex
+
+Kunnus ist ein Produkt und Marke von Think Ahead.
+
+Plattform
+Alle Funktionen
+Multi-Produkt-Plattform
+CRA-Abdeckung
+Walkthrough
+SBOM-Scanner
+Scanner-Doku
+Roadmap
+Demo anfordern
+
+Lösungen
+Startups
+KMU
+Enterprise
+Anwendungsfälle
+
+Branchen
+Industriemaschinen
+IoT & Konsumgüter
+Energie & Gebäudetechnik
+Industriekomponenten
+Smart Farming
+Telekommunikation
+Software & SaaS
+Embedded Systems
+Smart Home & Consumer
+
+Ressourcen
+Wissensdatenbank
+CRA Leitfaden
+SECURE-Förderung
+Blog
+Events
+CRA & Schweiz
+Newsletter
+
+Unternehmen
+Über uns
+Team
+Methodik
+Partnerprogramm
+Karriere
+Impressum
+GitHub
+
+© 2026 Think Ahead Technologies GmbH. All rights reserved.
+DatenschutzCookiesSicherheitImpressum

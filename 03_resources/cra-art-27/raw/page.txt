@@ -1,0 +1,93 @@
+EU CRA Artikel 27 — Konformitätsvermutung
+Die ersten Pflichten des EU Cyber Resilience Act für Hersteller gelten seit dem 11. September 2026.Erste Pflichten seit September 2026Was jetzt zu tun ist
+Plattform
+Lösungen
+Ressourcen
+Unternehmen
+Wissensdatenbank
+DE
+EinloggenDemo anfordernToggle menu
+WissensdatenbankArtikelArtikel 27Kapitel III - KONFORMITÄT DES PRODUKTS MIT DIGITALEN ELEMENTEN
+27Artikel 27
+Konformitätsvermutung
+Verordnung (EU) 2024/2847 — veröffentlicht 10. Dezember 2024 · Letzte Prüfung durch Kunnus: März 2026
+(1)Bei Produkten mit digitalen Elementen und vom Hersteller festgelegten Verfahren, die mit harmonisierten Normen oder Teilen davon übereinstimmen, deren Fundstellen im Amtsblatt der Europäischen Union veröffentlicht worden sind, wird eine Konformität mit den grundlegenden Cybersicherheitsanforderungen in Anhang I vermutet, soweit diese Anforderungen von den betreffenden Normen oder Teilen davon abgedeckt sind. Die Kommission fordert gemäß Artikel 10 Absatz 1 der Verordnung (EU) Nr. 1025/2012 eine oder mehrere europäische Normungsorganisationen auf, harmonisierte Normen für die in Anhang I dieser Verordnung aufgeführten grundlegenden Cybersicherheitsanforderungen auszuarbeiten. Bei der Ausarbeitung von Normungsanträgen für diese Verordnung bemüht sich die Kommission, bestehende europäische und internationale Normen für Cybersicherheit zu berücksichtigen, die in Kraft sind oder gerade entwickelt werden, um die Entwicklung harmonisierter Normen im Einklang mit der Verordnung (EU) Nr. 1025/2012 zu vereinfachen.
+(2)Die Kommission kann Durchführungsrechtsakte annehmen, durch die gemeinsame Spezifikationen zu technischen Anforderungen festgelegt werden, deren Befolgung es ermöglicht, die in Anhang I festgelegten grundlegenden Cybersicherheitsanforderungen an Produkte mit digitalen Elementen im Anwendungsbereich dieser Verordnung zu erfüllen. Diese Durchführungsrechtsakte dürfen nur erlassen werden, wenn die folgenden Bedingungen erfüllt sind:
+a)die Kommission hat gemäß Artikel 10 Absatz 1 der Verordnung (EU) Nr. 1025/2012 eine oder mehrere europäische Normungsorganisationen aufgefordert, eine harmonisierte Norm für die in Anhang I aufgeführten grundlegenden Cybersicherheitsanforderungen zu erarbeiten, und:
+i)der Auftrag wurde nicht angenommen, ii) die harmonisierten Normen, die dieser Antrag betrifft, werden nicht im Rahmen der in Übereinstimmung mit Artikel 10 Absatz 1 der Verordnung (EU) Nr. 1025/2012 gesetzten Frist geliefert, oder iii) die harmonisierten Normen entsprechen nicht dem Auftrag, und
+b)im Amtsblatt der Europäischen Union wurde kein Verweis im Einklang mit der Verordnung (EU) Nr. 1025/2012 auf harmonisierte Normen, die den einschlägigen grundlegenden Cybersicherheitsanforderungen nach Anhang I der vorliegenden Verordnung genügen, veröffentlicht, und es ist nicht zu erwarten, dass ein solcher Verweis innerhalb eines angemessenen Zeitraums veröffentlicht wird. Diese Durchführungsrechtsakte werden gemäß dem in Artikel 62 Absatz 2 genannten Prüfverfahren erlassen.
+(3)Vor der Ausarbeitung eines Entwurfs des in Absatz 2 des vorliegenden Artikels genannten Durchführungsrechtsakts teilt die Kommission dem in Artikel 22 der Verordnung (EU) Nr. 1025/2012 genannten Ausschuss mit, dass sie die Bedingungen nach Absatz 2 des vorliegenden Artikels als erfüllt erachtet.
+(4)Bei der Ausarbeitung eines Entwurfs des in Absatz 2 genannten Durchführungsrechtsakt berücksichtigt die Kommission die Standpunkte der einschlägigen Gremien und konsultiert alle einschlägigen Interessenträger ordnungsgemäß.
+(5)Bei Produkten mit digitalen Elementen und vom Hersteller festgelegten Verfahren, die mit den gemeinsamen Spezifikationen übereinstimmen, die durch den in Absatz 2 dieses Artikels genannten Durchführungsrechtsakt festgelegt wurden, wird eine Konformität mit den grundlegenden Cybersicherheitsanforderungen in Anhang I vermutet, soweit die gemeinsamen Spezifikationen oder Teile davon diese Anforderungen abdecken.
+(6)Wird eine harmonisierte Norm von einer europäischen Normungsorganisation angenommen und der Kommission zur Veröffentlichung ihrer Fundstelle im Amtsblatt der Europäischen Union vorgeschlagen, so bewertet die Kommission diese harmonisierte Norm gemäß der Verordnung (EU) Nr. 1025/2012. Wenn eine Fundstelle einer harmonisierten Norm im Amtsblatt der Europäischen Union der Europäischen Union veröffentlicht wird, hebt die Kommission die in Absatz 2 des vorliegenden Artikels genannten Durchführungsrechtsakte oder Teile davon auf, die dieselben grundlegenden Cybersicherheitsanforderungen wie die harmonisierte Norm regeln.
+(7)Ist ein Mitgliedstaat der Auffassung, dass eine gemeinsame Spezifikation den grundlegenden Cybersicherheitsanforderungen nach Anhang I nicht vollständig entspricht, so setzt er die Kommission mittels einer ausführlichen Erläuterung davon in Kenntnis. Die Kommission bewertet die ausführliche Erläuterung und kann gegebenenfalls den Durchführungsrechtsakt, durch den die betreffende gemeinsame Spezifikation festgelegt wurde, ändern.
+(8)Bei Produkten mit digitalen Elementen und vom Hersteller festgelegten Verfahren, für die eine EU-Konformitätserklärung oder ein Cybersicherheitszertifikat im Rahmen eines gemäß der Verordnung (EU) 2019/881 angenommenen europäischen Schemas für die Cybersicherheitszertifizierung ausgestellt wurde, wird eine Konformität mit den grundlegenden Cybersicherheitsanforderungen in Anhang I vermutet, sofern die EU-Konformitätserklärung oder das europäische Cybersicherheitszertifikat oder Teile davon diese Anforderungen abdecken.
+(9)Der Kommission wird die Befugnis übertragen, delegierte Rechtsakte gemäß Artikel 61 zu erlassen, um diese Verordnung durch die Ausweisung der gemäß der Verordnung (EU) 2019/881 angenommenen europäischen Schemata für die Cybersicherheitszertifizierung zu ergänzen, die zum Nachweis der Konformität von Produkten mit digitalen Elementen mit den grundlegenden Cybersicherheitsanforderungen in Anhang I oder Teilen davon verwendet werden können. Darüber hinaus wird durch die Ausstellung eines im Rahmen eines solchen Schemas ausgestellten europäischen Cybersicherheitszertifikats mindestens der Vertrauenswürdigkeitsstufe „mittel“ die in Artikel 32 Absatz 2 Buchstaben a und b und Artikel 32 Absatz 3 Buchstaben a und b vorgesehene Pflicht des Herstellers, für die betreffenden Anforderungen eine Konformitätsbewertung durch Dritte durchführen zu lassen, aufgehoben.
+Auslegung der EU-Kommission
+Guidance vom 27. Juli 2026
+Die EU-Kommissions-Guidance vom 27. Juli 2026 enthält offizielle Auslegungshinweise zu dieser Vorschrift. Jeder Abschnitt: Kurzfassung, Kernaussagen und was das konkret für Sie bedeutet.
+Abschnitt 6.3Konformitätsvermutung — nur soweit die Norm reicht+Harmonisierte Normen (sowie gemeinsame Spezifikationen und EU-Cybersicherheitszertifikate) begründen die Konformitätsvermutung nur für die von ihnen abgedeckten Risiken. Zusatzfunktionen außerhalb des Norm-Scopes profitieren nicht — für sie muss der Hersteller die Konformität separat nachweisen. Die Gesamtverantwortung für die Bewertung aller Produktrisiken bleibt beim Hersteller.
+Kernaussagen
+Deckt die Norm alle Risiken der Kernfunktionalität ab und gibt es keine risikoträchtigen Zusatzfunktionen, greift die Vermutung für das ganze Produkt.
+Deckt die Norm nur einen Teil ab, gilt die Vermutung partiell — z. B. für Kernfunktionalität und Disk-Cleaning, nicht aber für eine Anti-Tracking-Funktion (Beispiele 64/65).
+Auch mit angewendeter Norm bleibt die vollständige Risikobewertung nach Art. 13 Abs. 2 Pflicht (Blue Guide, Abschnitt 4.1.2.2).
+Für die Praxis
+Führen Sie eine Abdeckungs-Matrix: Welche Ihrer Produktrisiken deckt die angewendete Norm ab, welche nicht? Die Konformitätsvermutung gilt nur für die abgedeckten Risiken — für die Lücken brauchen Sie eigene Maßnahmen samt Nachweis. Die Norm ersetzt nie die vollständige Risikobewertung nach Art. 13 Abs. 2.
+Abschnitt im Guidance-Überblick
+Alle Guidance-Kapitel im ÜberblickEU-Kommissions-Guidance (C(2026) 5252 final) — Die Guidance gibt die Auslegung der Europäischen Kommission wieder und ist rechtlich nicht bindend. Eine verbindliche Auslegung des EU CRA kann nur der Gerichtshof der Europäischen Union vornehmen.
+Verwandte Erwägungsgründe
+(3)
+93In Bezug auf Kleinstunternehmen und kleine Unternehmen ist es zur Sicherstellung von Verhältnismäßigkeit angezeigt, die Verwaltungskosten zu senken, ohne das Maß an Cybersicherheit von Produkten mit d…
+94Um Innovationen zu fördern und zu schützen, ist es wichtig, dass die Interessen von Herstellern, bei denen es sich um Kleinstunternehmen oder um kleine oder mittlere Unternehmen handelt, insbesondere…
+95Um für eine reibungslose Anwendung dieser Verordnung zu sorgen, sollten die Mitgliedstaaten vor dem Beginn der Anwendung dieser Verordnung möglichst sicherstellen, dass es eine ausreichende Zahl notif…
+Vorheriger Artikel
+Artikel 26Artikel 26 - Leitlinien
+Nächster Artikel
+Artikel 28Artikel 28 - EU-Konformitätserklärung
+CRA-Updates per E-Mail
+Fristen, Guidance und Mythos-Faktenchecks zum EU Cyber Resilience Act, kompakt im Newsletter.
+Newsletter ansehen
+Dieser Text wurde aus der Verordnung (EU) 2024/2847 des Europäischen Parlaments und des Rates vom 23. Oktober 2024 übernommen. Die Darstellung dient ausschließlich Informationszwecken und stellt keine Rechtsberatung dar. Maßgeblich ist allein der im Amtsblatt der Europäischen Union veröffentlichte Wortlaut. Originaltext auf EUR-Lex
+Kunnus ist ein Produkt und Marke von Think Ahead.
+Plattform
+Alle Funktionen
+Multi-Produkt-Plattform
+CRA-Abdeckung
+Walkthrough
+SBOM-Scanner
+Scanner-Doku
+Roadmap
+Demo anfordern
+Lösungen
+Startups
+KMU
+Enterprise
+Anwendungsfälle
+Branchen
+Industriemaschinen
+IoT & Konsumgüter
+Energie & Gebäudetechnik
+Industriekomponenten
+Smart Farming
+Telekommunikation
+Software & SaaS
+Embedded Systems
+Smart Home & Consumer
+Ressourcen
+Wissensdatenbank
+CRA Leitfaden
+SECURE-Förderung
+Blog
+Events
+CRA & Schweiz
+Newsletter
+Unternehmen
+Über uns
+Team
+Methodik
+Partnerprogramm
+Karriere
+Impressum
+GitHub
+© 2026 Think Ahead Technologies GmbH. All rights reserved.
+DatenschutzCookiesSicherheitImpressum

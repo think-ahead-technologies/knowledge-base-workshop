@@ -1,0 +1,69 @@
+EU CRA Artikel 60 — Koordinierte Kontrollen (Sweeps)
+Die ersten Pflichten des EU Cyber Resilience Act für Hersteller gelten seit dem 11. September 2026.Erste Pflichten seit September 2026Was jetzt zu tun ist
+Plattform
+Lösungen
+Ressourcen
+Unternehmen
+Wissensdatenbank
+DE
+EinloggenDemo anfordernToggle menu
+WissensdatenbankArtikelArtikel 60Kapitel V - MARKTÜBERWACHUNG UND DURCHSETZUNG
+60Artikel 60
+Koordinierte Kontrollen (Sweeps)
+Verordnung (EU) 2024/2847 — veröffentlicht 10. Dezember 2024 · Letzte Prüfung durch Kunnus: März 2026
+(1)Die Marktüberwachungsbehörden führen zur Prüfung der Einhaltung dieser Verordnung oder zur Feststellung von Verstößen gegen diese Verordnung gleichzeitige koordinierte Kontrollen („Sweeps“) zu bestimmten Produkten mit digitalen Elementen durch. Diese Sweeps können auch die Inspektion von Produkten mit digitalen Elementen umfassen, die unter einer falschen Identität erworben wurden.
+(2)Sofern die betreffenden Marktüberwachungsbehörden nichts anderes vereinbaren, werden solche Sweeps von der Kommission koordiniert. Der Koordinator des Sweeps veröffentlicht die aggregierten Ergebnisse gegebenenfalls.
+(3)Bestimmt die ENISA in Wahrnehmung ihrer Aufgaben, auch aufgrund der gemäß Artikel 14 Absätze 1 und 3 eingegangenen Meldungen, Kategorien von Produkten mit digitalen Elementen, zu denen Sweeps organisiert werden können, so legt sie dem in Absatz 2 dieses Artikels genannten Koordinator einen Vorschlag für Sweeps zur Prüfung durch die Marktüberwachungsbehörden vor.
+(4)Bei der Durchführung von Sweeps können die beteiligten Marktüberwachungsbehörden die Ermittlungsbefugnisse nach den Artikeln 52 bis 58 und weitere Befugnisse, die ihnen nach nationalem Recht übertragen wurden, nutzen.
+(5)Die Marktüberwachungsbehörden können Kommissionsbeamte und weitere von der Kommission autorisierte Begleitpersonen zur Teilnahme an Sweeps einladen.
+Vorheriger Artikel
+Artikel 59Artikel 59 - Gemeinsame Tätigkeiten der Marktüberwachungsbehörd…
+Nächster Artikel
+Artikel 61Artikel 61 - Ausübung der Befugnisübertragung
+CRA-Updates per E-Mail
+Fristen, Guidance und Mythos-Faktenchecks zum EU Cyber Resilience Act, kompakt im Newsletter.
+Newsletter ansehen
+Dieser Text wurde aus der Verordnung (EU) 2024/2847 des Europäischen Parlaments und des Rates vom 23. Oktober 2024 übernommen. Die Darstellung dient ausschließlich Informationszwecken und stellt keine Rechtsberatung dar. Maßgeblich ist allein der im Amtsblatt der Europäischen Union veröffentlichte Wortlaut. Originaltext auf EUR-Lex
+Kunnus ist ein Produkt und Marke von Think Ahead.
+Plattform
+Alle Funktionen
+Multi-Produkt-Plattform
+CRA-Abdeckung
+Walkthrough
+SBOM-Scanner
+Scanner-Doku
+Roadmap
+Demo anfordern
+Lösungen
+Startups
+KMU
+Enterprise
+Anwendungsfälle
+Branchen
+Industriemaschinen
+IoT & Konsumgüter
+Energie & Gebäudetechnik
+Industriekomponenten
+Smart Farming
+Telekommunikation
+Software & SaaS
+Embedded Systems
+Smart Home & Consumer
+Ressourcen
+Wissensdatenbank
+CRA Leitfaden
+SECURE-Förderung
+Blog
+Events
+CRA & Schweiz
+Newsletter
+Unternehmen
+Über uns
+Team
+Methodik
+Partnerprogramm
+Karriere
+Impressum
+GitHub
+© 2026 Think Ahead Technologies GmbH. All rights reserved.
+DatenschutzCookiesSicherheitImpressum

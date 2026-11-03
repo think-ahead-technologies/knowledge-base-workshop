@@ -1,0 +1,70 @@
+EU CRA Artikel 37 — Anforderungen an notifizierende Behörden
+Die ersten Pflichten des EU Cyber Resilience Act für Hersteller gelten seit dem 11. September 2026.Erste Pflichten seit September 2026Was jetzt zu tun ist
+Plattform
+Lösungen
+Ressourcen
+Unternehmen
+Wissensdatenbank
+DE
+EinloggenDemo anfordernToggle menu
+WissensdatenbankArtikelArtikel 37Kapitel IV - NOTIFIZIERUNG VON KONFORMITÄTSBEWERTUNGSSTELLEN
+37Artikel 37
+Anforderungen an notifizierende Behörden
+Verordnung (EU) 2024/2847 — veröffentlicht 10. Dezember 2024 · Letzte Prüfung durch Kunnus: März 2026
+(1)Notifizierende Behörden werden so eingerichtet, dass es zu keinerlei Interessenkonflikt mit den Konformitätsbewertungsstellen kommt.
+(2)Notifizierende Behörden gewährleisten durch ihre Organisation und Arbeitsweise, dass bei der Ausübung ihrer Tätigkeit Objektivität und Unparteilichkeit gewahrt sind.
+(3)Notifizierende Behörden werden so strukturiert, dass jede Entscheidung über die Notifizierung einer Konformitätsbewertungsstelle von kompetenten Personen getroffen wird, die nicht mit den Personen identisch sind, welche die Bewertung durchgeführt haben.
+(4)Notifizierende Behörden dürfen weder Tätigkeiten, die Konformitätsbewertungsstellen durchführen, noch Beratungsleistungen auf einer gewerblichen oder wettbewerblichen Basis anbieten oder erbringen.
+(5)Notifizierende Behörden gewährleisten die Vertraulichkeit der von ihnen erlangten Informationen.
+(6)Einer notifizierenden Behörde stehen kompetente Mitarbeiter in ausreichender Zahl zur Verfügung, sodass sie ihre Aufgaben ordnungsgemäß wahrnehmen kann.
+Vorheriger Artikel
+Artikel 36Artikel 36 - Notifizierende Behörden
+Nächster Artikel
+Artikel 38Artikel 38 - Informationspflichten der notifizierenden Behörden
+CRA-Updates per E-Mail
+Fristen, Guidance und Mythos-Faktenchecks zum EU Cyber Resilience Act, kompakt im Newsletter.
+Newsletter ansehen
+Dieser Text wurde aus der Verordnung (EU) 2024/2847 des Europäischen Parlaments und des Rates vom 23. Oktober 2024 übernommen. Die Darstellung dient ausschließlich Informationszwecken und stellt keine Rechtsberatung dar. Maßgeblich ist allein der im Amtsblatt der Europäischen Union veröffentlichte Wortlaut. Originaltext auf EUR-Lex
+Kunnus ist ein Produkt und Marke von Think Ahead.
+Plattform
+Alle Funktionen
+Multi-Produkt-Plattform
+CRA-Abdeckung
+Walkthrough
+SBOM-Scanner
+Scanner-Doku
+Roadmap
+Demo anfordern
+Lösungen
+Startups
+KMU
+Enterprise
+Anwendungsfälle
+Branchen
+Industriemaschinen
+IoT & Konsumgüter
+Energie & Gebäudetechnik
+Industriekomponenten
+Smart Farming
+Telekommunikation
+Software & SaaS
+Embedded Systems
+Smart Home & Consumer
+Ressourcen
+Wissensdatenbank
+CRA Leitfaden
+SECURE-Förderung
+Blog
+Events
+CRA & Schweiz
+Newsletter
+Unternehmen
+Über uns
+Team
+Methodik
+Partnerprogramm
+Karriere
+Impressum
+GitHub
+© 2026 Think Ahead Technologies GmbH. All rights reserved.
+DatenschutzCookiesSicherheitImpressum

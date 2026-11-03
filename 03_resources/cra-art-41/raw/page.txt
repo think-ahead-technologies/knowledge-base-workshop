@@ -1,0 +1,86 @@
+EU CRA Artikel 41 — Zweigstellen notifizierter Stellen und Vergabe von Unteraufträgen durch notifizierte Stellen
+Die ersten Pflichten des EU Cyber Resilience Act für Hersteller gelten seit dem 11. September 2026. Erste Pflichten seit September 2026 Was jetzt zu tun ist
+Plattform
+Lösungen
+Ressourcen
+Unternehmen
+Wissensdatenbank
+
+DE
+Einloggen Demo anfordern Toggle menu
+
+Wissensdatenbank Artikel Artikel 41 Kapitel IV - NOTIFIZIERUNG VON KONFORMITÄTSBEWERTUNGSSTELLEN
+41 Artikel 41
+Zweigstellen notifizierter Stellen und Vergabe von Unteraufträgen durch notifizierte Stellen
+
+Verordnung (EU) 2024/2847 — veröffentlicht 10. Dezember 2024 · Letzte Prüfung durch Kunnus: März 2026
+( 1 ) Vergibt eine notifizierte Stelle bestimmte mit der Konformitätsbewertung verbundene Aufgaben an Unterauftragnehmer oder überträgt sie diese einer Zweigstelle, so stellt sie sicher, dass der Unterauftragnehmer oder die Zweigstelle die Anforderungen des Artikels 39 erfüllt, und unterrichtet die notifizierende Behörde hierüber.
+
+( 2 ) Die notifizierten Stellen tragen die volle Verantwortung für die Arbeiten, die von Unterauftragnehmern oder Zweigstellen ausgeführt werden, unabhängig davon, wo diese niedergelassen sind.
+
+( 3 ) Arbeiten dürfen nur mit Zustimmung des Herstellers an einen Unterauftragnehmer vergeben oder einer Zweigstelle übertragen werden.
+
+( 4 ) Die notifizierten Stellen halten für die notifizierende Behörde die einschlägigen Unterlagen über die Bewertung der Qualifikation des Unterauftragnehmers oder der Zweigstelle und die von ihnen gemäß dieser Verordnung ausgeführten Arbeiten bereit.
+
+Vorheriger Artikel
+Artikel 40 Artikel 40 - Vermutung der Konformität von notifizierten Stelle…
+
+Nächster Artikel
+Artikel 42 Artikel 42 - Antrag auf Notifizierung
+
+CRA-Updates per E-Mail
+Fristen, Guidance und Mythos-Faktenchecks zum EU Cyber Resilience Act, kompakt im Newsletter.
+
+Newsletter ansehen
+
+Dieser Text wurde aus der Verordnung (EU) 2024/2847 des Europäischen Parlaments und des Rates vom 23. Oktober 2024 übernommen. Die Darstellung dient ausschließlich Informationszwecken und stellt keine Rechtsberatung dar. Maßgeblich ist allein der im Amtsblatt der Europäischen Union veröffentlichte Wortlaut. Originaltext auf EUR-Lex
+
+Kunnus ist ein Produkt und Marke von Think Ahead .
+
+Plattform
+Alle Funktionen
+Multi-Produkt-Plattform
+CRA-Abdeckung
+Walkthrough
+SBOM-Scanner
+Scanner-Doku
+Roadmap
+Demo anfordern
+
+Lösungen
+Startups
+KMU
+Enterprise
+Anwendungsfälle
+
+Branchen
+Industriemaschinen
+IoT & Konsumgüter
+Energie & Gebäudetechnik
+Industriekomponenten
+Smart Farming
+Telekommunikation
+Software & SaaS
+Embedded Systems
+Smart Home & Consumer
+
+Ressourcen
+Wissensdatenbank
+CRA Leitfaden
+SECURE-Förderung
+Blog
+Events
+CRA & Schweiz
+Newsletter
+
+Unternehmen
+Über uns
+Team
+Methodik
+Partnerprogramm
+Karriere
+Impressum
+GitHub
+
+© 2026 Think Ahead Technologies GmbH. All rights reserved.
+Datenschutz Cookies Sicherheit Impressum

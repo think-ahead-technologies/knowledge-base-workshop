@@ -1,0 +1,86 @@
+EU CRA Artikel 46 — Anfechtung der Kompetenz notifizierter Stellen
+
+Die ersten Pflichten des EU Cyber Resilience Act für Hersteller gelten seit dem 11. September 2026.Erste Pflichten seit September 2026Was jetzt zu tun ist
+
+Plattform
+Lösungen
+Ressourcen
+UnternehmenWissensdatenbank
+
+DEEinloggenDemo anfordernToggle menu
+WissensdatenbankArtikelArtikel 46
+Kapitel IV - NOTIFIZIERUNG VON KONFORMITÄTSBEWERTUNGSSTELLEN
+46
+
+Artikel 46
+Anfechtung der Kompetenz notifizierter Stellen
+Verordnung (EU) 2024/2847 — veröffentlicht 10. Dezember 2024 · Letzte Prüfung durch Kunnus: März 2026
+
+(1)
+Die Kommission untersucht alle Fälle, in denen sie die Kompetenz einer notifizierten Stelle oder die dauerhafte Erfüllung der für die Stelle geltenden Anforderungen und Pflichten durch eine notifizierte Stelle anzweifelt oder ihr Zweifel daran zur Kenntnis gebracht werden.
+(2)
+Der notifizierende Mitgliedstaat erteilt der Kommission auf Verlangen sämtliche Auskünfte über die Grundlage der Notifizierung oder die Erhaltung der Kompetenz der betreffenden Stelle.
+(3)
+Die Kommission stellt sicher, dass alle im Verlauf ihrer Untersuchungen erlangten sensiblen Informationen vertraulich behandelt werden.
+(4)
+Stellt die Kommission fest, dass eine notifizierte Stelle die Voraussetzungen für ihre Notifizierung nicht oder nicht mehr erfüllt, setzt sie den notifizierenden Mitgliedstaat davon in Kenntnis und fordert ihn auf, die erforderlichen Korrekturmaßnahmen zu treffen, einschließlich eines Widerrufs der Notifizierung, sofern dies nötig ist.
+
+Vorheriger Artikel
+Artikel 45Artikel 45 - Änderungen der Notifizierungen
+
+Nächster Artikel
+Artikel 47Artikel 47 - Operative Pflichten der notifizierten Stellen
+
+CRA-Updates per E-Mail
+Fristen, Guidance und Mythos-Faktenchecks zum EU Cyber Resilience Act, kompakt im Newsletter.Newsletter ansehen
+Dieser Text wurde aus der Verordnung (EU) 2024/2847 des Europäischen Parlaments und des Rates vom 23. Oktober 2024 übernommen. Die Darstellung dient ausschließlich Informationszwecken und stellt keine Rechtsberatung dar. Maßgeblich ist allein der im Amtsblatt der Europäischen Union veröffentlichte Wortlaut. Originaltext auf EUR-Lex
+
+Kunnus ist ein Produkt und Marke von Think Ahead.
+
+Plattform
+Alle Funktionen
+Multi-Produkt-Plattform
+CRA-Abdeckung
+Walkthrough
+SBOM-Scanner
+Scanner-Doku
+Roadmap
+Demo anfordern
+
+Lösungen
+Startups
+KMU
+Enterprise
+Anwendungsfälle
+
+Branchen
+Industriemaschinen
+IoT & Konsumgüter
+Energie & Gebäudetechnik
+Industriekomponenten
+Smart Farming
+Telekommunikation
+Software & SaaS
+Embedded Systems
+Smart Home & Consumer
+
+Ressourcen
+Wissensdatenbank
+CRA Leitfaden
+SECURE-Förderung
+Blog
+Events
+CRA & Schweiz
+Newsletter
+
+Unternehmen
+Über uns
+Team
+Methodik
+Partnerprogramm
+Karriere
+Impressum
+GitHub
+
+© 2026 Think Ahead Technologies GmbH. All rights reserved.
+DatenschutzCookiesSicherheitImpressum

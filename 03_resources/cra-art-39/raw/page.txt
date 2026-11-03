@@ -1,0 +1,83 @@
+EU CRA Artikel 39 — Anforderungen an notifizierte Stellen
+Die ersten Pflichten des EU Cyber Resilience Act für Hersteller gelten seit dem 11. September 2026. Erste Pflichten seit September 2026 Was jetzt zu tun ist
+Plattform
+Lösungen
+Ressourcen
+Unternehmen
+Wissensdatenbank
+DE
+Einloggen Demo anfordern Toggle menu
+Wissensdatenbank Artikel Artikel 39 Kapitel IV - NOTIFIZIERUNG VON KONFORMITÄTSBEWERTUNGSSTELLEN
+39 Artikel 39
+Anforderungen an notifizierte Stellen
+Verordnung (EU) 2024/2847 — veröffentlicht 10. Dezember 2024 · Letzte Prüfung durch Kunnus: März 2026
+( 1 ) Konformitätsbewertungsstellen erfüllen für die Zwecke der Notifizierung die Anforderungen der Absätze 2 bis 12.
+( 2 ) Eine Konformitätsbewertungsstelle ist nach nationalem Recht gegründet und ist mit Rechtspersönlichkeit ausgestattet.
+( 3 ) Bei einer Konformitätsbewertungsstelle handelt es sich um einen unabhängigen Dritten, der von der Organisation oder dem Produkt mit digitalen Elementen, die bzw. das bewertet wird, unabhängig ist. Eine Stelle, die einem Wirtschaftsverband oder einem Fachverband angehört und Produkte mit digitalen Elementen bewertet, an deren Konzeption, Entwicklung, Herstellung, Bereitstellung, Montage, Verwendung oder Wartung Unternehmen beteiligt sind, die von diesem Verband vertreten werden, kann als ein solcher unabhängiger Dritter gelten, sofern ihre Unabhängigkeit sowie das Fehlen jedweder Interessenkonflikte nachgewiesen sind.
+( 4 ) Eine Konformitätsbewertungsstelle, ihre oberste Leitungsebene und die für die Erfüllung der Konformitätsbewertungsaufgaben zuständigen Mitarbeiter dürfen nicht Konstrukteur, Entwickler, Hersteller, Lieferant, Einführer, Händler, Installateur, Käufer, Eigentümer, Verwender oder Wartungsbetrieb der zu bewertenden Produkte mit digitalen Elementen oder Bevollmächtigte einer dieser Parteien sein. Dies schließt die Verwendung von bereits einer Konformitätsbewertung unterzogenen Produkten, die für die Tätigkeit der Konformitätsbewertungsstelle erforderlich sind, oder die Verwendung solcher Produkte zum persönlichen Gebrauch nicht aus. Eine Konformitätsbewertungsstelle, ihre oberste Leitungsebene und die für die Erfüllung der Konformitätsbewertungsaufgaben zuständigen Mitarbeiter dürfen weder direkt an Konzeption, Entwicklung, Herstellung, Einfuhr, Vertrieb, Vermarktung, Installation, Verwendung oder Wartung dieser Produkte mit digitalen Elementen, die sie bewerten, beteiligt sein, noch die an diesen Tätigkeiten beteiligten Parteien vertreten. Sie dürfen sich nicht mit Tätigkeiten befassen, die ihre Unabhängigkeit bei der Beurteilung oder ihre Integrität im Zusammenhang mit den Konformitätsbewertungstätigkeiten, für die sie notifiziert sind, beeinträchtigen könnten. Dies gilt besonders für Beratungsdienstleistungen. Die Konformitätsbewertungsstellen stellen sicher, dass Tätigkeiten ihrer Zweigstellen oder Unterauftragnehmer die Vertraulichkeit, Objektivität oder Unparteilichkeit ihrer Konformitätsbewertungstätigkeiten nicht beeinträchtigen.
+( 5 ) Die Konformitätsbewertungsstellen und ihre Mitarbeiter führen die Konformitätsbewertungstätigkeiten mit der größtmöglichen Professionalität und der erforderlichen fachlichen Kompetenz in dem betreffenden Bereich durch; sie dürfen keinerlei Einflussnahme, insbesondere finanzieller Art, ausgesetzt sein, die sich auf ihre Beurteilung oder die Ergebnisse ihrer Konformitätsbewertungsarbeit auswirken könnte; dies gilt speziell für Einflussnahmen durch Personen oder Personengruppen, die ein Interesse am Ergebnis dieser Tätigkeiten haben.
+( 6 ) Eine Konformitätsbewertungsstelle ist in der Lage, alle Konformitätsbewertungsaufgaben zu bewältigen, die ihr nach Anhang VIII zufallen und für die sie notifiziert wurde, gleichgültig, ob diese Aufgaben von der Stelle selbst, in ihrem Auftrag oder unter ihrer Verantwortung ausgeführt werden. Eine Konformitätsbewertungsstelle verfügt jederzeit, für jedes Konformitätsbewertungsverfahren und für jede Art und Kategorie von Produkten mit digitalen Elementen, für die sie notifiziert wurde, über
+a) das erforderliche Personal mit Fachkenntnis und ausreichender einschlägiger Erfahrung, um die bei der Konformitätsbewertung anfallenden Aufgaben zu erfüllen;
+b) Beschreibungen von Verfahren, nach denen die Konformitätsbewertung durchgeführt werden muss, um die Transparenz und die Wiederholbarkeit dieser Verfahren sicherzustellen. Sie verfügt über angemessene Vorgaben und geeignete Verfahren, bei denen zwischen den Aufgaben, die sie als notifizierte Stelle wahrnimmt, und anderen Tätigkeiten unterschieden wird;
+c) Verfahren zur Durchführung von Tätigkeiten unter gebührender Berücksichtigung der Größe eines Unternehmens, der Branche, in der es tätig ist, seiner Struktur, des Grads der Komplexität der jeweiligen Produkttechnologie und des Massenfertigungs- oder Seriencharakters des Fertigungsprozesses. Eine Konformitätsbewertungsstelle verfügt über die erforderlichen Mittel zur angemessenen Erledigung der technischen und administrativen Aufgaben, die mit den Konformitätsbewertungstätigkeiten verbunden sind, und sie hat Zugang zu allen benötigten Ausrüstungen oder Einrichtungen.
+( 7 ) Die Mitarbeiter, die für die Durchführung der Konformitätsbewertungstätigkeiten zuständig sind, müssen über Folgendes verfügen:
+a) eine solide Fach- und Berufsausbildung, die alle Konformitätsbewertungstätigkeiten in dem Bereich umfasst, für den die Konformitätsbewertungsstelle notifiziert wurde;
+b) eine ausreichende Kenntnis der Anforderungen, die mit den durchzuführenden Bewertungen verbunden sind, und die entsprechende Befugnis, solche Bewertungen durchzuführen;
+c) angemessene Kenntnisse und Verständnis der grundlegenden Cybersicherheitsanforderungen gemäß Anhang I , der geltenden harmonisierten Normen und gemeinsamen Spezifikationen und der einschlägigen Harmonisierungsrechtsvorschriften der Union sowie ihrer Durchführungsvorschriften;
+d) die Fähigkeit zur Erstellung von Bescheinigungen, Protokollen und Berichten als Nachweis für durchgeführte Bewertungen.
+( 8 ) Die Unparteilichkeit der Konformitätsbewertungsstellen, ihrer obersten Leitungsebene und ihres bewertenden Personals muss garantiert sein. Die Entlohnung der obersten Leitungsebene und des bewertenden Personals der Konformitätsbewertungsstelle darf sich nicht nach der Anzahl der durchgeführten Bewertungen oder deren Ergebnissen richten.
+( 9 ) Die Konformitätsbewertungsstellen schließen eine Haftpflichtversicherung ab, sofern die Haftpflicht nicht aufgrund der nationalen Rechtsvorschriften ihres Mitgliedstaats übernommen wird oder der Mitgliedstaat selbst unmittelbar für die Konformitätsbewertung verantwortlich ist.
+( 10 ) Informationen, welche die Mitarbeiter einer Konformitätsbewertungsstelle bei der Durchführung ihrer Aufgaben gemäß Anhang VIII oder einer der einschlägigen nationalen Durchführungsvorschriften erhalten, fallen unter die berufliche Schweigepflicht, außer gegenüber den Marktüberwachungsbehörden des Mitgliedstaats, in dem sie ihre Tätigkeiten ausüben. Eigentumsrechte werden geschützt. Die Konformitätsbewertungsstelle verfügt über dokumentierte Verfahren, mit denen die Einhaltung dieses Absatzes sichergestellt wird.
+( 11 ) Die Konformitätsbewertungsstellen wirken an den einschlägigen Normungstätigkeiten und den Tätigkeiten der gemäß Artikel 51 eingerichteten Koordinierungsgruppe notifizierter Stellen mit bzw. sorgen dafür, dass ihr bewertendes Personal darüber informiert ist, und wenden die von dieser Gruppe erarbeiteten Verwaltungsentscheidungen und Dokumente als allgemeine Leitlinie an.
+( 12 ) Die Konformitätsbewertungsstellen üben ihre Tätigkeiten im Einklang mit einer Reihe kohärenter, gerechter, verhältnismäßiger und angemessener Geschäftsbedingungen aus, wobei sie unnötige Belastungen der Wirtschaftsakteure vermeiden und insbesondere in Bezug auf Gebühren die Interessen von Kleinstunternehmen sowie von kleinen und mittleren Unternehmen berücksichtigen.
+Vorheriger Artikel
+Artikel 38 Artikel 38 - Informationspflichten der notifizierenden Behörden
+Nächster Artikel
+Artikel 40 Artikel 40 - Vermutung der Konformität von notifizierten Stelle…
+CRA-Updates per E-Mail
+Fristen, Guidance und Mythos-Faktenchecks zum EU Cyber Resilience Act, kompakt im Newsletter.
+Newsletter ansehen
+Dieser Text wurde aus der Verordnung (EU) 2024/2847 des Europäischen Parlaments und des Rates vom 23. Oktober 2024 übernommen. Die Darstellung dient ausschließlich Informationszwecken und stellt keine Rechtsberatung dar. Maßgeblich ist allein der im Amtsblatt der Europäischen Union veröffentlichte Wortlaut. Originaltext auf EUR-Lex
+Kunnus ist ein Produkt und Marke von Think Ahead .
+Plattform
+Alle Funktionen
+Multi-Produkt-Plattform
+CRA-Abdeckung
+Walkthrough
+SBOM-Scanner
+Scanner-Doku
+Roadmap
+Demo anfordern
+Lösungen
+Startups
+KMU
+Enterprise
+Anwendungsfälle
+Branchen
+Industriemaschinen
+IoT & Konsumgüter
+Energie & Gebäudetechnik
+Industriekomponenten
+Smart Farming
+Telekommunikation
+Software & SaaS
+Embedded Systems
+Smart Home & Consumer
+Ressourcen
+Wissensdatenbank
+CRA Leitfaden
+SECURE-Förderung
+Blog
+Events
+CRA & Schweiz
+Newsletter
+Unternehmen
+Über uns
+Team
+Methodik
+Partnerprogramm
+Karriere
+Impressum
+GitHub
+© 2026 Think Ahead Technologies GmbH. All rights reserved.
+Datenschutz Cookies Sicherheit Impressum

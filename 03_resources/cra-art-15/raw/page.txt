@@ -1,0 +1,186 @@
+EU CRA Artikel 15 — Freiwillige Meldungen
+Die ersten Pflichten des EU Cyber Resilience Act für Hersteller gelten seit dem 11. September 2026.
+Erste Pflichten seit September 2026
+Was jetzt zu tun ist
+Plattform
+Lösungen
+Ressourcen
+Unternehmen
+Wissensdatenbank
+DE
+Einloggen
+Demo anfordern
+Toggle menu
+Wissensdatenbank
+Artikel
+Artikel 15
+Kapitel
+II
+-
+PFLICHTEN DER WIRTSCHAFTSAKTEURE UND BESTIMMUNGEN IN BEZUG AUF FREIE UND QUELLOFFENE SOFTWARE
+15
+Artikel
+15
+Freiwillige Meldungen
+Verordnung (EU) 2024/2847 — veröffentlicht 10. Dezember 2024 · Letzte Prüfung durch Kunnus: März 2026
+Schnellantwort für Hersteller
+Artikel 15 erlaubt freiwillige Meldungen anderer Akteure (Forscher, Importeure, Drittparteien) an die zuständige CSIRT — ohne Haftungsrisiko für den Melder. Eine wichtige Ergänzung zur Pflichtmeldung des Herstellers nach Artikel 14.
+Diese Schnellantwort + FAQ ergänzen den Original-Rechtstext mit praxisorientierter Auslegung. Rechtsverbindlich ist allein der Originaltext.
+(
+1
+)
+Hersteller sowie andere natürliche oder juristische Personen können jede in einem Produkt mit digitalen Elementen enthaltene Schwachstelle sowie Cyberbedrohungen, die sich auf das Risikoprofil eines Produkts mit digitalen Elementen auswirken könnten, freiwillig einem als Koordinator benannten CSIRT oder der ENISA melden.
+(
+2
+)
+Hersteller sowie andere natürliche oder juristische Personen können jeden Sicherheitsvorfall, der sich auf die Sicherheit des Produkts mit digitalen Elementen auswirkt, sowie Beinahe-Vorfälle, die zu einem solchen Sicherheitsvorfall hätten führen können, auf freiwilliger Basis einem als Koordinator benannten CSIRT oder der ENISA melden.
+(
+3
+)
+Das als Koordinator benannte CSIRT oder die ENISA bearbeitet die in den Absätze 1 und 2 genannten Meldungen nach dem in
+Artikel 16
+vorgesehenen Verfahren. Das als Koordinator benannte CSIRT kann verpflichtende Meldungen vorrangig vor freiwilligen Meldungen bearbeiten.
+(
+4
+)
+Meldet eine andere natürliche oder juristische Person als der Hersteller gemäß Absatz 1 oder 2 eine aktiv ausgenutzte Schwachstelle oder einen schwerwiegenden Sicherheitsvorfall mit Auswirkungen auf die Sicherheit eines Produkts mit digitalen Elementen, so unterrichtet das als Koordinator benannte CSIRT den Hersteller unverzüglich.
+(
+5
+)
+Die als Koordinator benannten CSIRTs und die ENISA stellen die Vertraulichkeit und den angemessenen Schutz der von einer meldenden natürlichen oder juristischen Person übermittelten Informationen sicher. Unbeschadet der Verhütung, Ermittlung, Aufdeckung und Verfolgung von Straftaten dürfen die freiwilligen Meldungen nicht dazu führen, dass der meldenden natürlichen oder juristischen Person zusätzliche Pflichten auferlegt werden, die nicht für sie gegolten hätten, wenn sie die Meldung nicht übermittelt hätte.
+Auslegung der EU-Kommission
+Guidance vom 27. Juli 2026
+Die EU-Kommissions-Guidance vom 27. Juli 2026 enthält offizielle Auslegungshinweise zu dieser Vorschrift. Jeder Abschnitt: Kurzfassung, Kernaussagen und was das konkret für Sie bedeutet.
+Abschnitt
+3.3
+Open-Source-Stewards — abgestufte Pflichten
++
+Stewards sind juristische Personen, die FOSS mit kommerzieller Zweckbestimmung nachhaltig unterstützen, ohne es in Verkehr zu bringen (Art. 3 Nr. 14, Art. 24). Die Leitlinien staffeln die Melde-Pflichten nach Art der Unterstützung: rein nicht-technischer Support, Infrastruktur-Hosting oder aktive Engineering-Beiträge.
+Kernaussagen
+Die Rolle gilt pro FOSS-Projekt: Dieselbe Organisation kann für Produkt A Steward und für Produkt B Hersteller sein (z. B. Community- vs. Bezahlversion).
+Nur nicht-technischer Support (Branding, Governance, Events, Donations): keine Meldepflicht für aktiv ausgenutzte Schwachstellen — Informationen aber an die Maintainer weitergeben; freiwillige Meldung nach Art. 15 erwägen.
+Infrastruktur-Steward (Repos, Versionskontrolle, Signing Keys): schwerwiegende Vorfälle mit Auswirkung auf die Produktsicherheit an ENISA/CSIRT melden (Art. 14 Abs. 3), Nutzer ggf. informieren.
+Engineering-Steward (Entwickler, Releases, Vulnerability-Handling): aktiv ausgenutzte Schwachstellen melden (Art. 14 Abs. 1) und Nutzer informieren (Art. 14 Abs. 8).
+Not-for-Profit-Entitäten, deren Erträge satzungsgemäß gemeinnützigen Zwecken dienen, bringen ihre FOSS auch bei Monetarisierung nicht in Verkehr — es gelten Steward-Pflichten (Beispiel 24: Browser mit Suchmaschinen-Partnerschaft).
+Für die Praxis
+Klären Sie pro FOSS-Projekt, welche Art Unterstützung Sie leisten — nur Governance/Branding, Infrastruktur (Repos, Signing Keys) oder aktives Engineering. Daraus folgt direkt, welche Melde- und Informationspflichten aus Artikel 24 Sie treffen. Dieselbe Organisation kann für Projekt A Steward und für Projekt B Hersteller sein.
+Abschnitt im Guidance-Überblick
+Abschnitt
+9.1
+Meldepflichten: seit 11. September 2026, „Bewusstwerden“ und Nutzerinformation
++
+Die Meldepflichten nach Artikel 14 gelten seit dem 11. September 2026 für alle Produkte im Anwendungsbereich des EU CRA — auch für vor dem 11. Dezember 2027 in Verkehr gebrachte und für Produkte nach Supportende. „Bewusstwerden“ heißt: hinreichende Gewissheit nach unverzüglicher Erstbewertung — ab dann laufen die Fristen (24 h Frühwarnung, 72 h Meldung, 14 Tage bzw. 1 Monat Abschlussbericht).
+Kernaussagen
+Keine retroaktive Meldung: Aktive Ausnutzung, die dem Hersteller schon vor dem 11.09.2026 bekannt war, ist nicht meldepflichtig; wird die Ausnutzung erst danach bekannt, greift die Pflicht.
+Dritt-Komponenten: Meldepflichtig ist nur eine aktiv ausgenutzte Schwachstelle, die im eigenen Produkt ausnutzbar ist bzw. ausgenutzt wurde — sonst nur freiwillige Meldung (Art. 15) plus Upstream-Meldung an den Komponenten-Maintainer (Art. 13 Abs. 6).
+Der Begriff „Bewusstwerden“ ist bewusst konsistent mit der NIS-2-Durchführungsverordnung und den GDPR-Guidelines ausgelegt.
+Nutzerinformation (Art. 14 Abs. 8) ist risikobasiert: keine indiskriminierte Veröffentlichung — bei sensiblen Umgebungen darf die Detailinformation auf betroffene Nutzer beschränkt werden; breitere Offenlegung nach Behebung, Pflicht-Veröffentlichung fixer Schwachstellen nach Anhang I Teil II Nr. 4.
+Die Meldepflichten laufen — anders als die Schwachstellenbehandlung — auch nach Ende des Supportzeitraums weiter.
+Für die Praxis
+Definieren Sie jetzt, wer Verdachtsfälle wie schnell erstbewertet — ab „hinreichender Gewissheit“ läuft die 24-Stunden-Frist. Der Prozess muss seit dem 11. September 2026 laufen und deckt auch Altprodukte und Produkte nach Supportende ab. Legen Sie zusätzlich fest, wie Sie Nutzer risikobasiert informieren: erst betroffene Kunden gezielt, breite Veröffentlichung nach der Behebung.
+Abschnitt im Guidance-Überblick
+Abschnitt
+9.2
+Schwachstellenbehandlung: Upstream-Meldung, bekannte Schwachstellen, Tests
++
+Die Leitlinien präzisieren drei Pflichten: das Upstream-Melden von Komponenten-Schwachstellen und Teilen von Security-Fixes (Art. 13 Abs. 6), das Verbot, Produkte mit bekannten ausnutzbaren Schwachstellen in Verkehr zu bringen (Anhang I Teil I), und die „effektiven und regelmäßigen Tests“ (Anhang I Teil II Nr. 3) — die keine mechanische Testwiederholung verlangen, sondern anlassbezogene Review und Anpassung.
+Kernaussagen
+Upstream nur für die tatsächlich integrierte Version und gemäß CVD-Prozessen des Maintainers; keine Pflicht bei bereits bekannter Schwachstelle (Duplikate vermeiden: Datenbanken/Advisories prüfen) oder bei verwaisten Projekten ohne Maintainer.
+Nur Schwachstellen der Komponente selbst sind zu melden — nicht solche, die erst durch die eigene Integration entstehen.
+Security-Fixes maschinenlesbar und lizenzkompatibel teilen; weder muss der Maintainer den Fix annehmen, noch der Hersteller den Fix des Maintainers übernehmen.
+„Bekannt“ ist eine Schwachstelle bei Listung in relevanten öffentlichen Datenbanken (z. B. Europäische Schwachstellendatenbank), bei Coordinated Disclosure, eigenen Tests (inkl. KI-gestützter Analyse) oder prominenter Medienberichterstattung — eine kurze Prüf-/Verifikationszeit ist zulässig.
+Kurz vor Release entdeckte Schwachstellen: risikobasierte Entscheidung, ob das Release verschoben wird — abwägen mit den Risiken der Verzögerung (z. B. wenn das Release andere Schwachstellen schließt).
+Für die Praxis
+Ergänzen Sie Ihren Schwachstellen-Prozess um drei Bausteine: (1) Datenbank-/Advisory-Check vor jeder Upstream-Meldung, um Duplikate zu vermeiden; (2) lizenzkonformes, maschinenlesbares Teilen eigener Fixes mit dem Maintainer; (3) ein dokumentierter Release-Entscheid für spät gefundene Schwachstellen — abwägen zwischen Fix-vor-Release und den Risiken der Verzögerung.
+Abschnitt im Guidance-Überblick
+Alle Guidance-Kapitel im Überblick
+EU-Kommissions-Guidance (C(2026) 5252 final)
+—
+Die Guidance gibt die Auslegung der Europäischen Kommission wieder und ist rechtlich nicht bindend. Eine verbindliche Auslegung des EU CRA kann nur der Gerichtshof der Europäischen Union vornehmen.
+Häufige Hersteller-Fragen
+Wer kann freiwillig nach Artikel 15 melden?
++
+Jede Person mit Kenntnis einer Schwachstelle oder eines Vorfalls — Sicherheitsforscher, Bug-Bounty-Teilnehmer, Importeure, Endkunden. Die Meldung erfolgt an die zuständige CSIRT oder direkt an die ENISA.
+Gibt es Haftungsrisiko für den Melder?
++
+Nein, sofern die Meldung in gutem Glauben erfolgt. Artikel 15 schützt freiwillige Melder ausdrücklich vor zivil- und strafrechtlichen Folgen, soweit nationales Recht das zulässt.
+Wie verhält sich Artikel 15 zu Bug-Bounty-Programmen?
++
+Artikel 15 schafft den rechtlichen Rahmen, der Bug-Bounty-Meldungen an Behörden absichert. Bug-Bounties an Hersteller bleiben davon unberührt; die freiwillige Behörden-Meldung ist ein zusätzlicher Kanal.
+Verwandte Erwägungsgründe
+(
+1
+)
+75
+Die Mitgliedstaaten sollten im Einklang mit den nationalen Rechtsvorschriften so weit wie möglich die Herausforderungen angehen, mit denen Forscher, die sich mit Schwachstellen befassen, konfrontiert…
+Vertiefung im Blog
+EU CRA Meldepflicht: Fristen ab 11. September 2026 + Checkliste
+Vorheriger Artikel
+Artikel
+14
+Artikel
+14
+-
+Meldepflichten der Hersteller
+Nächster Artikel
+Artikel
+16
+Artikel
+16
+-
+Einrichtung einer einheitlichen Meldeplattform
+CRA-Updates per E-Mail
+Fristen, Guidance und Mythos-Faktenchecks zum EU Cyber Resilience Act, kompakt im Newsletter.
+Newsletter ansehen
+Dieser Text wurde aus der Verordnung (EU) 2024/2847 des Europäischen Parlaments und des Rates vom 23. Oktober 2024 übernommen. Die Darstellung dient ausschließlich Informationszwecken und stellt keine Rechtsberatung dar. Maßgeblich ist allein der im Amtsblatt der Europäischen Union veröffentlichte Wortlaut.
+Originaltext auf EUR-Lex
+Kunnus ist ein Produkt und Marke von
+Think Ahead
+.
+Plattform
+Alle Funktionen
+Multi-Produkt-Plattform
+CRA-Abdeckung
+Walkthrough
+SBOM-Scanner
+Scanner-Doku
+Roadmap
+Demo anfordern
+Lösungen
+Startups
+KMU
+Enterprise
+Anwendungsfälle
+Branchen
+Industriemaschinen
+IoT & Konsumgüter
+Energie & Gebäudetechnik
+Industriekomponenten
+Smart Farming
+Telekommunikation
+Software & SaaS
+Embedded Systems
+Smart Home & Consumer
+Ressourcen
+Wissensdatenbank
+CRA Leitfaden
+SECURE-Förderung
+Blog
+Events
+CRA & Schweiz
+Newsletter
+Unternehmen
+Über uns
+Team
+Methodik
+Partnerprogramm
+Karriere
+Impressum
+GitHub
+©
+2026
+Think Ahead Technologies GmbH. All rights reserved.
+Datenschutz
+Cookies
+Sicherheit
+Impressum

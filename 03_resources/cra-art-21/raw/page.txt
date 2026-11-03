@@ -1,0 +1,99 @@
+EU CRA Artikel 21 — Fälle, in denen die Pflichten der Hersteller auch für Einführer und Händler gelten
+Die ersten Pflichten des EU Cyber Resilience Act für Hersteller gelten seit dem 11. September 2026.Erste Pflichten seit September 2026Was jetzt zu tun ist
+Plattform
+Lösungen
+Ressourcen
+Unternehmen
+Wissensdatenbank
+
+DE
+EinloggenDemo anfordernToggle menu
+
+WissensdatenbankArtikelArtikel 21Kapitel II - PFLICHTEN DER WIRTSCHAFTSAKTEURE UND BESTIMMUNGEN IN BEZUG AUF FREIE UND QUELLOFFENE SOFTWARE
+21Artikel 21
+Fälle, in denen die Pflichten der Hersteller auch für Einführer und Händler gelten
+
+Verordnung (EU) 2024/2847 — veröffentlicht 10. Dezember 2024 · Letzte Prüfung durch Kunnus: März 2026
+Ein Einführer oder Händler gilt für die Zwecke dieser Verordnung als Hersteller und unterliegt den in den Artikeln 13 und 14 genannten Pflichten, wenn dieser Einführer oder Händler ein Produkt mit digitalen Elementen unter seinem eigenen Namen oder seiner eigenen Marke in den Verkehr bringt oder eine wesentliche Änderung an einem bereits in den Verkehr gebrachten Produkt mit digitalen Elementen vornimmt.
+
+Auslegung der EU-Kommission
+Guidance vom 27. Juli 2026
+Die EU-Kommissions-Guidance vom 27. Juli 2026 enthält offizielle Auslegungshinweise zu dieser Vorschrift. Jeder Abschnitt: Kurzfassung, Kernaussagen und was das konkret für Sie bedeutet.
+Abschnitt 4.4Folgen einer wesentlichen Änderung+Ein wesentlich geändertes Produkt gilt bei Bereitstellung als neu in Verkehr gebracht. Wer als Dritter wesentlich ändert, wird Hersteller (Art. 21/22) — bei komponentenbezogenen Änderungen aber nur für den geänderten Teil, sofern die Gesamt-Cybersicherheit nicht beeinträchtigt ist. Der Originalhersteller darf Dokumentation und Tests für unveränderte Teile wiederverwenden.
+Kernaussagen
+Abgrenzung zur Integration: Wer Komponenten zu einem neuen eigenen Produkt zusammenbaut, ist regulärer Hersteller des Gesamtprodukts — keine wesentliche Änderung fremder Produkte (Beispiel 51).
+Alt-Produkte: Eine wesentliche Änderung nach dem 11. Dezember 2027 an einem davor in Verkehr gebrachten Produkt macht den Ändernden zum Hersteller (Art. 69 Abs. 2) — die Pflichten beschränken sich aber auf die geänderten Teile, solange die Gesamt-Cybersicherheit unberührt bleibt.
+Die Pflichten des Originalherstellers für das ursprüngliche Produkt (Schwachstellenbehandlung, Konformität der unveränderten Teile) laufen weiter.
+Konformitätsbewertung fokussiert auf die geänderten Teile; für unveränderte Teile dürfen vorhandene Tests und Doku wiederverwendet werden.
+Für die Praxis
+Zwei Fälle sauber trennen: Verändern Sie ein fremdes, bereits vermarktetes Produkt wesentlich, treffen Sie Herstellerpflichten — aber nur für den geänderten Teil, solange die Gesamt-Cybersicherheit unberührt bleibt. Bauen Sie dagegen Komponenten zu einem eigenen Produkt zusammen, sind Sie regulärer Hersteller des Gesamtprodukts. Vorhandene Tests und Doku für unveränderte Teile dürfen Sie weiterverwenden.
+
+Abschnitt im Guidance-Überblick
+Alle Guidance-Kapitel im ÜberblickEU-Kommissions-Guidance (C(2026) 5252 final) — Die Guidance gibt die Auslegung der Europäischen Kommission wieder und ist rechtlich nicht bindend. Eine verbindliche Auslegung des EU CRA kann nur der Gerichtshof der Europäischen Union vornehmen.
+
+Verwandte Erwägungsgründe
+(1)
+84Um bei der Festlegung gemeinsamer Spezifikationen, die die in dieser Verordnung genannten grundlegenden Cybersicherheitsanforderungen abdecken, möglichst effizient vorzugehen, sollte die Kommission ei…
+
+Vorheriger Artikel
+Artikel 20Artikel 20 - Pflichten der Händler
+
+Nächster Artikel
+Artikel 22Artikel 22 - Sonstige Fälle, in denen die Pflichten der Herstel…
+
+CRA-Updates per E-Mail
+Fristen, Guidance und Mythos-Faktenchecks zum EU Cyber Resilience Act, kompakt im Newsletter.
+
+Newsletter ansehen
+
+Dieser Text wurde aus der Verordnung (EU) 2024/2847 des Europäischen Parlaments und des Rates vom 23. Oktober 2024 übernommen. Die Darstellung dient ausschließlich Informationszwecken und stellt keine Rechtsberatung dar. Maßgeblich ist allein der im Amtsblatt der Europäischen Union veröffentlichte Wortlaut. Originaltext auf EUR-Lex
+
+Kunnus ist ein Produkt und Marke von Think Ahead.
+
+Plattform
+Alle Funktionen
+Multi-Produkt-Plattform
+CRA-Abdeckung
+Walkthrough
+SBOM-Scanner
+Scanner-Doku
+Roadmap
+Demo anfordern
+
+Lösungen
+Startups
+KMU
+Enterprise
+Anwendungsfälle
+
+Branchen
+Industriemaschinen
+IoT & Konsumgüter
+Energie & Gebäudetechnik
+Industriekomponenten
+Smart Farming
+Telekommunikation
+Software & SaaS
+Embedded Systems
+Smart Home & Consumer
+
+Ressourcen
+Wissensdatenbank
+CRA Leitfaden
+SECURE-Förderung
+Blog
+Events
+CRA & Schweiz
+Newsletter
+
+Unternehmen
+Über uns
+Team
+Methodik
+Partnerprogramm
+Karriere
+Impressum
+GitHub
+
+© 2026 Think Ahead Technologies GmbH. All rights reserved.
+DatenschutzCookiesSicherheitImpressum

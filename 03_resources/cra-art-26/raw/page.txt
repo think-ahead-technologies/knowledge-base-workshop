@@ -1,0 +1,89 @@
+EU CRA Artikel 26 — Leitlinien
+Die ersten Pflichten des EU Cyber Resilience Act für Hersteller gelten seit dem 11. September 2026. Erste Pflichten seit September 2026 Was jetzt zu tun ist
+Plattform
+Lösungen
+Ressourcen
+Unternehmen
+Wissensdatenbank
+DE
+Einloggen Demo anfordern Toggle menu
+Wissensdatenbank Artikel Artikel 26 Kapitel II - PFLICHTEN DER WIRTSCHAFTSAKTEURE UND BESTIMMUNGEN IN BEZUG AUF FREIE UND QUELLOFFENE SOFTWARE
+26 Artikel 26
+Leitlinien
+Verordnung (EU) 2024/2847 — veröffentlicht 10. Dezember 2024 · Letzte Prüfung durch Kunnus: März 2026
+( 1 ) Um die Durchführung zu erleichtern und ihre Kohärenz sicherzustellen, veröffentlicht die Kommission Leitlinien, um die Wirtschaftsakteure bei der Anwendung dieser Verordnung zu unterstützen, wobei ein besonderer Schwerpunkt auf der Erleichterung der Einhaltung durch Kleinstunternehmen und kleine und mittlere Unternehmen liegt.
+( 2 ) Beabsichtigt die Kommission, Leitlinien gemäß Absatz 1 bereitzustellen, so geht sie mindestens auf folgende Aspekte ein:
+a) den Anwendungsbereich dieser Verordnung mit besonderem Schwerpunkt auf Datenfernverarbeitungslösungen und freier und quelloffener Software,
+b) die Anwendung von Unterstützungszeiträumen in Bezug auf bestimmte Kategorien von Produkten mit digitalen Elementen;
+c) Leitlinien für Hersteller, die dieser Verordnung unterliegen und auch anderen Harmonisierungsrechtsvorschriften der Union als dieser Verordnung oder anderen damit zusammenhängenden Rechtsakten der Union unterliegen;
+d) den Begriff der wesentlichen Änderung. Die Kommission führt ferner eine leicht zugängliche Liste der gemäß dieser Verordnung erlassenen delegierten Rechtsakte und Durchführungsrechtsakte.
+( 3 ) Bei der Ausarbeitung der Leitlinien gemäß diesem Artikel konsultiert die Kommission die einschlägigen Interessenträger.
+Auslegung der EU-Kommission
+Guidance vom 27. Juli 2026
+Die EU-Kommissions-Guidance vom 27. Juli 2026 enthält offizielle Auslegungshinweise zu dieser Vorschrift. Jeder Abschnitt: Kurzfassung, Kernaussagen und was das konkret für Sie bedeutet.
+Abschnitt 1.1 – 1.2 Einleitung: Rechtsrahmen und Zweck der Leitlinien + Kapitel 1 ordnet das Dokument ein: Der CRA baut auf dem New Legislative Framework der EU auf; Marktüberwachung und Durchsetzung liegen bei den nationalen Behörden. Die Leitlinien erfüllen den Auftrag aus Artikel 26 Abs. 1 — mit besonderem Fokus auf KMU —, sind rechtlich nicht bindend und ersetzen keine Einzelfallprüfung. Verbindlich auslegen kann den CRA nur der Gerichtshof der Europäischen Union.
+Kernaussagen
+Pflichtthemen nach Art. 26 Abs. 2 — und genau die deckt das Dokument ab: Anwendungsbereich (insb. Remote Data Processing und FOSS), Supportzeiträume, Zusammenspiel mit anderem EU-Recht und der Begriff der wesentlichen Änderung.
+Die Leitlinien ergänzen die Kommissions-FAQ vom 3. Dezember 2025; vorausgegangen sind die Konsultation der Expert Group on Cybersecurity of Products with Digital Elements und eine öffentliche Konsultation (3. März – 13. April 2026).
+Adressaten sind Wirtschaftsakteure UND Behörden: Auch Marktüberwachung, notifizierende Behörden und notifizierte Stellen sollen sich für eine EU-weit einheitliche Durchsetzung daran orientieren.
+Die zahlreichen Beispiele illustrieren nur — sie ersetzen nie die Bewertung des konkreten Einzelfalls.
+Weitere Guidance ist ausdrücklich angekündigt, etwa zum Zusammenspiel des CRA mit dem AI Act (VO 2024/1689) und DORA (VO 2022/2554).
+Hintergrund: Der CRA folgt dem New Legislative Framework (VO 765/2008, Beschluss 768/2008/EG); die Marktüberwachung richtet sich nach VO 2019/1020. Die Kommission plant mit dem „European Product Act“ eine Modernisierung des NLF.
+Für die Praxis
+Nutzen Sie die Leitlinien als Argumentationsgrundlage gegenüber Auditoren, notifizierten Stellen und Marktüberwachung — zitieren Sie konkret Abschnitt und Randnummer. Verlassen Sie sich aber nicht blind auf die Beispiele: Dokumentieren Sie immer Ihre eigene Einzelfallbewertung, denn rechtlich bindend sind die Leitlinien nicht. Und behalten Sie die angekündigte Folge-Guidance (AI Act, DORA) im Blick, wenn Ihre Produkte auch dort betroffen sind.
+Abschnitt im Guidance-Überblick
+Alle Guidance-Kapitel im Überblick EU-Kommissions-Guidance (C(2026) 5252 final) — Die Guidance gibt die Auslegung der Europäischen Kommission wieder und ist rechtlich nicht bindend. Eine verbindliche Auslegung des EU CRA kann nur der Gerichtshof der Europäischen Union vornehmen.
+Verwandte Erwägungsgründe
+( 1 )
+92 Während die Herstellung materieller Produkte mit digitalen Elementen in der Regel einen erheblichen Aufwand während der gesamten Konzeptions-, Entwicklungs- und Herstellungsphase erfordert, konzentrie…
+Vorheriger Artikel
+Artikel 25 Artikel 25 - Sicherheitsbescheinigung für freie und quelloffene…
+Nächster Artikel
+Artikel 27 Artikel 27 - Konformitätsvermutung
+CRA-Updates per E-Mail
+Fristen, Guidance und Mythos-Faktenchecks zum EU Cyber Resilience Act, kompakt im Newsletter.
+Newsletter ansehen
+Dieser Text wurde aus der Verordnung (EU) 2024/2847 des Europäischen Parlaments und des Rates vom 23. Oktober 2024 übernommen. Die Darstellung dient ausschließlich Informationszwecken und stellt keine Rechtsberatung dar. Maßgeblich ist allein der im Amtsblatt der Europäischen Union veröffentlichte Wortlaut. Originaltext auf EUR-Lex
+Kunnus ist ein Produkt und Marke von Think Ahead .
+Plattform
+Alle Funktionen
+Multi-Produkt-Plattform
+CRA-Abdeckung
+Walkthrough
+SBOM-Scanner
+Scanner-Doku
+Roadmap
+Demo anfordern
+Lösungen
+Startups
+KMU
+Enterprise
+Anwendungsfälle
+Branchen
+Industriemaschinen
+IoT & Konsumgüter
+Energie & Gebäudetechnik
+Industriekomponenten
+Smart Farming
+Telekommunikation
+Software & SaaS
+Embedded Systems
+Smart Home & Consumer
+Ressourcen
+Wissensdatenbank
+CRA Leitfaden
+SECURE-Förderung
+Blog
+Events
+CRA & Schweiz
+Newsletter
+Unternehmen
+Über uns
+Team
+Methodik
+Partnerprogramm
+Karriere
+Impressum
+GitHub
+© 2026 Think Ahead Technologies GmbH. All rights reserved.
+Datenschutz Cookies Sicherheit Impressum

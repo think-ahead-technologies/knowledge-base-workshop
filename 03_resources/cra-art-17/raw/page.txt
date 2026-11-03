@@ -1,0 +1,152 @@
+EU CRA Artikel 17 — Sonstige Bestimmungen im Zusammenhang mit der Berichterstattung
+Die ersten Pflichten des EU Cyber Resilience Act für Hersteller gelten seit dem 11. September 2026.
+Erste Pflichten seit September 2026
+Was jetzt zu tun ist
+Plattform
+Lösungen
+Ressourcen
+Unternehmen
+Wissensdatenbank
+DE
+Einloggen
+Demo anfordern
+Toggle menu
+Wissensdatenbank
+Artikel
+Artikel 17
+Kapitel
+II
+-
+PFLICHTEN DER WIRTSCHAFTSAKTEURE UND BESTIMMUNGEN IN BEZUG AUF FREIE UND QUELLOFFENE SOFTWARE
+17
+Artikel
+17
+Sonstige Bestimmungen im Zusammenhang mit der Berichterstattung
+Verordnung (EU) 2024/2847 — veröffentlicht 10. Dezember 2024 · Letzte Prüfung durch Kunnus: März 2026
+(
+1
+)
+Die ENISA kann dem Europäischen Netzwerk der Verbindungsorganisationen für Cyberkrisen (EU-CyCLONe), das durch Artikel 16 der
+Richtlinie (EU) 2022/2555
+eingerichtet wurde, die gemäß
+Artikel 14
+Absätze 1 und 3 und
+Artikel 15
+Absätze 1 und 2 der vorliegenden Verordnung gemeldeten Informationen, sofern diese Informationen für das koordinierte Management massiver Cybersicherheitsvorfälle und -krisen auf operativer Ebene von Bedeutung sind. Für die Zwecke der Bestimmung dieser Bedeutung kann die ENISA gegebenenfalls technische Analysen des CSIRTs-Netzwerks berücksichtigen.
+(
+2
+)
+Ist eine Sensibilisierung der Öffentlichkeit erforderlich, um einen schwerwiegenden Sicherheitsvorfall mit Auswirkungen auf die Sicherheit des Produkts mit digitalen Elementen zu verhindern oder zu mindern oder um einen laufenden Sicherheitsvorfall zu bewältigen, oder liegt die Offenlegung des Sicherheitsvorfalls anderweitig im öffentlichen Interesse, so kann das als Koordinator des betreffenden Mitgliedstaats benannte CSIRT nach Konsultation des betreffenden Herstellers und gegebenenfalls in Zusammenarbeit mit der ENISA die Öffentlichkeit über den Sicherheitsvorfall informieren oder den Hersteller auffordern, dies zu tun.
+(
+3
+)
+Die ENISA erstellt auf der Grundlage der nach
+Artikel 14
+Absätze 1 und 3 und
+Artikel 15
+Absätze 1 und 2 der vorliegenden Verordnung eingegangenen Meldungen alle 24 Monate einen technischen Bericht über aufkommende Trends der Cybersicherheitsrisiken bei Produkten mit digitalen Elementen und legt ihn der gemäß Artikel 14 der
+Richtlinie (EU) 2022/2555
+eingerichteten Kooperationsgruppe vor. Der erste solche Bericht wird innerhalb von 24 Monaten nach Beginn der Geltung der in
+Artikel 14
+Absätze 1 und 3 festgelegten Pflichten vorgelegt. Die ENISA nimmt einschlägige Informationen aus ihren technischen Berichten in ihren Bericht über den Stand der Cybersicherheit in der Union gemäß Artikel 18 der
+Richtlinie (EU) 2022/2555
+auf.
+(
+4
+)
+Die bloße Meldung gemäß
+Artikel 14
+Absätze 1 und 3 und
+Artikel 15
+Absätze 1 und 2 begründet keine höhere Haftung der meldenden natürlichen oder juristischen Person.
+(
+5
+)
+Sobald eine Sicherheitsaktualisierung oder eine andere Form von Korrektur- oder Risikominderungsmaßnahme verfügbar ist, nimmt die ENISA im Einvernehmen mit dem Hersteller des betreffenden Produkts mit digitalen Elementen die gemäß
+Artikel 14
+Absatz 1 oder
+Artikel 15
+Absatz 1 der vorliegenden Verordnung gemeldete öffentlich bekannte Schwachstelle in die gemäß Artikel 12 Absatz 2 der
+Richtlinie (EU) 2022/2555
+eingerichtete europäische Schwachstellendatenbank auf.
+(
+6
+)
+Die als Koordinatoren benannten CSIRTs bieten Helpdesk-Unterstützung für Hersteller und insbesondere Hersteller, die als Kleinstunternehmen oder als kleine oder mittlere Unternehmen gelten, in Bezug auf die Meldepflichten gemäß
+Artikel 14
+.
+Verwandte Erwägungsgründe
+(
+1
+)
+78
+Im Rahmen der neuen komplexen Geschäftsmodelle im Zusammenhang mit Online-Verkäufen kann ein online tätiges Unternehmen eine Vielzahl von Dienstleistungen anbieten. Je nach Art der in Bezug auf ein be…
+Vorheriger Artikel
+Artikel
+16
+Artikel
+16
+-
+Einrichtung einer einheitlichen Meldeplattform
+Nächster Artikel
+Artikel
+18
+Artikel
+18
+-
+Bevollmächtigte
+CRA-Updates per E-Mail
+Fristen, Guidance und Mythos-Faktenchecks zum EU Cyber Resilience Act, kompakt im Newsletter.
+Newsletter ansehen
+Dieser Text wurde aus der Verordnung (EU) 2024/2847 des Europäischen Parlaments und des Rates vom 23. Oktober 2024 übernommen. Die Darstellung dient ausschließlich Informationszwecken und stellt keine Rechtsberatung dar. Maßgeblich ist allein der im Amtsblatt der Europäischen Union veröffentlichte Wortlaut.
+Originaltext auf EUR-Lex
+Kunnus ist ein Produkt und Marke von
+Think Ahead
+.
+Plattform
+Alle Funktionen
+Multi-Produkt-Plattform
+CRA-Abdeckung
+Walkthrough
+SBOM-Scanner
+Scanner-Doku
+Roadmap
+Demo anfordern
+Lösungen
+Startups
+KMU
+Enterprise
+Anwendungsfälle
+Branchen
+Industriemaschinen
+IoT & Konsumgüter
+Energie & Gebäudetechnik
+Industriekomponenten
+Smart Farming
+Telekommunikation
+Software & SaaS
+Embedded Systems
+Smart Home & Consumer
+Ressourcen
+Wissensdatenbank
+CRA Leitfaden
+SECURE-Förderung
+Blog
+Events
+CRA & Schweiz
+Newsletter
+Unternehmen
+Über uns
+Team
+Methodik
+Partnerprogramm
+Karriere
+Impressum
+GitHub
+©
+2026
+Think Ahead Technologies GmbH. All rights reserved.
+Datenschutz
+Cookies
+Sicherheit
+Impressum

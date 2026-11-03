@@ -1,0 +1,83 @@
+EU CRA Artikel 4 — Freier Verkehr
+Die ersten Pflichten des EU Cyber Resilience Act für Hersteller gelten seit dem 11. September 2026.Erste Pflichten seit September 2026Was jetzt zu tun ist
+Plattform
+Lösungen
+Ressourcen
+Unternehmen
+Wissensdatenbank
+DE
+EinloggenDemo anfordernToggle menu
+WissensdatenbankArtikelArtikel 4Kapitel I - ALLGEMEINE BESTIMMUNGEN
+4Artikel 4
+Freier Verkehr
+Verordnung (EU) 2024/2847 — veröffentlicht 10. Dezember 2024 · Letzte Prüfung durch Kunnus: März 2026
+(1)Die Mitgliedstaaten behindern in den von dieser Verordnung erfassten Aspekten nicht die Bereitstellung auf dem Markt von Produkten mit digitalen Elementen, die dieser Verordnung entsprechen.
+(2)Die Mitgliedstaaten verhindern nicht die Präsentation oder Verwendung eines Produkts mit digitalen Elementen, das dieser Verordnung nicht entspricht, bei Messen, Ausstellungen, Vorführungen oder ähnlichen Veranstaltungen, einschließlich Prototypen, sofern das Produkt mit eine sichtbare Kennzeichnung aufweist, die deutlich darauf hinweist, dass es dieser Verordnung nicht entspricht und erst auf dem Markt bereitgestellt werden darf, wenn es dies tut.
+(3)Die Mitgliedstaaten verhindern nicht die Bereitstellung auf dem Markt von unfertiger Software, die dieser Verordnung nicht entspricht, sofern die Software nur für einen begrenzten Zeitraum zur Verfügung gestellt wird, der für Testzwecke erforderlich ist, und mit einer sichtbaren Kennzeichnung deutlich darauf hinweist, dass sie dieser Verordnung nicht entspricht und außer zu Testzwecken nicht auf dem Markt verfügbar sein wird.
+(4)Absatz 3 gilt nicht für Sicherheitsbauteile im Sinne von anderen Harmonisierungsrechtsvorschriften der Union als dieser Verordnung.
+Auslegung der EU-Kommission
+Guidance vom 27. Juli 2026
+Die EU-Kommissions-Guidance vom 27. Juli 2026 enthält offizielle Auslegungshinweise zu dieser Vorschrift. Jeder Abschnitt: Kurzfassung, Kernaussagen und was das konkret für Sie bedeutet.
+Abschnitt 2.3Computercode — Quellcode und Maschinencode+Sowohl Maschinencode als auch Quellcode sind „Software“ im Sinne von Artikel 3 Nr. 4. Entscheidend ist, ob die Bereitstellung im Rahmen einer Geschäftstätigkeit erfolgt: Öffentlich geteilter FOSS-Code, unfertiger Code in der Entwicklung sowie Demo- und Tutorial-Code gelten nicht als in Verkehr gebracht — kommerziell an Kunden lizenzierter Quellcode dagegen schon.
+Kernaussagen
+Wer Kunden Quellcode als Produkt liefert, bringt ihn in Verkehr — auch wenn der Kunde ihn erst anpassen und kompilieren muss (Beispiel 7).
+Der Lizenzgeber ist nicht für die CRA-Konformität der nachgelagerten Anpassungen des Kunden verantwortlich.
+Unfertige Software (Alpha, Beta, Release Candidate) darf nach Artikel 4 Abs. 3 zeitlich begrenzt zu Test- und Feedback-Zwecken bereitgestellt werden.
+Für die Praxis
+Prüfen Sie Ihre Lizenz- und Lieferverträge: Wo geben Sie Kunden Quellcode gegen Entgelt? Für diesen Code tragen Sie die vollen Herstellerpflichten — nicht aber für das, was der Kunde daraus macht. Demo-Code, Tutorials und Beta-Versionen zu Testzwecken bleiben außen vor.
+Abschnitt im Guidance-Überblick
+Alle Guidance-Kapitel im ÜberblickEU-Kommissions-Guidance (C(2026) 5252 final) — Die Guidance gibt die Auslegung der Europäischen Kommission wieder und ist rechtlich nicht bindend. Eine verbindliche Auslegung des EU CRA kann nur der Gerichtshof der Europäischen Union vornehmen.
+Verwandte Erwägungsgründe
+(1)
+33Soweit ihre Produkte in den Anwendungsbereich der vorliegenden Verordnung fallen, sollten die Anbieter von Brieftaschen für die europäische digitale Identität (EUid-Brieftaschen) gemäß Artikel 5a Absa…
+Vorheriger Artikel
+Artikel 3Artikel 3 - Begriffsbestimmungen
+Nächster Artikel
+Artikel 5Artikel 5 - Beschaffung oder Nutzung von Produkten mit digital…
+CRA-Updates per E-Mail
+Fristen, Guidance und Mythos-Faktenchecks zum EU Cyber Resilience Act, kompakt im Newsletter.
+Newsletter ansehen
+Dieser Text wurde aus der Verordnung (EU) 2024/2847 des Europäischen Parlaments und des Rates vom 23. Oktober 2024 übernommen. Die Darstellung dient ausschließlich Informationszwecken und stellt keine Rechtsberatung dar. Maßgeblich ist allein der im Amtsblatt der Europäischen Union veröffentlichte Wortlaut. Originaltext auf EUR-Lex
+Kunnus ist ein Produkt und Marke von Think Ahead.
+Plattform
+Alle Funktionen
+Multi-Produkt-Plattform
+CRA-Abdeckung
+Walkthrough
+SBOM-Scanner
+Scanner-Doku
+Roadmap
+Demo anfordern
+Lösungen
+Startups
+KMU
+Enterprise
+Anwendungsfälle
+Branchen
+Industriemaschinen
+IoT & Konsumgüter
+Energie & Gebäudetechnik
+Industriekomponenten
+Smart Farming
+Telekommunikation
+Software & SaaS
+Embedded Systems
+Smart Home & Consumer
+Ressourcen
+Wissensdatenbank
+CRA Leitfaden
+SECURE-Förderung
+Blog
+Events
+CRA & Schweiz
+Newsletter
+Unternehmen
+Über uns
+Team
+Methodik
+Partnerprogramm
+Karriere
+Impressum
+GitHub
+© 2026 Think Ahead Technologies GmbH. All rights reserved.
+DatenschutzCookiesSicherheitImpressum

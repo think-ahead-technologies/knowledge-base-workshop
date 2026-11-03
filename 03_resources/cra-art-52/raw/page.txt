@@ -1,0 +1,87 @@
+EU CRA Artikel 52 — Marktüberwachung und Kontrolle von Produkten mit digitalen Elementen auf dem Unionsmarkt
+Die ersten Pflichten des EU Cyber Resilience Act für Hersteller gelten seit dem 11. September 2026. Erste Pflichten seit September 2026 Was jetzt zu tun ist
+Plattform
+Lösungen
+Ressourcen
+Unternehmen
+Wissensdatenbank
+DE
+Einloggen Demo anfordern Toggle menu
+Wissensdatenbank Artikel Artikel 52 Kapitel V - MARKTÜBERWACHUNG UND DURCHSETZUNG
+52 Artikel 52
+Marktüberwachung und Kontrolle von Produkten mit digitalen Elementen auf dem Unionsmarkt
+Verordnung (EU) 2024/2847 — veröffentlicht 10. Dezember 2024 · Letzte Prüfung durch Kunnus: März 2026
+( 1 ) Die Verordnung (EU) 2019/1020 gilt für die Produkte mit digitalen Elementen, die in den Anwendungsbereich der vorliegenden Verordnung fallen.
+( 2 ) Jeder Mitgliedstaat benennt für die Zwecke der Gewährleistung der wirksamen Durchführung der vorliegenden Verordnung eine oder mehrere Marktüberwachungsbehörden. Die Mitgliedstaaten können eine bestehende oder eine neue Behörde benennen, die im Rahmen der vorliegenden Verordnung als Marktüberwachungsbehörde tätig wird.
+( 3 ) Die gemäß Absatz 2 dieses Artikels benannten Marktüberwachungsbehörden sind auch für die Durchführung von Marktüberwachungstätigkeiten im Zusammenhang mit den in Artikel 24 genannten Verpflichtungen für Verwalter quelloffener Software zuständig. Stellt eine Marktüberwachungsbehörde fest, dass ein Verwalter quelloffener Software die in dem genannten Artikel festgelegten Verpflichtungen nicht erfüllt, so fordert sie den Verwalter quelloffener Software auf, sicherzustellen, dass alle geeigneten Korrekturmaßnahmen ergriffen werden. Die Verwalter quelloffener Software stellen im Rahmen ihrer Verpflichtungen gemäß dieser Verordnung sicher, dass alle geeigneten Korrekturmaßnahmen ergriffen werden.
+( 4 ) Die Marktüberwachungsbehörden arbeiten gegebenenfalls mit den nach Artikel 58 der Verordnung (EU) 2019/881 benannten nationalen Behörden für die Cybersicherheitszertifizierung zusammen und tauschen regelmäßig Informationen mit ihnen aus. Bei der Beaufsichtigung der Umsetzung der Meldepflichten nach Artikel 14 der vorliegenden Verordnung arbeiten die benannten Marktüberwachungsbehörden mit den als Koordinatoren benannten CSIRTs und der ENISA zusammen und tauschen mit ihnen regelmäßig Informationen aus.
+( 5 ) Die Marktaufsichtsbehörden können den als Koordinator benannten CSIRT oder die ENISA um technische Beratung in Fragen der Durchführung und Durchsetzung dieser Verordnung ersuchen. Bei der Durchführung einer Untersuchung gemäß Artikel 54 können die Marktüberwachungsbehörden den als Koordinator benannten CSIRT oder die ENISA um eine Analyse zur Untermauerung der Konformitätsbewertung von Produkten mit digitalen Elementen ersuchen.
+( 6 ) Die Marktüberwachungsbehörden arbeiten gegebenenfalls mit anderen Marktüberwachungsbehörden zusammen, die auf der Grundlage anderer Harmonisierungsrechtsvorschriften der Union als jener dieser Verordnung für andere Produkte benannt wurden, und tauschen regelmäßig Informationen mit ihnen aus.
+( 7 ) Die Marktüberwachungsbehörden arbeiten gegebenenfalls mit den Behörden zusammen, die die Anwendung des Datenschutzrechts der Union beaufsichtigen. Diese Zusammenarbeit umfasst die Unterrichtung dieser Behörden über alle Erkenntnisse, die für die Wahrnehmung ihrer Zuständigkeiten von Bedeutung sind, auch bezüglich der Herausgabe von Leitlinien und der Beratung nach Absatz 10, soweit solche Leitlinien und Ratschläge die Verarbeitung personenbezogener Daten betreffen. Die Behörden, die die Anwendung des Datenschutzrechts der Union beaufsichtigen, sind befugt, alle im Rahmen dieser Verordnung erstellten oder geführten Unterlagen anzufordern und darauf zuzugreifen, soweit der Zugang zu diesen Unterlagen für die Erfüllung ihrer Aufgaben erforderlich ist. Sie unterrichten die benannten Marktüberwachungsbehörden des betreffenden Mitgliedstaats über jedes solches Ersuchen.
+( 8 ) Die Mitgliedstaaten sorgen dafür, dass die benannten Marktüberwachungsbehörden mit angemessenen finanziellen und technischen Ressourcen, gegebenenfalls auch mit Tools zur Prozessautomatisierung, sowie mit personellen Ressourcen, die über die notwendigen Cybersicherheitskompetenzen verfügen, ausgestattet werden, damit sie ihre Aufgaben im Rahmen dieser Verordnung wahrnehmen können.
+( 9 ) Die Kommission fördert und erleichtert den Erfahrungsaustausch zwischen den benannten Marktüberwachungsbehörden.
+( 10 ) Die Marktüberwachungsbehörden können den Wirtschaftsakteuren mit Unterstützung der Kommission und gegebenenfalls der CSIRTs und der ENISA Leitlinien und Ratschläge für die Durchführung dieser Verordnung geben.
+( 11 ) Die Marktüberwachungsbehörden informieren die Verbraucher gemäß Artikel 11 der Verordnung (EU) 2019/1020 darüber, wo Beschwerden einzureichen sind, die auf eine Nichteinhaltung dieser Verordnung hindeuten könnten, und stellen den Verbrauchern Informationen darüber zur Verfügung, wo und wie sie Zugang zu Mechanismen haben, um die Meldung von Schwachstellen, Sicherheitsvorfällen und Cyberbedrohungen, die Produkte mit digitalen Elementen betreffen können, zu erleichtern.
+( 12 ) Die Marktüberwachungsbehörden müssen gegebenenfalls die Zusammenarbeit mit einschlägigen Interessenträgern, darunter Wissenschafts-, Forschungs- und Verbraucherorganisationen, erleichtern.
+( 13 ) Die Marktüberwachungsbehörden erstatten der Kommission jährlich über die Ergebnisse ihrer jeweiligen Marktüberwachungstätigkeiten Bericht. Die benannten Marktüberwachungsbehörden melden der Kommission und den einschlägigen nationalen Wettbewerbsbehörden unverzüglich alle Informationen, die sie im Verlauf ihrer Marktüberwachungstätigkeiten erlangt haben und die für die Anwendung des Wettbewerbsrechts der Union von Interesse sein könnten.
+( 14 ) Bei Produkten mit digitalen Elementen, die in den Anwendungsbereich der vorliegenden Verordnung fallen und gemäß Artikel 6 der Verordnung (EU) 2024/1689 als Hochrisiko-KI-Systeme eingestuft sind, sind die für die Zwecke der genannten Verordnung benannten Marktüberwachungsbehörden auch für die nach der vorliegenden Verordnung erforderlichen Marktüberwachungstätigkeiten zuständig. Die nach der Verordnung (EU) 2024/1689 benannten Marktüberwachungsbehörden arbeiten gegebenenfalls mit den nach der vorliegenden Verordnung benannten Marktüberwachungsbehörden und — bezüglich der Aufsicht über die Umsetzung der Meldepflichten nach Artikel 14 der vorliegenden Verordnung — mit den als Koordinatoren benannten CSIRTs und der ENISA zusammen. Die nach der Verordnung (EU) 2024/1689 benannten Marktüberwachungsbehörden unterrichten insbesondere die nach der vorliegenden Verordnung benannten Marktüberwachungsbehörden über alle Erkenntnisse, die für die Wahrnehmung ihrer Aufgaben im Zusammenhang mit der Durchführung der vorliegenden Verordnung von Bedeutung sind.
+( 15 ) Im Hinblick auf die einheitliche Anwendung dieser Verordnung wird gemäß Artikel 30 Absatz 2 der Verordnung (EU) 2019/1020 die ADCO eingesetzt. Die ADCO setzt sich aus Vertretern der benannten Marktüberwachungsbehörden und gegebenenfalls Vertretern der zentralen Verbindungsstellen zusammen. Die ADCO befasst sich auch mit spezifischen Fragen zu den Marktüberwachungstätigkeiten im Zusammenhang mit den Verpflichtungen für Verwalter quelloffener Software.
+( 16 ) Die Marktüberwachungsbehörden überwachen, wie die Hersteller bei der Festlegung des Unterstützungszeitraums für ihre Produkte mit digitalen Elementen die in Artikel 13 Absatz 8 genannten Kriterien angewandt haben. Die ADCO veröffentlicht in öffentlich zugänglicher und benutzerfreundlicher Form einschlägige Statistiken über Kategorien von Produkten mit digitalen Elementen, einschließlich der vom Hersteller gemäß Artikel 13 Absatz 8 festgelegten durchschnittlichen Unterstützungszeiträume, und stellt Leitlinien bereit, die indikative Unterstützungszeiträume für Kategorien von Produkten mit digitalen Elementen enthalten. Wenn die Daten auf unzureichende Unterstützungszeiträume für bestimmte Kategorien von Produkten mit digitalen Elementen hindeuten, kann die ADCO den Marktüberwachungsbehörden empfehlen, ihre Tätigkeiten auf solche Kategorien von Produkten mit digitalen Elementen zu konzentrieren.
+Verwandte Erwägungsgründe
+( 5 )
+107 Nach der Verordnung (EU) 2019/1020 führt eine Marktüberwachungsbehörde die Marktüberwachung im Hoheitsgebiet des Mitgliedstaats, der sie benennt, durch. Diese Verordnung sollte die Mitgliedstaaten nic…
+108 Im Hinblick auf die einheitliche Anwendung dieser Verordnung sollte gemäß Artikel 30 Absatz 2 der Verordnung (EU) 2019/1020 eine ADCO für die Cyberresilienz von Produkten mit digitalen Elementen einge…
+109 Die Marktüberwachungsbehörden sollten über die im Rahmen dieser Verordnung eingerichtete ADCO eng zusammenarbeiten und in der Lage sein, Leitliniendokumente zu entwickeln, um die Marktüberwachungstäti…
+110 Damit zeitnahe, verhältnismäßige und wirksame Maßnahmen in Bezug auf Produkte mit digitalen Elementen, die ein erhebliches Cybersicherheitsrisiko bergen, getroffen werden können, sollte ein Schutzklau…
+111 In bestimmten Fällen kann ein Produkt mit digitalen Elementen, das dieser Verordnung entspricht, dennoch ein erhebliches Cybersicherheitsrisiko oder ein Risiko für die Gesundheit oder Sicherheit von P…
+Vorheriger Artikel
+Artikel 51 Artikel 51 - Koordinierung der notifizierten Stellen
+Nächster Artikel
+Artikel 53 Artikel 53 - Zugang zu Daten und zur Dokumentation
+CRA-Updates per E-Mail
+Fristen, Guidance und Mythos-Faktenchecks zum EU Cyber Resilience Act, kompakt im Newsletter.
+Newsletter ansehen
+Dieser Text wurde aus der Verordnung (EU) 2024/2847 des Europäischen Parlaments und des Rates vom 23. Oktober 2024 übernommen. Die Darstellung dient ausschließlich Informationszwecken und stellt keine Rechtsberatung dar. Maßgeblich ist allein der im Amtsblatt der Europäischen Union veröffentlichte Wortlaut. Originaltext auf EUR-Lex
+Kunnus ist ein Produkt und Marke von Think Ahead .
+Plattform
+Alle Funktionen
+Multi-Produkt-Plattform
+CRA-Abdeckung
+Walkthrough
+SBOM-Scanner
+Scanner-Doku
+Roadmap
+Demo anfordern
+Lösungen
+Startups
+KMU
+Enterprise
+Anwendungsfälle
+Branchen
+Industriemaschinen
+IoT & Konsumgüter
+Energie & Gebäudetechnik
+Industriekomponenten
+Smart Farming
+Telekommunikation
+Software & SaaS
+Embedded Systems
+Smart Home & Consumer
+Ressourcen
+Wissensdatenbank
+CRA Leitfaden
+SECURE-Förderung
+Blog
+Events
+CRA & Schweiz
+Newsletter
+Unternehmen
+Über uns
+Team
+Methodik
+Partnerprogramm
+Karriere
+Impressum
+GitHub
+© 2026 Think Ahead Technologies GmbH. All rights reserved.
+Datenschutz Cookies Sicherheit Impressum

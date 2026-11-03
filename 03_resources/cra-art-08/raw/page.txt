@@ -1,0 +1,162 @@
+
+EU CRA Artikel 8 — Kritische Produkte mit digitalen Elementen
+Die ersten Pflichten des EU Cyber Resilience Act für Hersteller gelten seit dem 11. September 2026.
+Erste Pflichten seit September 2026
+Was jetzt zu tun ist
+Plattform
+Lösungen
+Ressourcen
+Unternehmen
+Wissensdatenbank
+DE
+Einloggen
+Demo anfordern
+Toggle menu
+Wissensdatenbank
+Artikel
+Artikel 8
+Kapitel
+I
+ - 
+ALLGEMEINE BESTIMMUNGEN
+8
+Artikel
+8
+Kritische Produkte mit digitalen Elementen
+Verordnung (EU) 2024/2847 — veröffentlicht 10. Dezember 2024 · Letzte Prüfung durch Kunnus: März 2026
+(
+1
+)
+Der Kommission wird die Befugnis übertragen, gemäß 
+Artikel 61
+ delegierte Rechtsakte zur Ergänzung dieser Verordnung zu erlassen, um festzulegen, welche Produkte mit digitalen Elementen, die die Kernfunktionen einer in 
+Anhang IV
+ dieser Verordnung aufgeführten Produktkategorie aufweisen, ein europäisches Cybersicherheitszertifikat mindestens der Vertrauenswürdigkeitsstufe „mittel“ im Rahmen eines gemäß der 
+Verordnung (EU) 2019/881
+ erlassenen europäischen Schemas für die Cybersicherheitszertifizierung erhalten müssen, um die Konformität mit den grundlegenden Cybersicherheitsanforderungen in 
+Anhang I
+ der vorliegenden Verordnung oder Teilen davon nachzuweisen, sofern ein europäisches Schema für die Cybersicherheitszertifizierung für diese Produktkategorien mit digitalen Elementen gemäß der 
+Verordnung (EU) 2019/881
+ angenommen wurde und den Herstellern zur Verfügung steht. In diesen delegierten Rechtsakten wird die erforderliche Vertrauenswürdigkeitsstufe festgelegt, die in einem angemessenen Verhältnis zum Niveau des Cybersicherheitsrisikos stehen muss, das mit Produkten mit digitalen Elementen verbunden ist, und deren Zweckbestimmung, einschließlich der kritischen Abhängigkeit davon seitens wesentlicher Einrichtungen gemäß Artikel 3 Absatz 1 der 
+Richtlinie (EU) 2022/2555
+, berücksichtigen muss. Vor dem Erlass solcher delegierten Rechtsakte führt die Kommission eine Bewertung der potenziellen Auswirkungen der geplanten Maßnahmen auf den Markt durch und konsultiert die einschlägigen Interessenträger, einschließlich der mit der 
+Verordnung (EU) 2019/881
+ eingerichteten Europäischen Gruppe für die Cybersicherheitszertifizierung. Bei der Bewertung werden die Bereitschaft und die Kapazität der Mitgliedstaaten für die Umsetzung des einschlägigen europäischen Schemas für die Cybersicherheitszertifizierung berücksichtigt. Wurden keine delegierten Rechtsakte gemäß Unterabsatz 1 erlassen, so unterliegen Produkte mit digitalen Elementen, die Kernfunktionen einer Produktkategorie gemäß 
+Anhang IV
+ aufweisen, den Konformitätsbewertungsverfahren gemäß 
+Artikel 32
+ Absatz 3. Die in Unterabsatz 1 genannten delegierten Rechtsakte müssen einen Übergangszeitraum von mindestens sechs Monaten vorsehen, es sei denn, ein kürzerer Übergangszeitraum ist aus Gründen äußerster Dringlichkeit gerechtfertigt.
+(
+2
+)
+Der Kommission wird die Befugnis übertragen, gemäß 
+Artikel 61
+ delegierte Rechtsakte zur Änderung von 
+Anhang IV
+ zu erlassen, um Kategorien kritischer Produkte mit digitalen Elementen hinzuzufügen oder zu streichen. Bei der Festlegung solcher Kategorien kritischer Produkte mit digitalen Elementen und der erforderlichen Vertrauenswürdigkeitsstufe gemäß Absatz 1 berücksichtigt die Kommission die in 
+Artikel 7
+ Absatz 2 genannten Kriterien und stellt sicher, dass die Kategorie von Produkten mit digitalen Elementen mindestens einem der folgenden Kriterien entspricht:
+a)
+Es besteht eine kritische Abhängigkeit wesentlicher Einrichtungen gemäß Artikel 3 der 
+Richtlinie (EU) 2022/2555
+ von der Kategorie der Produkte mit digitalen Elementen;
+b)
+Sicherheitsvorfälle und ausgenutzte Schwachstellen in Bezug auf die Kategorie von Produkten mit digitalen Elementen könnten zu schwerwiegenden Störungen kritischer Lieferketten im gesamten Binnenmarkt führen. Vor dem Erlass solcher delegierten Rechtsakte führt die Kommission eine Bewertung der in Absatz 1 genannten Art durch. Die in Unterabsatz 1 genannten delegierten Rechtsakte müssen einen Übergangszeitraum von mindestens sechs Monaten vorsehen, es sei denn, ein kürzerer Übergangszeitraum ist aus Gründen äußerster Dringlichkeit gerechtfertigt.
+Auslegung der EU-Kommission
+Guidance vom 27. Juli 2026
+Die EU-Kommissions-Guidance vom 27. Juli 2026 enthält offizielle Auslegungshinweise zu dieser Vorschrift. Jeder Abschnitt: Kurzfassung, Kernaussagen und was das konkret für Sie bedeutet.
+Abschnitt
+6.1
+Kernfunktionalität — der Schlüssel zur Produktklassifizierung
++
+Ob ein Produkt „wichtig“ (Anhang III) oder „kritisch“ (Anhang IV) ist, bestimmt allein seine Kernfunktionalität — die Hauptmerkmale, ohne die es seinen Zweck nicht erfüllen könnte. Zusatzfunktionen und integrierte Komponenten ändern die Einstufung nicht; jedes Produkt hat genau eine Kernfunktionalität, die in der technischen Dokumentation klar zu benennen ist.
+Kernaussagen
+Integration ist keine Einstufung: Ein Smartphone mit integriertem Betriebssystem hat nicht die Kernfunktionalität eines Betriebssystems (Beispiel 58).
+Deutliches Über- oder Unterschreiten einer Kategorie fällt heraus: SOAR-Software ist kein SIEM (Beispiel 59), einfache Log-Sammel-Tools ohne Korrelation auch nicht (Beispiel 60).
+Keine Gestaltung über Marketing: Widersprüche zwischen Werbematerial, Nutzungsanleitung und technischer Doku dürfen nicht genutzt werden, um dem strengeren Verfahren zu entgehen.
+Auch separat vermarktete Module eines Produkts werden je eigenständig eingestuft (Beispiel 61: Security-Suite mit SIEM-, IDS- und Analytics-Modul).
+Die technischen Beschreibungen der Kategorien stehen in der Durchführungsverordnung (EU) 2025/2392.
+Für die Praxis
+Formulieren Sie für jedes Produkt einen Satz: „Ohne Funktion X erfüllt das Produkt seinen Zweck nicht.“ X ist die Kernfunktionalität — gleichen Sie nur X mit den Kategorien in Anhang III/IV (bzw. der Durchführungsverordnung 2025/2392) ab, nicht Ihre Feature-Liste. Achten Sie darauf, dass Werbematerial, Anleitung und technische Doku dieselbe Geschichte erzählen.
+Abschnitt im Guidance-Überblick
+Alle Guidance-Kapitel im Überblick
+EU-Kommissions-Guidance (C(2026) 5252 final)
+ — 
+Die Guidance gibt die Auslegung der Europäischen Kommission wieder und ist rechtlich nicht bindend. Eine verbindliche Auslegung des EU CRA kann nur der Gerichtshof der Europäischen Union vornehmen.
+Verwandte Erwägungsgründe
+(
+2
+)
+44
+Bestimmte Kategorien von Produkten mit digitalen Elementen sollten strengeren Konformitätsbewertungsverfahren unterliegen, wobei die Verhältnismäßigkeit gewahrt werden sollte. Zu diesem Zweck sollten…
+45
+Wichtige Produkte mit digitalen Elementen, auf die in dieser Verordnung Bezug genommen wird, sollten als Produkte verstanden werden, die die Kernfunktion einer in dieser Verordnung festgelegten Katego…
+Vorheriger Artikel
+Artikel
+7
+Artikel
+7
+ - 
+Wichtige Produkte mit digitalen Elementen
+Nächster Artikel
+Artikel
+9
+Artikel
+9
+ - 
+Konsultation der Interessenträger
+CRA-Updates per E-Mail
+Fristen, Guidance und Mythos-Faktenchecks zum EU Cyber Resilience Act, kompakt im Newsletter.
+Newsletter ansehen
+Dieser Text wurde aus der Verordnung (EU) 2024/2847 des Europäischen Parlaments und des Rates vom 23. Oktober 2024 übernommen. Die Darstellung dient ausschließlich Informationszwecken und stellt keine Rechtsberatung dar. Maßgeblich ist allein der im Amtsblatt der Europäischen Union veröffentlichte Wortlaut.
+Originaltext auf EUR-Lex
+Kunnus ist ein Produkt und Marke von
+Think Ahead
+.
+Plattform
+Alle Funktionen
+Multi-Produkt-Plattform
+CRA-Abdeckung
+Walkthrough
+SBOM-Scanner
+Scanner-Doku
+Roadmap
+Demo anfordern
+Lösungen
+Startups
+KMU
+Enterprise
+Anwendungsfälle
+Branchen
+Industriemaschinen
+IoT & Konsumgüter
+Energie & Gebäudetechnik
+Industriekomponenten
+Smart Farming
+Telekommunikation
+Software & SaaS
+Embedded Systems
+Smart Home & Consumer
+Ressourcen
+Wissensdatenbank
+CRA Leitfaden
+SECURE-Förderung
+Blog
+Events
+CRA & Schweiz
+Newsletter
+Unternehmen
+Über uns
+Team
+Methodik
+Partnerprogramm
+Karriere
+Impressum
+GitHub
+© 
+2026
+ Think Ahead Technologies GmbH. All rights reserved.
+Datenschutz
+Cookies
+Sicherheit
+Impressum

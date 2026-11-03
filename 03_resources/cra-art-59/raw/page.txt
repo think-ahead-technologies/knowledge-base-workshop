@@ -1,0 +1,89 @@
+EU CRA Artikel 59 — Gemeinsame Tätigkeiten der Marktüberwachungsbehörden
+Die ersten Pflichten des EU Cyber Resilience Act für Hersteller gelten seit dem 11. September 2026. Erste Pflichten seit September 2026 Was jetzt zu tun ist
+Plattform
+Lösungen
+Ressourcen
+Unternehmen
+Wissensdatenbank
+
+DE
+Einloggen Demo anfordern Toggle menu
+
+Wissensdatenbank Artikel Artikel 59 Kapitel V - MARKTÜBERWACHUNG UND DURCHSETZUNG
+59 Artikel 59
+Gemeinsame Tätigkeiten der Marktüberwachungsbehörden
+
+Verordnung (EU) 2024/2847 — veröffentlicht 10. Dezember 2024 · Letzte Prüfung durch Kunnus: März 2026
+( 1 ) Die Marktüberwachungsbehörden können mit anderen einschlägigen Behörden die Durchführung gemeinsamer Tätigkeiten zur Gewährleistung der Cybersicherheit und des Verbraucherschutzes in Bezug auf bestimmte in den Verkehr gebrachte oder auf dem Markt bereitgestellte Produkte mit digitalen Elementen vereinbaren, insbesondere in Bezug auf Produkte mit digitalen Elementen, bei denen häufig Cybersicherheitsrisiken festgestellt werden.
+
+( 2 ) Die Kommission oder die ENISA schlagen gemeinsame Tätigkeiten zur Überprüfung der Einhaltung dieser Verordnung vor, die von Marktüberwachungsbehörden auf der Grundlage von Hinweisen oder Informationen, wonach Produkte mit digitalen Elementen, die in den Anwendungsbereich dieser Verordnung fallen, möglicherweise in mehreren Mitgliedstaaten den Anforderungen dieser Verordnung nicht entsprechen, durchgeführt werden sollen.
+
+( 3 ) Die Marktüberwachungsbehörden und gegebenenfalls die Kommission tragen dafür Sorge, dass die Vereinbarung über gemeinsame Tätigkeiten weder einen unfairen Wettbewerb zwischen Wirtschaftsakteuren nach sich zieht noch die Objektivität, Unabhängigkeit oder Unparteilichkeit der Parteien der Vereinbarung beeinträchtigt.
+
+( 4 ) Eine Marktüberwachungsbehörde kann alle Informationen verwenden, die sie im Rahmen gemeinsamer Tätigkeiten, die Teil einer von ihr durchgeführten Untersuchung waren, erlangt hat.
+
+( 5 ) Die betreffende Marktüberwachungsbehörde und gegebenenfalls die Kommission machen die Vereinbarung über gemeinsame Tätigkeiten einschließlich der Namen der Beteiligten der Öffentlichkeit zugänglich.
+
+Vorheriger Artikel
+Artikel 58 Artikel 58 - Formale Nichtkonformität
+
+Nächster Artikel
+Artikel 60 Artikel 60 - Koordinierte Kontrollen (Sweeps)
+
+CRA-Updates per E-Mail
+Fristen, Guidance und Mythos-Faktenchecks zum EU Cyber Resilience Act, kompakt im Newsletter.
+
+Newsletter ansehen
+
+Dieser Text wurde aus der Verordnung (EU) 2024/2847 des Europäischen Parlaments und des Rates vom 23. Oktober 2024 übernommen. Die Darstellung dient ausschließlich Informationszwecken und stellt keine Rechtsberatung dar. Maßgeblich ist allein der im Amtsblatt der Europäischen Union veröffentlichte Wortlaut. Originaltext auf EUR-Lex
+
+Kunnus ist ein Produkt und Marke von Think Ahead .
+
+Plattform
+Alle Funktionen
+Multi-Produkt-Plattform
+CRA-Abdeckung
+Walkthrough
+SBOM-Scanner
+Scanner-Doku
+Roadmap
+Demo anfordern
+
+Lösungen
+Startups
+KMU
+Enterprise
+Anwendungsfälle
+
+Branchen
+Industriemaschinen
+IoT & Konsumgüter
+Energie & Gebäudetechnik
+Industriekomponenten
+Smart Farming
+Telekommunikation
+Software & SaaS
+Embedded Systems
+Smart Home & Consumer
+
+Ressourcen
+Wissensdatenbank
+CRA Leitfaden
+SECURE-Förderung
+Blog
+Events
+CRA & Schweiz
+Newsletter
+
+Unternehmen
+Über uns
+Team
+Methodik
+Partnerprogramm
+Karriere
+Impressum
+GitHub
+
+© 2026 Think Ahead Technologies GmbH. All rights reserved.
+Datenschutz Cookies Sicherheit Impressum
+

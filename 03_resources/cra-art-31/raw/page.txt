@@ -1,0 +1,122 @@
+EU CRA Artikel 31 — Technische Dokumentation
+Die ersten Pflichten des EU Cyber Resilience Act für Hersteller gelten seit dem 11. September 2026.Erste Pflichten seit September 2026Was jetzt zu tun ist
+Plattform
+Lösungen
+Ressourcen
+Unternehmen
+Wissensdatenbank
+
+DE
+EinloggenDemo anfordernToggle menu
+
+WissensdatenbankArtikelArtikel 31Kapitel III - KONFORMITÄT DES PRODUKTS MIT DIGITALEN ELEMENTEN
+31Artikel 31
+Technische Dokumentation
+
+Verordnung (EU) 2024/2847 — veröffentlicht 10. Dezember 2024 · Letzte Prüfung durch Kunnus: März 2026
+Schnellantwort für Hersteller
+
+Artikel 31 regelt Inhalt, Form und Aufbewahrung der Technischen Dokumentation. Der konkrete Inhalt steht in Anhang VII. Hersteller müssen die Dokumentation 10 Jahre nach Inverkehrbringen aufbewahren und auf Anforderung Marktüberwachungsbehörden vorlegen.
+Diese Schnellantwort + FAQ ergänzen den Original-Rechtstext mit praxisorientierter Auslegung. Rechtsverbindlich ist allein der Originaltext.
+
+(1)Die technische Dokumentation enthält alle einschlägigen Daten oder Einzelheiten darüber, wie der Hersteller sicherstellt, dass das Produkt mit digitalen Elementen und die vom Hersteller festgelegten Verfahren den grundlegenden Cybersicherheitsanforderungen in Anhang I genügen. Sie enthält zumindest die in Anhang VII genannten Angaben.
+
+(2)Die technische Dokumentation wird vor dem Inverkehrbringen des Produkts mit digitalen Elementen erstellt und gegebenenfalls, zumindest während des Unterstützungszeitraums, laufend aktualisiert.
+
+(3)Bei Produkten mit digitalen Elementen gemäß Artikel 12, die auch anderen Rechtsakten der Union unterliegen, in denen eine technische Dokumentation vorgesehen ist, wird eine einzige technische Dokumentation erstellt, die die in Anhang VII genannten Informationen sowie die nach den anderen Rechtsakten der Union erforderlichen Informationen enthält.
+
+(4)Die technische Dokumentation und die Korrespondenz im Zusammenhang mit den Konformitätsbewertungsverfahren werden in einer Amtssprache des Mitgliedstaats, in dem die notifizierte Stelle ansässig ist, oder in einer von dieser Stelle zugelassenen Sprache abgefasst.
+
+(5)Der Kommission wird die Befugnis übertragen, gemäß Artikel 61 delegierte Rechtsakte zu erlassen, mit denen diese Verordnung durch Hinzufügung von Elementen ergänzt wird, die in die technische Dokumentation gemäß Anhang VII aufzunehmen sind, um den technischen Entwicklungen und den Entwicklungen bei der Durchführung dieser Verordnung Rechnung zu tragen. Zu diesem Zweck bemüht sich die Kommission, sicherzustellen, dass der Verwaltungsaufwand für Kleinstunternehmen sowie kleine und mittlere Unternehmen verhältnismäßig ist.
+
+Auslegung der EU-Kommission
+Guidance vom 27. Juli 2026
+Die EU-Kommissions-Guidance vom 27. Juli 2026 enthält offizielle Auslegungshinweise zu dieser Vorschrift. Jeder Abschnitt: Kurzfassung, Kernaussagen und was das konkret für Sie bedeutet.
+Abschnitt 8.2RDPS in Doku, Risikobewertung und Konformitätsbewertung+RDPS gehören in Risikobewertung, technische Dokumentation und Konformitätsbewertung des Produkts — beschränkt auf die Software-Module, die die Produktfunktion tragen, und deren Schnittstellen. Nachgelagerte Backend-Systeme ohne direkte Produkt-Interaktion sind kein RDPS, bleiben aber externe Abhängigkeiten, deren Risiken produktseitig zu mitigieren sind.
+Kernaussagen
+Ein RDPS, das mehrere Produkte bedient, ist in jeder Produkt-Doku zu deklarieren — die RDPS-Dokumentation darf über Konformitätsbewertungen hinweg wiederverwendet werden.
+Wiederverwendbare Assurance-Nachweise für Dritt-Services: NIS-2-Nachweise (DVO (EU) 2024/2690), DORA-Nachweise, Zertifikate nach EU-Cybersicherheits-Schemata, ISO/IEC 27001/27017.
+Änderungen an Dritt-Services sind keine wesentliche Änderung des Produkts — Hersteller sollten sich aber vertraglich (SLAs) Informationen und Sicherheitsgarantien zusichern lassen und die Risikobewertung nachziehen.
+Für die Praxis
+Legen Sie ein zentrales RDPS-Dossier an — betroffene Software-Module, Schnittstellen, genutzte Provider samt Nachweisen (ISO 27001/27017, NIS-2-, DORA-Evidenz, EUCC-Zertifikate) — und referenzieren Sie es aus jeder Produkt-Doku. Verankern Sie in Provider-SLAs, dass Sie über wesentliche Änderungen informiert werden: Die lösen zwar keine neue Konformitätsbewertung aus, wohl aber ein Update Ihrer Risikobewertung.
+
+Abschnitt im Guidance-Überblick
+Alle Guidance-Kapitel im ÜberblickEU-Kommissions-Guidance (C(2026) 5252 final) — Die Guidance gibt die Auslegung der Europäischen Kommission wieder und ist rechtlich nicht bindend. Eine verbindliche Auslegung des EU CRA kann nur der Gerichtshof der Europäischen Union vornehmen.
+
+Häufige Hersteller-Fragen
+
+Wie lange muss die Technische Dokumentation aufbewahrt werden?+10 Jahre nach Inverkehrbringen des Produkts. Diese Frist deckt sich mit der Haftungsfrist der revidierten Produkthaftungsrichtlinie — Aufbewahrung dient damit gleichzeitig der PHRL-Verteidigung.
+In welcher Sprache muss die Dokumentation sein?+Mindestens in einer Amtssprache der EU, die von den zuständigen Behörden des betreffenden Mitgliedstaats akzeptiert wird. In der Praxis meist Englisch oder die Landessprache.
+Was passiert bei unvollständiger Dokumentation während eines Audits?+Die Marktüberwachungsbehörde kann den Hersteller zur Vorlage in einer Frist auffordern. Nicht-Vorlage oder schwerwiegende Mängel können zu Bußgeldern, Vertriebsverbot oder Produktrückruf führen.
+
+Verwandte Erwägungsgründe
+(1)
+98Damit Produkte mit digitalen Elementen einer Konformitätsbewertung durch Dritte unterzogen werden können, sollten die nationalen notifizierenden Behörden der Kommission und den anderen Mitgliedstaaten…
+
+So deckt Kunnus das ab
+
+Die Pflichten aus diesem Abschnitt bildet die Kunnus-Plattform als strukturierte Workflows und auditfähige Nachweise ab.
+Technische DokumentationEvidence & Compliance
+
+Vorheriger Artikel
+Artikel 30Artikel 30 - Vorschriften und Bedingungen für die Anbringung de…
+
+Nächster Artikel
+Artikel 32Artikel 32 - Konformitätsbewertungsverfahren für Produkte mit d…
+
+CRA-Updates per E-Mail
+Fristen, Guidance und Mythos-Faktenchecks zum EU Cyber Resilience Act, kompakt im Newsletter.
+
+Newsletter ansehen
+
+Dieser Text wurde aus der Verordnung (EU) 2024/2847 des Europäischen Parlaments und des Rates vom 23. Oktober 2024 übernommen. Die Darstellung dient ausschließlich Informationszwecken und stellt keine Rechtsberatung dar. Maßgeblich ist allein der im Amtsblatt der Europäischen Union veröffentlichte Wortlaut. Originaltext auf EUR-Lex
+
+Kunnus ist ein Produkt und Marke von Think Ahead.
+
+Plattform
+Alle Funktionen
+Multi-Produkt-Plattform
+CRA-Abdeckung
+Walkthrough
+SBOM-Scanner
+Scanner-Doku
+Roadmap
+Demo anfordern
+
+Lösungen
+Startups
+KMU
+Enterprise
+Anwendungsfälle
+
+Branchen
+Industriemaschinen
+IoT & Konsumgüter
+Energie & Gebäudetechnik
+Industriekomponenten
+Smart Farming
+Telekommunikation
+Software & SaaS
+Embedded Systems
+Smart Home & Consumer
+
+Ressourcen
+Wissensdatenbank
+CRA Leitfaden
+SECURE-Förderung
+Blog
+Events
+CRA & Schweiz
+Newsletter
+
+Unternehmen
+Über uns
+Team
+Methodik
+Partnerprogramm
+Karriere
+Impressum
+GitHub
+
+© 2026 Think Ahead Technologies GmbH. All rights reserved.
+DatenschutzCookiesSicherheitImpressum

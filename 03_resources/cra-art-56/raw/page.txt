@@ -1,0 +1,96 @@
+EU CRA Artikel 56 — Verfahren auf Unionsebene für Produkte mit digitalen Elementen, die ein erhebliches Cybersicherheitsrisiko bergen
+Die ersten Pflichten des EU Cyber Resilience Act für Hersteller gelten seit dem 11. September 2026.Erste Pflichten seit September 2026Was jetzt zu tun ist
+Plattform
+Lösungen
+Ressourcen
+Unternehmen
+Wissensdatenbank
+
+DE
+EinloggenDemo anfordernToggle menu
+
+WissensdatenbankArtikelArtikel 56Kapitel V - MARKTÜBERWACHUNG UND DURCHSETZUNG
+56Artikel 56
+Verfahren auf Unionsebene für Produkte mit digitalen Elementen, die ein erhebliches Cybersicherheitsrisiko bergen
+
+Verordnung (EU) 2024/2847 — veröffentlicht 10. Dezember 2024 · Letzte Prüfung durch Kunnus: März 2026
+(1)Hat die Kommission — auch aufgrund von Informationen der ENISA — hinreichenden Grund zu der Annahme, dass ein Produkt mit digitalen Elementen, das ein erhebliches Cybersicherheitsrisiko birgt, den Anforderungen dieser Verordnung nicht genügt, so informiert sie die einschlägigen Marktüberwachungsbehörden. Führen die Marktüberwachungsbehörden eine Konformitätsbewertung dieses Produkts mit digitalen Elementen, das hinsichtlich seiner Konformität mit den Anforderungen dieser Verordnung ein erhebliches Cybersicherheitsrisiko bergen kann, durch, so finden die in den Artikeln 54 und 55 genannten Verfahren Anwendung.
+
+(2)Hat die Kommission hinreichenden Grund zu der Annahme, dass ein Produkt mit digitalen Elementen angesichts nichttechnischer Risikofaktoren ein erhebliches Cybersicherheitsrisiko birgt, unterrichtet sie die einschlägigen Marktüberwachungsbehörden und gegebenenfalls die gemäß Artikel 8 der Richtlinie (EU) 2022/2555 benannten oder eingerichteten zuständigen Behörden und arbeitet mit diesen Behörden bei Bedarf zusammen. Die Kommission prüft auch die Relevanz der ermittelten Risiken für dieses Produkt mit digitalen Elementen im Hinblick auf ihre Aufgaben im Zusammenhang mit den koordinierten Risikobewertungen in Bezug auf die Sicherheit der Lieferketten auf Unionsebene gemäß Artikel 22 der Richtlinie (EU) 2022/2555 und konsultiert erforderlichenfalls die gemäß Artikel 14 der Richtlinie (EU) 2022/2555 eingesetzte Kooperationsgruppe und die ENISA.
+
+(3)Unter Umständen, die ein sofortiges Eingreifen rechtfertigen, um das reibungslose Funktionieren des Binnenmarkts zu bewahren, und wenn die Kommission hinreichenden Grund zu der Annahme hat, dass das in Absatz 1 genannte Produkt mit digitalen Elementen weiterhin den Anforderungen dieser Verordnung nicht genügt und die einschlägigen Marktüberwachungsbehörden keine wirksamen Maßnahmen ergriffen haben, nimmt die Kommission eine Bewertung der Konformität vor und kann die ENISA um eine Analyse zur Untermauerung der Bewertung ersuchen. Die Kommission unterrichtet die einschlägigen Marktüberwachungsbehörden hierüber. Die betroffenen Wirtschaftsakteure arbeiten im erforderlichen Umfang mit der ENISA zusammen.
+
+(4)Auf der Grundlage der Bewertung nach Absatz 3 kann die Kommission feststellen, dass eine Korrekturmaßnahme oder eine einschränkende Maßnahme auf Unionsebene erforderlich ist. Zu diesem Zweck konsultiert sie unverzüglich die betroffenen Mitgliedstaaten und den bzw. die betroffenen Wirtschaftsakteure.
+
+(5)Auf der Grundlage der in Absatz 4 dieses Artikels genannten Konsultation kann die Kommission Durchführungsrechtsakte über Korrekturmaßnahmen oder einschränkende Maßnahmen auf Unionsebene erlassen, einschließlich der Forderung der Rücknahme vom Markt oder des Rückrufs der betreffenden Produkte mit digitalen Elementen innerhalb einer der Art des Risikos angemessenen Frist. Diese Durchführungsrechtsakte werden gemäß dem in Artikel 62 Absatz 2 genannten Prüfverfahren erlassen.
+
+(6)Die Kommission unterrichtet den bzw. die betroffenen Wirtschaftsakteure unverzüglich über die in Absatz 5 genannten Durchführungsrechtsakte. Die Mitgliedstaaten führen diese Durchführungsrechtsakte unverzüglich durch und unterrichten die Kommission hierüber.
+
+(7)Die Absätze 3 bis 6 gelten für die Dauer der außergewöhnlichen Umstände, die das Eingreifen der Kommission gerechtfertigt haben, solange die Konformität des betreffenden Produkts mit digitalen Elementen mit dieser Verordnung nicht hergestellt worden ist.
+
+Verwandte Erwägungsgründe
+(1)
+116Mit dieser Verordnung werden der ENISA bestimmte Aufgaben übertragen, die angemessene Ressourcen sowohl in Bezug auf Sachkenntnis als auch auf Humanressourcen erfordern, damit die ENISA in die Lage ve…
+
+Vorheriger Artikel
+Artikel 55Artikel 55 - Schutzklauselverfahren der Union
+
+Nächster Artikel
+Artikel 57Artikel 57 - Konforme Produkte mit digitalen Elementen, die ein…
+
+CRA-Updates per E-Mail
+Fristen, Guidance und Mythos-Faktenchecks zum EU Cyber Resilience Act, kompakt im Newsletter.
+
+Newsletter ansehen
+
+Dieser Text wurde aus der Verordnung (EU) 2024/2847 des Europäischen Parlaments und des Rates vom 23. Oktober 2024 übernommen. Die Darstellung dient ausschließlich Informationszwecken und stellt keine Rechtsberatung dar. Maßgeblich ist allein der im Amtsblatt der Europäischen Union veröffentlichte Wortlaut. Originaltext auf EUR-Lex
+
+Kunnus ist ein Produkt und Marke von Think Ahead.
+
+Plattform
+Alle Funktionen
+Multi-Produkt-Plattform
+CRA-Abdeckung
+Walkthrough
+SBOM-Scanner
+Scanner-Doku
+Roadmap
+Demo anfordern
+
+Lösungen
+Startups
+KMU
+Enterprise
+Anwendungsfälle
+
+Branchen
+Industriemaschinen
+IoT & Konsumgüter
+Energie & Gebäudetechnik
+Industriekomponenten
+Smart Farming
+Telekommunikation
+Software & SaaS
+Embedded Systems
+Smart Home & Consumer
+
+Ressourcen
+Wissensdatenbank
+CRA Leitfaden
+SECURE-Förderung
+Blog
+Events
+CRA & Schweiz
+Newsletter
+
+Unternehmen
+Über uns
+Team
+Methodik
+Partnerprogramm
+Karriere
+Impressum
+GitHub
+
+© 2026 Think Ahead Technologies GmbH. All rights reserved.
+DatenschutzCookiesSicherheitImpressum

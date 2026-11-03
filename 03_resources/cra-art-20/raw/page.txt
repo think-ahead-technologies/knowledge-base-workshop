@@ -1,0 +1,101 @@
+EU CRA Artikel 20 — Pflichten der Händler
+Die ersten Pflichten des EU Cyber Resilience Act für Hersteller gelten seit dem 11. September 2026.Erste Pflichten seit September 2026Was jetzt zu tun ist
+Plattform
+Lösungen
+Ressourcen
+Unternehmen
+Wissensdatenbank
+
+DE
+EinloggenDemo anfordernToggle menu
+
+WissensdatenbankArtikelArtikel 20Kapitel II - PFLICHTEN DER WIRTSCHAFTSAKTEURE UND BESTIMMUNGEN IN BEZUG AUF FREIE UND QUELLOFFENE SOFTWARE
+20Artikel 20
+Pflichten der Händler
+
+Verordnung (EU) 2024/2847 — veröffentlicht 10. Dezember 2024 · Letzte Prüfung durch Kunnus: März 2026
+(1)Wenn sie ein Produkt mit digitalen Elementen auf dem Markt bereitstellen, befolgen die Händler die Vorschriften dieser Verordnung mit der gebührenden Sorgfalt.
+
+(2)Bevor sie ein Produkt mit digitalen Elementen auf dem Markt bereitstellen, überprüfen die Händler, ob
+
+a)das Produkt mit digitalen Elementen mit der CE-Kennzeichnung versehen ist;
+
+b)der Hersteller und der Einführer die Anforderungen nach Artikel 13 Absätze 15, 16, 18, 19 und 20 sowie Artikel 19 Absatz 4 erfüllt haben und dem Händler alle erforderlichen Dokumente zur Verfügung gestellt haben.
+
+(3)Ist ein Händler der Auffassung oder hat er ausgehend von den ihm vorliegenden Informationen Grund zu der Annahme, dass ein Produkt mit digitalen Elementen oder die vom Hersteller festgelegten Verfahren den grundlegenden Cybersicherheitsanforderungen in Anhang I nicht genügen, stellt er das Produkt mit digitalen Elementen erst dann auf dem Markt bereit, wenn die Konformität dieses Produkts und der vom Hersteller festgelegten Verfahren mit dieser Verordnung hergestellt ist. Wenn das Produkt mit digitalen Elementen ein erhebliches Cybersicherheitsrisiko birgt, unterrichtet der Händler zudem unverzüglich den Hersteller und die Marktüberwachungsbehörden hiervon.
+
+(4)Händler, denen bekannt ist oder die ausgehend von den ihnen vorliegenden Informationen Grund zu der Annahme haben, dass ein Produkt mit digitalen Elementen, das sie auf dem Markt bereitgestellt haben, oder die von dessen Hersteller festgelegten Verfahren dieser Verordnung nicht entsprechen, sorgen dafür, dass die erforderlichen Korrekturmaßnahmen ergriffen werden, um die Konformität dieses Produkts mit digitalen Elementen und der vom Hersteller festgelegten Verfahren herzustellen oder um gegebenenfalls das Produkt vom Markt zu nehmen oder zurückzurufen. Sobald die Händler von einer Schwachstelle in dem Produkt mit digitalen Elementen Kenntnis erhalten, informieren sie den Hersteller unverzüglich über diese Schwachstelle. Wenn das Produkt mit digitalen Elementen ein erhebliches Cybersicherheitsrisiko birgt, unterrichten die Händler zudem unverzüglich die Marktüberwachungsbehörden der Mitgliedstaaten, in denen sie das Produkt mit digitalen Elementen auf dem Markt bereitgestellt haben, und machen dabei genaue Angaben insbesondere über die Nichtkonformität und ergriffene Korrekturmaßnahmen.
+
+(5)Die Händler übermitteln der Marktüberwachungsbehörde auf deren begründetes Verlangen in Papierform oder in elektronischer Form in einer Sprache, die von der Behörde leicht verstanden werden kann, alle Informationen und Unterlagen, die für den Nachweis der Konformität des Produkts mit digitalen Elementen und der vom Hersteller festgelegten Verfahren dieser Verordnung erforderlich sind. Sie arbeiten mit dieser Behörde auf deren Verlangen bei allen Maßnahmen zur Abwendung der Cybersicherheitsrisiken zusammen, die mit einem von ihnen auf dem Markt bereitgestellten Produkt mit digitalen Elementen verbunden sind.
+
+(6)Wird dem Händler eines Produkts mit digitalen Elementen ausgehend von den ihm vorliegenden Informationenbekannt, dass der Hersteller dieses Produkts seine Betriebstätigkeit eingestellt hat und infolgedessen nicht in der Lage ist, die in dieser Verordnung festgelegten Pflichten zu erfüllen, unterrichtet er hiervon unverzüglich die einschlägigen Marktüberwachungsbehörden sowie — mit allen verfügbaren Mitteln und soweit möglich — die Nutzer der in den Verkehr gebrachten Produkte mit digitalen Elementen.
+
+Verwandte Erwägungsgründe
+(2)
+82Beim Inkrafttreten der Durchführungsverordnung (EU) 2024/482, die in den Anwendungsbereich dieser Verordnung fallende Produkte wie Hardware-Sicherheitsmodule und Mikroprozessoren betrifft, sollte die…
+
+83Der bestehende europäische Normungsrahmen, dem die Grundsätze der neuen Konzeption gemäß der Entschließung des Rates vom 7. Mai 1985 über eine neue Konzeption auf dem Gebiet der technischen Harmonisie…
+
+Vorheriger Artikel
+Artikel 19Artikel 19 - Pflichten der Einführer
+
+Nächster Artikel
+Artikel 21Artikel 21 - Fälle, in denen die Pflichten der Hersteller auch …
+
+CRA-Updates per E-Mail
+Fristen, Guidance und Mythos-Faktenchecks zum EU Cyber Resilience Act, kompakt im Newsletter.
+
+Newsletter ansehen
+
+Dieser Text wurde aus der Verordnung (EU) 2024/2847 des Europäischen Parlaments und des Rates vom 23. Oktober 2024 übernommen. Die Darstellung dient ausschließlich Informationszwecken und stellt keine Rechtsberatung dar. Maßgeblich ist allein der im Amtsblatt der Europäischen Union veröffentlichte Wortlaut. Originaltext auf EUR-Lex
+
+Kunnus ist ein Produkt und Marke von Think Ahead.
+
+Plattform
+Alle Funktionen
+Multi-Produkt-Plattform
+CRA-Abdeckung
+Walkthrough
+SBOM-Scanner
+Scanner-Doku
+Roadmap
+Demo anfordern
+
+Lösungen
+Startups
+KMU
+Enterprise
+Anwendungsfälle
+
+Branchen
+Industriemaschinen
+IoT & Konsumgüter
+Energie & Gebäudetechnik
+Industriekomponenten
+Smart Farming
+Telekommunikation
+Software & SaaS
+Embedded Systems
+Smart Home & Consumer
+
+Ressourcen
+Wissensdatenbank
+CRA Leitfaden
+SECURE-Förderung
+Blog
+Events
+CRA & Schweiz
+Newsletter
+
+Unternehmen
+Über uns
+Team
+Methodik
+Partnerprogramm
+Karriere
+Impressum
+GitHub
+
+© 2026 Think Ahead Technologies GmbH. All rights reserved.
+DatenschutzCookiesSicherheitImpressum
+

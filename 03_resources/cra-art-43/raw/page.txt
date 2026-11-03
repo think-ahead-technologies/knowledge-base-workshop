@@ -1,0 +1,90 @@
+EU CRA Artikel 43 — Notifizierungsverfahren
+Die ersten Pflichten des EU Cyber Resilience Act für Hersteller gelten seit dem 11. September 2026.Erste Pflichten seit September 2026Was jetzt zu tun ist
+Plattform
+Lösungen
+Ressourcen
+Unternehmen
+Wissensdatenbank
+
+DE
+EinloggenDemo anfordernToggle menu
+
+WissensdatenbankArtikelArtikel 43Kapitel IV - NOTIFIZIERUNG VON KONFORMITÄTSBEWERTUNGSSTELLEN
+43Artikel 43
+Notifizierungsverfahren
+
+Verordnung (EU) 2024/2847 — veröffentlicht 10. Dezember 2024 · Letzte Prüfung durch Kunnus: März 2026
+(1)Die notifizierenden Behörden notifizieren nur Konformitätsbewertungsstellen, die die Anforderungen in Artikel 39 erfüllen.
+
+(2)Die notifizierende Behörde unterrichtet die Kommission und die anderen Mitgliedstaaten mittels des von der Kommission entwickelten und verwalteten Informationssystems für die nach dem neuen Konzept notifizierten und benannten Organisationen.
+
+(3)Die Notifizierung enthält vollständige Angaben zu den Konformitätsbewertungstätigkeiten, dem bzw. den betreffenden Konformitätsbewertungsmodulen und Produkten mit digitalen Elementen sowie die einschlägige Bestätigung der Kompetenz.
+
+(4)Beruht eine Notifizierung nicht auf einer Akkreditierungsurkunde gemäß Artikel 42 Absatz 2, legt die notifizierende Behörde der Kommission und den anderen Mitgliedstaaten Unterlagen vor, mit denen die Kompetenz der Konformitätsbewertungsstelle nachgewiesen wird, sowie die Vereinbarungen, die getroffen wurden, um sicherzustellen, dass die Stelle regelmäßig überwacht wird und stets den Anforderungen in Artikel 39 genügt.
+
+(5)Die betreffende Stelle darf die Aufgaben einer notifizierten Stelle nur dann wahrnehmen, wenn weder die Kommission noch die anderen Mitgliedstaaten innerhalb von zwei Wochen nach der Notifizierung, falls eine Akkreditierungsurkunde vorliegt, oder innerhalb von zwei Monaten nach der Notifizierung, falls keine Akkreditierung vorliegt, Einwände erhoben haben. Nur eine solche Stelle gilt für die Zwecke dieser Verordnung als notifizierte Stelle.
+
+(6)Die Kommission und die anderen Mitgliedstaaten werden über alle späteren relevanten Änderungen der Notifizierung informiert.
+
+Vorheriger Artikel
+Artikel 42Artikel 42 - Antrag auf Notifizierung
+
+Nächster Artikel
+Artikel 44Artikel 44 - Kennnummern und Verzeichnisse notifizierter Stelle…
+
+CRA-Updates per E-Mail
+Fristen, Guidance und Mythos-Faktenchecks zum EU Cyber Resilience Act, kompakt im Newsletter.
+
+Newsletter ansehen
+
+Dieser Text wurde aus der Verordnung (EU) 2024/2847 des Europäischen Parlaments und des Rates vom 23. Oktober 2024 übernommen. Die Darstellung dient ausschließlich Informationszwecken und stellt keine Rechtsberatung dar. Maßgeblich ist allein der im Amtsblatt der Europäischen Union veröffentlichte Wortlaut. Originaltext auf EUR-Lex
+
+Kunnus ist ein Produkt und Marke von Think Ahead.
+
+Plattform
+Alle Funktionen
+Multi-Produkt-Plattform
+CRA-Abdeckung
+Walkthrough
+SBOM-Scanner
+Scanner-Doku
+Roadmap
+Demo anfordern
+
+Lösungen
+Startups
+KMU
+Enterprise
+Anwendungsfälle
+
+Branchen
+Industriemaschinen
+IoT & Konsumgüter
+Energie & Gebäudetechnik
+Industriekomponenten
+Smart Farming
+Telekommunikation
+Software & SaaS
+Embedded Systems
+Smart Home & Consumer
+
+Ressourcen
+Wissensdatenbank
+CRA Leitfaden
+SECURE-Förderung
+Blog
+Events
+CRA & Schweiz
+Newsletter
+
+Unternehmen
+Über uns
+Team
+Methodik
+Partnerprogramm
+Karriere
+Impressum
+GitHub
+
+© 2026 Think Ahead Technologies GmbH. All rights reserved.
+DatenschutzCookiesSicherheitImpressum

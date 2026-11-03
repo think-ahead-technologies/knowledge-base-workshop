@@ -1,0 +1,73 @@
+EU CRA Artikel 18 — Bevollmächtigte
+Die ersten Pflichten des EU Cyber Resilience Act für Hersteller gelten seit dem 11. September 2026.Erste Pflichten seit September 2026Was jetzt zu tun ist
+Plattform
+Lösungen
+Ressourcen
+Unternehmen
+Wissensdatenbank
+DE
+EinloggenDemo anfordernToggle menu
+WissensdatenbankArtikelArtikel 18Kapitel II - PFLICHTEN DER WIRTSCHAFTSAKTEURE UND BESTIMMUNGEN IN BEZUG AUF FREIE UND QUELLOFFENE SOFTWARE
+18Artikel 18
+Bevollmächtigte
+Verordnung (EU) 2024/2847 — veröffentlicht 10. Dezember 2024 · Letzte Prüfung durch Kunnus: März 2026
+(1)Ein Hersteller kann schriftlich einen Bevollmächtigten benennen.
+(2)Die in Artikel 13 Absatz 1 bis Absatz 11, Artikel 13 Absatz 12 Unterabsatz 1 und Artikel 13 Absatz 14 festgelegten Pflichten sind nicht Teil des Auftrags des Bevollmächtigten.
+(3)Ein Bevollmächtigter nimmt die Aufgaben wahr, die in dem vom Hersteller erteilten Auftrag festgelegt sind. Der Bevollmächtigte legt den Marktüberwachungsbehörden auf Verlangen eine Kopie des Auftrags vor. Der Auftrag muss es dem Bevollmächtigten ermöglichen, mindestens folgende Aufgaben wahrzunehmen:
+a)Bereithaltung der in Artikel 28 genannten EU-Konformitätserklärung und der in Artikel 31 genannten technischen Dokumentation für die Marktüberwachungsbehörden mindestens zehn Jahre lang ab dem Inverkehrbringen des Produkts mit digitalen Elementen oder für den Unterstützungszeitraum, je nachdem, welcher Zeitraum länger ist;
+b)Übermittlung aller zum Nachweis der Konformität des Produkts mit digitalen Elementen erforderlichen Informationen und Unterlagen an eine Marktüberwachungsbehörde auf deren begründetes Verlangen;
+c)Zusammenarbeit mit den Marktüberwachungsbehörden auf deren Verlangen bei allen Maßnahmen zur Abwendung der Risiken, die von einem Produkt mit digitalen Elementen ausgehen, das zum Aufgabenbereich des Bevollmächtigten gehört.
+Verwandte Erwägungsgründe
+(1)
+79Um die Bewertung der Konformität mit den in dieser Verordnung festgelegten Anforderungen zu erleichtern, sollte eine Konformitätsvermutung für Produkte mit digitalen Elementen gelten, die harmonisiert…
+Vorheriger Artikel
+Artikel 17Artikel 17 - Sonstige Bestimmungen im Zusammenhang mit der Beri…
+Nächster Artikel
+Artikel 19Artikel 19 - Pflichten der Einführer
+CRA-Updates per E-Mail
+Fristen, Guidance und Mythos-Faktenchecks zum EU Cyber Resilience Act, kompakt im Newsletter.
+Newsletter ansehen
+Dieser Text wurde aus der Verordnung (EU) 2024/2847 des Europäischen Parlaments und des Rates vom 23. Oktober 2024 übernommen. Die Darstellung dient ausschließlich Informationszwecken und stellt keine Rechtsberatung dar. Maßgeblich ist allein der im Amtsblatt der Europäischen Union veröffentlichte Wortlaut. Originaltext auf EUR-Lex
+Kunnus ist ein Produkt und Marke von Think Ahead.
+Plattform
+Alle Funktionen
+Multi-Produkt-Plattform
+CRA-Abdeckung
+Walkthrough
+SBOM-Scanner
+Scanner-Doku
+Roadmap
+Demo anfordern
+Lösungen
+Startups
+KMU
+Enterprise
+Anwendungsfälle
+Branchen
+Industriemaschinen
+IoT & Konsumgüter
+Energie & Gebäudetechnik
+Industriekomponenten
+Smart Farming
+Telekommunikation
+Software & SaaS
+Embedded Systems
+Smart Home & Consumer
+Ressourcen
+Wissensdatenbank
+CRA Leitfaden
+SECURE-Förderung
+Blog
+Events
+CRA & Schweiz
+Newsletter
+Unternehmen
+Über uns
+Team
+Methodik
+Partnerprogramm
+Karriere
+Impressum
+GitHub
+© 2026 Think Ahead Technologies GmbH. All rights reserved.
+DatenschutzCookiesSicherheitImpressum

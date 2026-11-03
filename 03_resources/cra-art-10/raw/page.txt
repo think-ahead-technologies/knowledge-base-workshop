@@ -1,0 +1,105 @@
+EU CRA Artikel 10 — Ausbau der Kompetenzen in einem digitalen Umfeld mit Cyberabwehrfähigkeit
+Die ersten Pflichten des EU Cyber Resilience Act für Hersteller gelten seit dem 11. September 2026.
+Erste Pflichten seit September 2026
+Was jetzt zu tun ist
+Plattform
+Lösungen
+Ressourcen
+Unternehmen
+Wissensdatenbank
+DE
+Einloggen
+Demo anfordern
+Toggle menu
+Wissensdatenbank
+Artikel
+Artikel 10
+Kapitel
+I
+-
+ALLGEMEINE BESTIMMUNGEN
+10
+Artikel
+10
+Ausbau der Kompetenzen in einem digitalen Umfeld mit Cyberabwehrfähigkeit
+Verordnung (EU) 2024/2847 — veröffentlicht 10. Dezember 2024 · Letzte Prüfung durch Kunnus: März 2026
+Für die Zwecke dieser Verordnung und um den Bedürfnissen der Fachkräfte bei der Unterstützung der Durchführung dieser Verordnung gerecht zu werden, fördern die Mitgliedstaaten — gegebenenfalls mit Unterstützung der Kommission, des Europäischen Kompetenzzentrums für Cybersicherheit und der ENISA — unter uneingeschränkter Achtung der Verantwortung der Mitgliedstaaten im Bildungsbereich Maßnahmen und Strategien, die auf Folgendes abzielen:
+a)
+Entwicklung von Cybersicherheitskompetenzen und Schaffung organisatorischer und technologischer Instrumente, um eine ausreichende Verfügbarkeit qualifizierter Fachkräfte sicherzustellen, um die Tätigkeiten der Marktüberwachungsbehörden und Konformitätsbewertungsstellen zu unterstützen;
+b)
+Stärkung der Zusammenarbeit zwischen dem Privatsektor und den Wirtschaftsakteuren, unter anderem durch Umschulung oder Weiterbildung der Beschäftigten der Hersteller, den Verbrauchern, den Ausbildungseinrichtungen sowie den öffentlichen Verwaltungen, um jungen Menschen so mehr Möglichkeiten für den Zugang zu Arbeitsplätzen im Cybersicherheitssektor zu eröffnen.
+Verwandte Erwägungsgründe
+(
+1
+)
+47
+In delegierten Rechtsakten, mit denen eine verpflichtende europäische Cybersicherheitszertifizierung vorgeschrieben wird, sollten die Produkte mit digitalen Elementen bestimmt werden, die die Kernfunk…
+Vorheriger Artikel
+Artikel
+9
+Artikel
+9
+-
+Konsultation der Interessenträger
+Nächster Artikel
+Artikel
+11
+Artikel
+11
+-
+Allgemeine Produktsicherheit
+CRA-Updates per E-Mail
+Fristen, Guidance und Mythos-Faktenchecks zum EU Cyber Resilience Act, kompakt im Newsletter.
+Newsletter ansehen
+Dieser Text wurde aus der Verordnung (EU) 2024/2847 des Europäischen Parlaments und des Rates vom 23. Oktober 2024 übernommen. Die Darstellung dient ausschließlich Informationszwecken und stellt keine Rechtsberatung dar. Maßgeblich ist allein der im Amtsblatt der Europäischen Union veröffentlichte Wortlaut.
+Originaltext auf EUR-Lex
+Kunnus ist ein Produkt und Marke von
+Think Ahead
+.
+Plattform
+Alle Funktionen
+Multi-Produkt-Plattform
+CRA-Abdeckung
+Walkthrough
+SBOM-Scanner
+Scanner-Doku
+Roadmap
+Demo anfordern
+Lösungen
+Startups
+KMU
+Enterprise
+Anwendungsfälle
+Branchen
+Industriemaschinen
+IoT & Konsumgüter
+Energie & Gebäudetechnik
+Industriekomponenten
+Smart Farming
+Telekommunikation
+Software & SaaS
+Embedded Systems
+Smart Home & Consumer
+Ressourcen
+Wissensdatenbank
+CRA Leitfaden
+SECURE-Förderung
+Blog
+Events
+CRA & Schweiz
+Newsletter
+Unternehmen
+Über uns
+Team
+Methodik
+Partnerprogramm
+Karriere
+Impressum
+GitHub
+©
+2026
+Think Ahead Technologies GmbH. All rights reserved.
+Datenschutz
+Cookies
+Sicherheit
+Impressum

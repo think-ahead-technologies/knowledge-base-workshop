@@ -1,0 +1,72 @@
+EU CRA Artikel 55 — Schutzklauselverfahren der Union
+Die ersten Pflichten des EU Cyber Resilience Act für Hersteller gelten seit dem 11. September 2026.Erste Pflichten seit September 2026Was jetzt zu tun ist
+Plattform
+Lösungen
+Ressourcen
+Unternehmen
+Wissensdatenbank
+DE
+EinloggenDemo anfordernToggle menu
+WissensdatenbankArtikelArtikel 55Kapitel V - MARKTÜBERWACHUNG UND DURCHSETZUNG
+55Artikel 55
+Schutzklauselverfahren der Union
+Verordnung (EU) 2024/2847 — veröffentlicht 10. Dezember 2024 · Letzte Prüfung durch Kunnus: März 2026
+(1)Erhebt ein Mitgliedstaat innerhalb von drei Monaten nach Eingang der in Artikel 54 Absatz 5 genannten Unterrichtung Einwände gegen eine von einem anderen Mitgliedstaat getroffene Maßnahme oder ist die Kommission der Ansicht, dass die Maßnahme mit dem Unionsrecht unvereinbar ist, so nimmt die Kommission unverzüglich Konsultationen mit dem betreffenden Mitgliedstaat oder Wirtschaftsakteur auf und prüft die nationale Maßnahme. Anhand der Ergebnisse dieser Prüfung entscheidet die Kommission innerhalb von neun Monaten nach Eingang der in Artikel 54 Absatz 5 genannten Unterrichtung, ob die nationale Maßnahme gerechtfertigt ist oder nicht und teilt dem betreffenden Mitgliedstaat diese Entscheidung mit.
+(2)Hält sie die nationale Maßnahme für gerechtfertigt, so ergreifen alle Mitgliedstaaten die erforderlichen Maßnahmen, um zu gewährleisten, dass das nichtkonforme Produkt mit digitalen Elementen von ihrem Markt genommen wird, und unterrichten die Kommission darüber. Wird die nationale Maßnahme als nicht gerechtfertigt erachtet, so muss der betreffende Mitgliedstaat sie zurücknehmen.
+(3)Wird die nationale Maßnahme als gerechtfertigt erachtet und wird die Nichtkonformität des Produkts mit digitalen Elementen auf Mängel in den harmonisierten Normen zurückgeführt, so leitet die Kommission das Verfahren nach Artikel 11 der Verordnung (EU) Nr. 1025/2012 ein.
+(4)Wird die nationale Maßnahme als gerechtfertigt erachtet und wird die Nichtkonformität des Produkts mit digitalen Elementen auf Mängel in einem europäischen Schema für die Cybersicherheitszertifizierung gemäß Artikel 27 zurückgeführt, so prüft die Kommission, ob ein gemäß Artikel 27 Absatz 9 angenommener delegierter Rechtsakt, in dem die Konformitätsvermutung in Bezug auf dieses Zertifizierungsschemas festgelegt worden ist, zu ändern oder aufzuheben ist.
+(5)Wird die nationale Maßnahme als gerechtfertigt erachtet und wird die Nichtkonformität des Produkts mit digitalen Elementen auf Mängel in gemeinsamen Spezifikationen gemäß Artikel 27 zurückgeführt, so prüft die Kommission, ob ein gemäß Artikel 27 Absatz 2 angenommener Durchführungsrechtsakt, in dem die gemeinsamen Spezifikationen festgelegt worden sind, zu ändern oder aufzuheben ist.
+Verwandte Erwägungsgründe
+(1)
+115Angesichts ihrer Sachkenntnis und ihres Auftrags sollte die ENISA in der Lage sein, den Prozess der Durchführung dieser Verordnung zu unterstützen. Die ENISA sollte insbesondere in der Lage sein, geme…
+Vorheriger Artikel
+Artikel 54Artikel 54 - Nationale Verfahren für Produkte mit digitalen Ele…
+Nächster Artikel
+Artikel 56Artikel 56 - Verfahren auf Unionsebene für Produkte mit digital…
+CRA-Updates per E-Mail
+Fristen, Guidance und Mythos-Faktenchecks zum EU Cyber Resilience Act, kompakt im Newsletter.
+Newsletter ansehen
+Dieser Text wurde aus der Verordnung (EU) 2024/2847 des Europäischen Parlaments und des Rates vom 23. Oktober 2024 übernommen. Die Darstellung dient ausschließlich Informationszwecken und stellt keine Rechtsberatung dar. Maßgeblich ist allein der im Amtsblatt der Europäischen Union veröffentlichte Wortlaut. Originaltext auf EUR-Lex
+Kunnus ist ein Produkt und Marke von Think Ahead.
+Plattform
+Alle Funktionen
+Multi-Produkt-Plattform
+CRA-Abdeckung
+Walkthrough
+SBOM-Scanner
+Scanner-Doku
+Roadmap
+Demo anfordern
+Lösungen
+Startups
+KMU
+Enterprise
+Anwendungsfälle
+Branchen
+Industriemaschinen
+IoT & Konsumgüter
+Energie & Gebäudetechnik
+Industriekomponenten
+Smart Farming
+Telekommunikation
+Software & SaaS
+Embedded Systems
+Smart Home & Consumer
+Ressourcen
+Wissensdatenbank
+CRA Leitfaden
+SECURE-Förderung
+Blog
+Events
+CRA & Schweiz
+Newsletter
+Unternehmen
+Über uns
+Team
+Methodik
+Partnerprogramm
+Karriere
+Impressum
+GitHub
+© 2026 Think Ahead Technologies GmbH. All rights reserved.
+DatenschutzCookiesSicherheitImpressum

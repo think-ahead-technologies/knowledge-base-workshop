@@ -1,0 +1,132 @@
+EU CRA Artikel 6 — Anforderungen an Produkte mit digitalen Elementen
+Die ersten Pflichten des EU Cyber Resilience Act für Hersteller gelten seit dem 11. September 2026.
+Erste Pflichten seit September 2026
+Was jetzt zu tun ist
+Plattform
+Lösungen
+Ressourcen
+Unternehmen
+Wissensdatenbank
+DE
+Einloggen
+Demo anfordern
+Toggle menu
+Wissensdatenbank
+Artikel
+Artikel 6
+Kapitel
+I
+-
+ALLGEMEINE BESTIMMUNGEN
+6
+Artikel
+6
+Anforderungen an Produkte mit digitalen Elementen
+Verordnung (EU) 2024/2847 — veröffentlicht 10. Dezember 2024 · Letzte Prüfung durch Kunnus: März 2026
+Schnellantwort für Hersteller
+Artikel 6 verweist auf die wesentlichen Cybersicherheitsanforderungen in Anhang I. Hersteller müssen diese Anforderungen über den gesamten Lebenszyklus erfüllen — durch Risikobewertung, sichere Entwicklung und kontinuierliche Schwachstellenbehandlung.
+Diese Schnellantwort + FAQ ergänzen den Original-Rechtstext mit praxisorientierter Auslegung. Rechtsverbindlich ist allein der Originaltext.
+Produkte mit digitalen Elementen werden nur dann auf dem Markt bereitgestellt, wenn
+a)
+sie den grundlegenden Cybersicherheitsanforderungen in
+Anhang I
+Teil I genügen und unter der Bedingung, dass sie ordnungsgemäß installiert, gewartet und bestimmungsgemäß oder unter vernünftigerweise vorhersehbaren Umständen verwendet werden sowie gegebenenfalls die erforderlichen Sicherheitsaktualisierungen installiert wurden; und
+b)
+die vom Hersteller festgelegten Verfahren den grundlegenden Cybersicherheitsanforderungen in
+Anhang I
+Teil II entsprechen.
+Häufige Hersteller-Fragen
+Was sind die Kernanforderungen aus Artikel 6 i.V.m. Anhang I?
++
+Sichere Standard-Konfiguration, Schutz vor unbefugtem Zugriff, Vertraulichkeit und Integrität von Daten, Verfügbarkeit kritischer Funktionen, Minimierung der Angriffsfläche und sicherer Update-Mechanismus. Details siehe Anhang I.
+Gelten alle Anhang-I-Anforderungen für jedes Produkt?
++
+Nicht zwingend. Wenn eine Anforderung für ein konkretes Produkt nicht anwendbar ist, muss der Hersteller dies in der Cybersicherheits-Risikobewertung in der Technischen Dokumentation begründen (vgl. Erwägungsgrund 55).
+Welche Rolle spielt die Risikobewertung in Artikel 6?
++
+Sie ist Pflicht und Steuerungsinstrument: Aus der Risikobewertung leitet der Hersteller ab, welche Anforderungen wie umgesetzt werden. Die Bewertung selbst ist Teil der Technischen Dokumentation nach Anhang VII.
+Verwandte Erwägungsgründe
+(
+6
+)
+35
+Unmittelbar nach dem Übergangszeitraum für die Anwendung dieser Verordnung ist ein Hersteller eines Produkts mit digitalen Elementen, das eine oder mehrere Komponenten enthält, die von Dritten bezogen…
+36
+Produkte mit digitalen Elementen sollten grundsätzlich mit der CE-Kennzeichnung versehen sein, aus der ihre Konformität mit dieser Verordnung gut sichtbar, lesbar und dauerhaft hervorgeht, sodass sie…
+37
+Damit Hersteller Software zu Testzwecken freigeben können, bevor sie ihre Produkte mit digitalen Elementen einer Konformitätsbewertung unterziehen, sollten die Mitgliedstaaten nicht verhindern, dass u…
+38
+Damit Produkte mit digitalen Elementen beim Inverkehrbringen keine Cybersicherheitsrisiken für Personen und Organisationen darstellen, sollten für solche Produkte grundlegende Cybersicherheitsanforder…
+39
+Wie bei physischen Reparaturen oder Änderungen sollte ein Produkt mit digitalen Elementen als durch eine Softwareänderung wesentlich geändert gelten, wenn die Softwareaktualisierung die Zweckbestimmun…
+40
+In Anbetracht des der Softwareentwicklung innewohnenden Wiederholungscharakters sollten Hersteller, die aufgrund einer späteren wesentlichen Änderung an dem Produkt neue Versionen eines Softwareproduk…
+Vorheriger Artikel
+Artikel
+5
+Artikel
+5
+-
+Beschaffung oder Nutzung von Produkten mit digital…
+Nächster Artikel
+Artikel
+7
+Artikel
+7
+-
+Wichtige Produkte mit digitalen Elementen
+CRA-Updates per E-Mail
+Fristen, Guidance und Mythos-Faktenchecks zum EU Cyber Resilience Act, kompakt im Newsletter.
+Newsletter ansehen
+Dieser Text wurde aus der Verordnung (EU) 2024/2847 des Europäischen Parlaments und des Rates vom 23. Oktober 2024 übernommen. Die Darstellung dient ausschließlich Informationszwecken und stellt keine Rechtsberatung dar. Maßgeblich ist allein der im Amtsblatt der Europäischen Union veröffentlichte Wortlaut.
+Originaltext auf EUR-Lex
+Kunnus ist ein Produkt und Marke von
+Think Ahead
+.
+Plattform
+Alle Funktionen
+Multi-Produkt-Plattform
+CRA-Abdeckung
+Walkthrough
+SBOM-Scanner
+Scanner-Doku
+Roadmap
+Demo anfordern
+Lösungen
+Startups
+KMU
+Enterprise
+Anwendungsfälle
+Branchen
+Industriemaschinen
+IoT & Konsumgüter
+Energie & Gebäudetechnik
+Industriekomponenten
+Smart Farming
+Telekommunikation
+Software & SaaS
+Embedded Systems
+Smart Home & Consumer
+Ressourcen
+Wissensdatenbank
+CRA Leitfaden
+SECURE-Förderung
+Blog
+Events
+CRA & Schweiz
+Newsletter
+Unternehmen
+Über uns
+Team
+Methodik
+Partnerprogramm
+Karriere
+Impressum
+GitHub
+©
+2026
+Think Ahead Technologies GmbH. All rights reserved.
+Datenschutz
+Cookies
+Sicherheit
+Impressum

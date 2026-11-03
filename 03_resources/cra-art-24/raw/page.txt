@@ -1,0 +1,128 @@
+EU CRA Artikel 24 — Pflichten der Verwalter quelloffener Software
+Die ersten Pflichten des EU Cyber Resilience Act für Hersteller gelten seit dem 11. September 2026.Erste Pflichten seit September 2026Was jetzt zu tun ist
+Plattform
+Lösungen
+Ressourcen
+Unternehmen
+Wissensdatenbank
+
+DE
+EinloggenDemo anfordernToggle menu
+
+WissensdatenbankArtikelArtikel 24Kapitel II - PFLICHTEN DER WIRTSCHAFTSAKTEURE UND BESTIMMUNGEN IN BEZUG AUF FREIE UND QUELLOFFENE SOFTWARE
+24Artikel 24
+Pflichten der Verwalter quelloffener Software
+
+Verordnung (EU) 2024/2847 — veröffentlicht 10. Dezember 2024 · Letzte Prüfung durch Kunnus: März 2026
+Schnellantwort für Hersteller
+
+Artikel 24 führt eine neue Akteurkategorie ein: den „Open-Source-Software-Steward“. Stewards sind juristische Personen, die Open-Source-Software systematisch unterstützen und kommerziell verwerten — sie haben reduzierte, aber explizite Pflichten.
+Diese Schnellantwort + FAQ ergänzen den Original-Rechtstext mit praxisorientierter Auslegung. Rechtsverbindlich ist allein der Originaltext.
+
+(1)Verwalter quelloffener Software entwickeln und dokumentieren auf überprüfbare Weise eine Cybersicherheitsstrategie, um die Entwicklung eines sicheren Produkts mit digitalen Elementen sowie einen wirksamen Umgang mit Schwachstellen durch die Entwickler dieses Produkts zu fördern. Diese Strategie fördert auch die freiwillige Meldung von Schwachstellen gemäß Artikel 15 durch die Entwickler dieses Produkts und trägt den Besonderheiten des Verwalters quelloffener Software und den rechtlichen und organisatorischen Vorkehrungen, denen er unterliegt, Rechnung. Diese Strategie umfasst insbesondere Aspekte im Zusammenhang mit der Dokumentation, Behebung und Beseitigung von Schwachstellen und fördert den Austausch von Informationen über aufgedeckte Schwachstellen innerhalb der Open-Source-Gemeinschaft.
+
+(2)Verwalter quelloffener Software arbeiten auf deren Verlangen mit den Marktüberwachungsbehörden zusammen, um die Cybersicherheitsrisiken zu mindern, die von einem Produkt mit digitalen Elementen ausgehen, das als freie und quelloffene Software gilt. Auf begründetes Verlangen einer Marktüberwachungsbehörde übermitteln Verwalter quelloffener Software dieser Behörde in einer für diese Behörde leicht verständlichen Sprache die in Absatz 1 genannten Unterlagen in Papierform oder in elektronischer Form.
+
+(3)Die in Artikel 14 Absatz 1 festgelegten Verpflichtungen gelten für Verwalter quelloffener Software, soweit sie an der Entwicklung der Produkte mit digitalen Elementen beteiligt sind. Die in Artikel 14 Absätze 3 und 8 festgelegten Verpflichtungen gelten für Verwalter quelloffener Software, soweit schwerwiegende Sicherheitsvorfälle, die sich auf die Sicherheit von Produkten mit digitalen Elementen auswirken, Netz- und Informationssysteme beeinträchtigen, die von den Verwaltern quelloffener Software für die Entwicklung solcher Produkte bereitgestellt werden.
+
+Auslegung der EU-Kommission
+Guidance vom 27. Juli 2026
+Die EU-Kommissions-Guidance vom 27. Juli 2026 enthält offizielle Auslegungshinweise zu dieser Vorschrift. Jeder Abschnitt: Kurzfassung, Kernaussagen und was das konkret für Sie bedeutet.
+Abschnitt 3.3Open-Source-Stewards — abgestufte Pflichten+
+Stewards sind juristische Personen, die FOSS mit kommerzieller Zweckbestimmung nachhaltig unterstützen, ohne es in Verkehr zu bringen (Art. 3 Nr. 14, Art. 24). Die Leitlinien staffeln die Melde-Pflichten nach Art der Unterstützung: rein nicht-technischer Support, Infrastruktur-Hosting oder aktive Engineering-Beiträge.
+Kernaussagen
+Die Rolle gilt pro FOSS-Projekt: Dieselbe Organisation kann für Produkt A Steward und für Produkt B Hersteller sein (z. B. Community- vs. Bezahlversion).
+Nur nicht-technischer Support (Branding, Governance, Events, Donations): keine Meldepflicht für aktiv ausgenutzte Schwachstellen — Informationen aber an die Maintainer weitergeben; freiwillige Meldung nach Art. 15 erwägen.
+Infrastruktur-Steward (Repos, Versionskontrolle, Signing Keys): schwerwiegende Vorfälle mit Auswirkung auf die Produktsicherheit an ENISA/CSIRT melden (Art. 14 Abs. 3), Nutzer ggf. informieren.
+Engineering-Steward (Entwickler, Releases, Vulnerability-Handling): aktiv ausgenutzte Schwachstellen melden (Art. 14 Abs. 1) und Nutzer informieren (Art. 14 Abs. 8).
+Not-for-Profit-Entitäten, deren Erträge satzungsgemäß gemeinnützigen Zwecken dienen, bringen ihre FOSS auch bei Monetarisierung nicht in Verkehr — es gelten Steward-Pflichten (Beispiel 24: Browser mit Suchmaschinen-Partnerschaft).
+Für die Praxis
+Klären Sie pro FOSS-Projekt, welche Art Unterstützung Sie leisten — nur Governance/Branding, Infrastruktur (Repos, Signing Keys) oder aktives Engineering. Daraus folgt direkt, welche Melde- und Informationspflichten aus Artikel 24 Sie treffen. Dieselbe Organisation kann für Projekt A Steward und für Projekt B Hersteller sein.
+
+Abschnitt im Guidance-Überblick
+
+Alle Guidance-Kapitel im ÜberblickEU-Kommissions-Guidance (C(2026) 5252 final) — Die Guidance gibt die Auslegung der Europäischen Kommission wieder und ist rechtlich nicht bindend. Eine verbindliche Auslegung des EU CRA kann nur der Gerichtshof der Europäischen Union vornehmen.
+
+Häufige Hersteller-Fragen
+
+Wer gilt als Open-Source-Steward nach Artikel 24?+
+Juristische Personen, deren Zweck die systematische Unterstützung der Entwicklung kommerziell genutzter Open-Source-Software ist — beispielsweise Apache Software Foundation, Eclipse Foundation, Linux Foundation oder Eigentümerbasen großer kommerzieller OSS-Projekte.
+
+Welche Pflichten haben Stewards?+
+Reduzierter Umfang gegenüber Herstellern: Cybersicherheits-Policy etablieren, freiwillige Schwachstellen-Offenlegung erleichtern, mit Marktüberwachungsbehörden kooperieren. Aber: keine vollumfänglichen Anhang-I-Anforderungen wie für Hersteller.
+
+Was ist mit nicht-kommerzieller Open-Source-Software?+
+Bleibt vom CRA grundsätzlich ausgenommen. Erst wenn ein kommerzieller Akteur die OSS in ein Produkt mit digitalen Elementen integriert oder kommerziell vertreibt, greifen die CRA-Pflichten — dann beim integrierenden Hersteller, nicht beim OSS-Projekt.
+
+Verwandte Erwägungsgründe
+(4)
+87Die Anwendung harmonisierter Normen, gemeinsamer Spezifikationen oder europäischer Schemata für die Cybersicherheitszertifizierung, die gemäß der Verordnung (EU) 2019/881 angenommen wurden und bei den…
+
+88Die Hersteller sollten eine EU-Konformitätserklärung ausstellen, aus der die nach dieser Verordnung erforderlichen Informationen über die Konformität der Produkte mit digitalen Elementen mit den in di…
+
+89Die CE-Kennzeichnung bringt die Konformität eines Produkts zum Ausdruck und ist das sichtbare Ergebnis eines ganzen Prozesses, der die Konformitätsbewertung im weiteren Sinne umfasst. Die allgemeinen…
+
+90Damit die Wirtschaftsakteure die Konformität mit den in dieser Verordnung festgelegten grundlegenden Cybersicherheitsanforderungen nachweisen können und die Marktüberwachungsbehörden sicherstellen kön…
+
+Vorheriger Artikel
+Artikel 23Artikel 23 - Identifizierung der Wirtschaftsakteure
+
+Nächster Artikel
+Artikel 25Artikel 25 - Sicherheitsbescheinigung für freie und quelloffene…
+
+CRA-Updates per E-Mail
+Fristen, Guidance und Mythos-Faktenchecks zum EU Cyber Resilience Act, kompakt im Newsletter.
+
+Newsletter ansehen
+
+Dieser Text wurde aus der Verordnung (EU) 2024/2847 des Europäischen Parlaments und des Rates vom 23. Oktober 2024 übernommen. Die Darstellung dient ausschließlich Informationszwecken und stellt keine Rechtsberatung dar. Maßgeblich ist allein der im Amtsblatt der Europäischen Union veröffentlichte Wortlaut. Originaltext auf EUR-Lex
+
+Kunnus ist ein Produkt und Marke von Think Ahead.
+
+Plattform
+Alle Funktionen
+Multi-Produkt-Plattform
+CRA-Abdeckung
+Walkthrough
+SBOM-Scanner
+Scanner-Doku
+Roadmap
+Demo anfordern
+
+Lösungen
+Startups
+KMU
+Enterprise
+Anwendungsfälle
+
+Branchen
+Industriemaschinen
+IoT & Konsumgüter
+Energie & Gebäudetechnik
+Industriekomponenten
+Smart Farming
+Telekommunikation
+Software & SaaS
+Embedded Systems
+Smart Home & Consumer
+
+Ressourcen
+Wissensdatenbank
+CRA Leitfaden
+SECURE-Förderung
+Blog
+Events
+CRA & Schweiz
+Newsletter
+
+Unternehmen
+Über uns
+Team
+Methodik
+Partnerprogramm
+Karriere
+Impressum
+GitHub
+
+© 2026 Think Ahead Technologies GmbH. All rights reserved.
+DatenschutzCookiesSicherheitImpressum

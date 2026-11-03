@@ -1,0 +1,112 @@
+EU CRA Artikel 28 — EU-Konformitätserklärung
+
+Die ersten Pflichten des EU Cyber Resilience Act für Hersteller gelten seit dem 11. September 2026.Erste Pflichten seit September 2026Was jetzt zu tun ist
+
+Plattform
+Lösungen
+Ressourcen
+UnternehmenWissensdatenbank
+
+DEEinloggenDemo anfordernToggle menu
+WissensdatenbankArtikelArtikel 28
+Kapitel III - KONFORMITÄT DES PRODUKTS MIT DIGITALEN ELEMENTEN
+28
+
+Artikel 28
+EU-Konformitätserklärung
+Verordnung (EU) 2024/2847 — veröffentlicht 10. Dezember 2024 · Letzte Prüfung durch Kunnus: März 2026
+
+(1)
+Die EU-Konformitätserklärung wird vom Hersteller gemäß Artikel 13 Absatz 12 ausgestellt und besagt, dass die Erfüllung der grundlegenden Cybersicherheitsanforderungen in Anhang I nachgewiesen worden ist.
+(2)
+Die EU-Konformitätserklärung entspricht in ihrem Aufbau dem Muster in Anhang V und enthält die in den einschlägigen Konformitätsbewertungsverfahren gemäß Anhang VIII angegebenen Elemente. Eine solche Erklärung wird nach Bedarf aktualisiert. Sie wird in den Sprachen abgefasst, die der Mitgliedstaat vorschreibt, in dem das Produkt mit digitalen Elementen in den Verkehr gebracht oder auf dem Markt bereitgestellt wird. Die vereinfachte EU-Konformitätserklärung nach Artikel 13 Absatz 20 entspricht in ihrem Aufbau dem Muster in Anhang VI. Sie wird in den Sprachen abgefasst, die der Mitgliedstaat vorschreibt, in dem das Produkt mit digitalen Elementen in den Verkehr gebracht oder auf dem Markt bereitgestellt wird.
+(3)
+Unterliegt ein Produkt mit digitalen Elementen mehreren Rechtsvorschriften der Europäischen Union, in denen jeweils eine EU-Konformitätserklärung vorgeschrieben ist, so wird eine einzige EU-Konformitätserklärung für sämtliche Unionsrechtsvorschriften ausgestellt. In dieser Erklärung sind die betreffenden Rechtsakte der Union samt ihren Fundstellen im Amtsblatt anzugeben.
+(4)
+Mit der Ausstellung der EU-Konformitätserklärung übernimmt der Hersteller die Verantwortung für die Konformität des Produkts mit digitalen Elementen.
+(5)
+Der Kommission wird die Befugnis übertragen, gemäß Artikel 61 delegierte Rechtsakte zur Ergänzung dieser Verordnung zu erlassen, um angesichts der technischen Entwicklungen zu den in Anhang V aufgeführten Mindestangaben für die EU-Konformitätserklärung neue Elemente hinzuzufügen.
+
+Auslegung der EU-KommissionGuidance vom 27. Juli 2026
+Die EU-Kommissions-Guidance vom 27. Juli 2026 enthält offizielle Auslegungshinweise zu dieser Vorschrift. Jeder Abschnitt: Kurzfassung, Kernaussagen und was das konkret für Sie bedeutet.
+Abschnitt 7.4Produktfamilien — eine Risikobewertung, eine Doku, eine Erklärung+
+Varianten mit gleicher Architektur, gleichem sicherheitsrelevantem Design, gleicher Zweckbestimmung und gleichem Risikoprofil dürfen eine gemeinsame Risikobewertung, technische Dokumentation, Konformitätsbewertung und EU-Konformitätserklärung teilen. Entscheidend ist allein, ob die Unterschiede zwischen den Varianten cybersicherheitsrelevant sind.
+Kernaussagen
+Unerheblich: Farbe, Formfaktor, Speichergröße und andere nicht sicherheitsrelevante Merkmale.
+Relevant: abweichende Kommunikationsschnittstellen, Software-Stacks, Update-Mechanismen oder Remote-Konnektivität — solche Unterschiede müssen sich in Risikobewertung und Doku niederschlagen.
+Die gemeinsame Konformitätserklärung muss die abgedeckten Varianten eindeutig identifizieren; neue Varianten mit neuen Risiken erfordern eine Aktualisierung.
+
+Für die Praxis
+Gruppieren Sie Ihre Produktvarianten nach sicherheitsrelevanten Unterschieden: Alles, was Architektur, Schnittstellen und Risikoprofil teilt, kann eine gemeinsame Risikobewertung, Doku und EU-Konformitätserklärung bekommen — Farbe, Formfaktor und Speichergröße trennen nicht. Das reduziert den Aufwand pro Variante drastisch; die Erklärung muss die abgedeckten Varianten nur eindeutig benennen.Abschnitt im Guidance-Überblick
+Alle Guidance-Kapitel im Überblick
+EU-Kommissions-Guidance (C(2026) 5252 final) — Die Guidance gibt die Auslegung der Europäischen Kommission wieder und ist rechtlich nicht bindend. Eine verbindliche Auslegung des EU CRA kann nur der Gerichtshof der Europäischen Union vornehmen.
+
+Verwandte Erwägungsgründe(1)
+
+96
+
+Um die Verhältnismäßigkeit sicherzustellen, sollten die Konformitätsbewertungsstellen bei der Festlegung der Gebühren für die Verfahren der Konformitätsbewertung den besonderen Interessen und Bedürfni…
+
+So deckt Kunnus das ab
+Die Pflichten aus diesem Abschnitt bildet die Kunnus-Plattform als strukturierte Workflows und auditfähige Nachweise ab.
+Evidence & Compliance
+
+Vorheriger Artikel
+Artikel 27Artikel 27 - Konformitätsvermutung
+
+Nächster Artikel
+Artikel 29Artikel 29 - Allgemeine Grundsätze der CE-Kennzeichnung
+
+CRA-Updates per E-Mail
+Fristen, Guidance und Mythos-Faktenchecks zum EU Cyber Resilience Act, kompakt im Newsletter.Newsletter ansehen
+Dieser Text wurde aus der Verordnung (EU) 2024/2847 des Europäischen Parlaments und des Rates vom 23. Oktober 2024 übernommen. Die Darstellung dient ausschließlich Informationszwecken und stellt keine Rechtsberatung dar. Maßgeblich ist allein der im Amtsblatt der Europäischen Union veröffentlichte Wortlaut. Originaltext auf EUR-Lex
+
+Kunnus ist ein Produkt und Marke von Think Ahead.
+
+Plattform
+Alle Funktionen
+Multi-Produkt-Plattform
+CRA-Abdeckung
+Walkthrough
+SBOM-Scanner
+Scanner-Doku
+Roadmap
+Demo anfordern
+
+Lösungen
+Startups
+KMU
+Enterprise
+Anwendungsfälle
+
+Branchen
+Industriemaschinen
+IoT & Konsumgüter
+Energie & Gebäudetechnik
+Industriekomponenten
+Smart Farming
+Telekommunikation
+Software & SaaS
+Embedded Systems
+Smart Home & Consumer
+
+Ressourcen
+Wissensdatenbank
+CRA Leitfaden
+SECURE-Förderung
+Blog
+Events
+CRA & Schweiz
+Newsletter
+
+Unternehmen
+Über uns
+Team
+Methodik
+Partnerprogramm
+Karriere
+Impressum
+GitHub
+
+© 2026 Think Ahead Technologies GmbH. All rights reserved.
+DatenschutzCookiesSicherheitImpressum

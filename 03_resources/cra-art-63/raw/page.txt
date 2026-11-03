@@ -1,0 +1,103 @@
+EU CRA Artikel 63 — Vertraulichkeit
+
+Die ersten Pflichten des EU Cyber Resilience Act für Hersteller gelten seit dem 11. September 2026.Erste Pflichten seit September 2026Was jetzt zu tun ist
+
+Plattform
+Lösungen
+Ressourcen
+UnternehmenWissensdatenbank
+
+DEEinloggenDemo anfordernToggle menu
+WissensdatenbankArtikelArtikel 63
+Kapitel VII - VERTRAULICHKEIT UND SANKTIONEN
+63
+
+Artikel 63
+Vertraulichkeit
+Verordnung (EU) 2024/2847 — veröffentlicht 10. Dezember 2024 · Letzte Prüfung durch Kunnus: März 2026
+
+(1)
+Alle an der Anwendung dieser Verordnung beteiligten Parteien wahren die Vertraulichkeit der Informationen und Daten, von denen sie in Ausübung ihrer Aufgaben und Tätigkeiten Kenntnis erlangen, und schützen dabei insbesondere Folgendes:
+a)
+Rechte des geistigen Eigentums, vertrauliche Geschäftsinformationen oder Geschäftsgeheimnisse natürlicher oder juristischer Personen, auch Quellcode, mit Ausnahme der in Artikel 5 der Richtlinie (EU) 2016/943 des Europäischen Parlaments und des Rates (37) genannten Fälle,
+b)
+die wirksame Durchführung dieser Verordnung, insbesondere für die Zwecke von Inspektionen, Untersuchungen oder Audits,
+c)
+öffentliche und nationale Sicherheitsinteressen,
+d)
+die Integrität von Straf- oder Verwaltungsverfahren.
+(2)
+Unbeschadet des Absatzes 1 werden die Informationen, die die Marktüberwachungsbehörden auf vertraulicher Basis untereinander oder mit der Kommission ausgetauscht haben, nicht ohne die vorherige Zustimmung der Marktüberwachungsbehörde, von der die Informationen stammen, weitergegeben.
+(3)
+Die Absätze 1 und 2 dürfen sich weder auf die Rechte und Pflichten der Kommission, der Mitgliedstaaten und notifizierten Stellen in Bezug auf den Informationsaustausch und die Weitergabe von Warnungen noch auf die Pflichten der betroffenen Personen auswirken, Informationen auf der Grundlage des Strafrechts der Mitgliedstaaten bereitzustellen.
+(4)
+Die Kommission und die Mitgliedstaaten können mit einschlägigen Behörden von Drittstaaten, mit denen sie bilaterale oder multilaterale Vertraulichkeitsvereinbarungen getroffen haben und die ein angemessenes Schutzniveau gewährleisten, erforderlichenfalls sensible Informationen austauschen.
+
+Verwandte Erwägungsgründe(2)
+
+121
+
+Werden Geldbußen einer Person auferlegt, bei der es sich nicht um ein Unternehmen handelt, so sollte die zuständige Behörde bei der Bemessung der Geldbuße dem allgemeinen Einkommensniveau in dem betre…
+122
+
+Die Mitgliedstaaten sollten unter Berücksichtigung der nationalen Gegebenheiten prüfen, ob die Einnahmen aus den in dieser Verordnung vorgesehenen Sanktionen oder entsprechende gleichwertige Einnahmen…
+
+Vorheriger Artikel
+Artikel 62Artikel 62 - Ausschussverfahren
+
+Nächster Artikel
+Artikel 64Artikel 64 - Sanktionen
+
+CRA-Updates per E-Mail
+Fristen, Guidance und Mythos-Faktenchecks zum EU Cyber Resilience Act, kompakt im Newsletter.Newsletter ansehen
+Dieser Text wurde aus der Verordnung (EU) 2024/2847 des Europäischen Parlaments und des Rates vom 23. Oktober 2024 übernommen. Die Darstellung dient ausschließlich Informationszwecken und stellt keine Rechtsberatung dar. Maßgeblich ist allein der im Amtsblatt der Europäischen Union veröffentlichte Wortlaut. Originaltext auf EUR-Lex
+
+Kunnus ist ein Produkt und Marke von Think Ahead.
+
+Plattform
+Alle Funktionen
+Multi-Produkt-Plattform
+CRA-Abdeckung
+Walkthrough
+SBOM-Scanner
+Scanner-Doku
+Roadmap
+Demo anfordern
+
+Lösungen
+Startups
+KMU
+Enterprise
+Anwendungsfälle
+
+Branchen
+Industriemaschinen
+IoT & Konsumgüter
+Energie & Gebäudetechnik
+Industriekomponenten
+Smart Farming
+Telekommunikation
+Software & SaaS
+Embedded Systems
+Smart Home & Consumer
+
+Ressourcen
+Wissensdatenbank
+CRA Leitfaden
+SECURE-Förderung
+Blog
+Events
+CRA & Schweiz
+Newsletter
+
+Unternehmen
+Über uns
+Team
+Methodik
+Partnerprogramm
+Karriere
+Impressum
+GitHub
+
+© 2026 Think Ahead Technologies GmbH. All rights reserved.
+DatenschutzCookiesSicherheitImpressum

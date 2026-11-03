@@ -1,0 +1,111 @@
+EU CRA Artikel 69 — Übergangsbestimmungen
+Die ersten Pflichten des EU Cyber Resilience Act für Hersteller gelten seit dem 11. September 2026.Erste Pflichten seit September 2026Was jetzt zu tun ist
+Plattform
+Lösungen
+Ressourcen
+Unternehmen
+Wissensdatenbank
+DE
+EinloggenDemo anfordernToggle menu
+WissensdatenbankArtikelArtikel 69Kapitel VIII - ÜBERGANGS- UND SCHLUSSBESTIMMUNGEN
+69Artikel 69
+Übergangsbestimmungen
+Verordnung (EU) 2024/2847 — veröffentlicht 10. Dezember 2024 · Letzte Prüfung durch Kunnus: März 2026
+Schnellantwort für Hersteller
+Artikel 69 regelt den Übergang zwischen alter und neuer Rechtslage. Produkte, die vor dem 11. Dezember 2027 in Verkehr gebracht wurden, fallen grundsätzlich nicht rückwirkend unter den CRA — außer bei wesentlichen Änderungen nach diesem Stichtag.
+Diese Schnellantwort + FAQ ergänzen den Original-Rechtstext mit praxisorientierter Auslegung. Rechtsverbindlich ist allein der Originaltext.
+(1)EU-Baumusterprüfbescheinigungen und Zulassungen, die in Bezug auf Cybersicherheitsanforderungen für Produkte mit digitalen Elementen erteilt wurden, die anderen Harmonisierungsrechtsvorschriften der Union als der vorliegenden Verordnung unterliegen, bleiben bis zum 11. Juni 2028 gültig, sofern sie nicht vor diesem Zeitpunkt ablaufen oder sofern in anderen Harmonisierungsrechtsvorschriften der Union nichts anderes festgelegt ist; in letzterem Fall bleiben sie gemäß den letztgenannten Rechtsvorschriften gültig.
+(2)Produkte mit digitalen Elementen, die vor dem 11. Dezember 2027 in den Verkehr gebracht wurden, unterliegen den in dieser Verordnung festgelegten Anforderungen nur dann, wenn nach diesem Zeitpunkt diese Produkte einer wesentlichen Änderung unterliegen.
+(3)Abweichend von Absatz 2 des vorliegenden Artikels gelten die in Artikel 14 festgelegten Pflichten für alle Produkte mit digitalen Elementen, die in den Anwendungsbereich dieser Verordnung fallen und vor dem 11. Dezember 2027 in den Verkehr gebracht wurden.
+Auslegung der EU-Kommission
+Guidance vom 27. Juli 2026
+Die EU-Kommissions-Guidance vom 27. Juli 2026 enthält offizielle Auslegungshinweise zu dieser Vorschrift. Jeder Abschnitt: Kurzfassung, Kernaussagen und was das konkret für Sie bedeutet.
+Abschnitt 4.4Folgen einer wesentlichen Änderung+Ein wesentlich geändertes Produkt gilt bei Bereitstellung als neu in Verkehr gebracht. Wer als Dritter wesentlich ändert, wird Hersteller (Art. 21/22) — bei komponentenbezogenen Änderungen aber nur für den geänderten Teil, sofern die Gesamt-Cybersicherheit nicht beeinträchtigt ist. Der Originalhersteller darf Dokumentation und Tests für unveränderte Teile wiederverwenden.
+Kernaussagen
+Abgrenzung zur Integration: Wer Komponenten zu einem neuen eigenen Produkt zusammenbaut, ist regulärer Hersteller des Gesamtprodukts — keine wesentliche Änderung fremder Produkte (Beispiel 51).
+Alt-Produkte: Eine wesentliche Änderung nach dem 11. Dezember 2027 an einem davor in Verkehr gebrachten Produkt macht den Ändernden zum Hersteller (Art. 69 Abs. 2) — die Pflichten beschränken sich aber auf die geänderten Teile, solange die Gesamt-Cybersicherheit unberührt bleibt.
+Die Pflichten des Originalherstellers für das ursprüngliche Produkt (Schwachstellenbehandlung, Konformität der unveränderten Teile) laufen weiter.
+Konformitätsbewertung fokussiert auf die geänderten Teile; für unveränderte Teile dürfen vorhandene Tests und Doku wiederverwendet werden.
+Für die Praxis
+Zwei Fälle sauber trennen: Verändern Sie ein fremdes, bereits vermarktetes Produkt wesentlich, treffen Sie Herstellerpflichten — aber nur für den geänderten Teil, solange die Gesamt-Cybersicherheit unberührt bleibt. Bauen Sie dagegen Komponenten zu einem eigenen Produkt zusammen, sind Sie regulärer Hersteller des Gesamtprodukts. Vorhandene Tests und Doku für unveränderte Teile dürfen Sie weiterverwenden.
+Abschnitt im Guidance-ÜberblickAbschnitt 9.1Meldepflichten: seit 11. September 2026, „Bewusstwerden“ und Nutzerinformation+Die Meldepflichten nach Artikel 14 gelten seit dem 11. September 2026 für alle Produkte im Anwendungsbereich des EU CRA — auch für vor dem 11. Dezember 2027 in Verkehr gebrachte und für Produkte nach Supportende. „Bewusstwerden“ heißt: hinreichende Gewissheit nach unverzüglicher Erstbewertung — ab dann laufen die Fristen (24 h Frühwarnung, 72 h Meldung, 14 Tage bzw. 1 Monat Abschlussbericht).
+Kernaussagen
+Keine retroaktive Meldung: Aktive Ausnutzung, die dem Hersteller schon vor dem 11.09.2026 bekannt war, ist nicht meldepflichtig; wird die Ausnutzung erst danach bekannt, greift die Pflicht.
+Dritt-Komponenten: Meldepflichtig ist nur eine aktiv ausgenutzte Schwachstelle, die im eigenen Produkt ausnutzbar ist bzw. ausgenutzt wurde — sonst nur freiwillige Meldung (Art. 15) plus Upstream-Meldung an den Komponenten-Maintainer (Art. 13 Abs. 6).
+Der Begriff „Bewusstwerden“ ist bewusst konsistent mit der NIS-2-Durchführungsverordnung und den GDPR-Guidelines ausgelegt.
+Nutzerinformation (Art. 14 Abs. 8) ist risikobasiert: keine indiskriminierte Veröffentlichung — bei sensiblen Umgebungen darf die Detailinformation auf betroffene Nutzer beschränkt werden; breitere Offenlegung nach Behebung, Pflicht-Veröffentlichung fixer Schwachstellen nach Anhang I Teil II Nr. 4.
+Die Meldepflichten laufen — anders als die Schwachstellenbehandlung — auch nach Ende des Supportzeitraums weiter.
+Für die Praxis
+Definieren Sie jetzt, wer Verdachtsfälle wie schnell erstbewertet — ab „hinreichender Gewissheit“ läuft die 24-Stunden-Frist. Der Prozess muss seit dem 11. September 2026 laufen und deckt auch Altprodukte und Produkte nach Supportende ab. Legen Sie zusätzlich fest, wie Sie Nutzer risikobasiert informieren: erst betroffene Kunden gezielt, breite Veröffentlichung nach der Behebung.
+Abschnitt im Guidance-ÜberblickAbschnitt 9.3Zusammenspiel mit anderem EU-Recht: Fahrzeuge, RED, Maschinenverordnung+Fahrzeug-Komponenten (VO (EU) 2019/2144, VO (EU) Nr. 168/2013) sind vom CRA ausgenommen, wenn sie ausschließlich für die Integration in solche Fahrzeuge bestimmt und geeignet sind — generische Komponenten über offene Vertriebskanäle fallen in den CRA, unabhängig von Intended-Use-Erklärungen. EU-Baumusterprüfbescheinigungen zu Cybersicherheitsanforderungen (z. B. RED Delegated Act, Maschinenverordnung) bleiben bis längstens 11. Juni 2028 als Konformitätsnachweis für die abgedeckten Risiken nutzbar.
+Kernaussagen
+Maßgeblich sind die objektiven Vertriebsbedingungen: Verkauf über allgemeine Retail-/Online-Kanäle an die Öffentlichkeit spricht gegen die Fahrzeug-Ausnahme; geschlossene B2B-Kanäle der Automobil-Lieferkette dafür.
+Bestehende Zertifikate (RED DA, Maschinenverordnung Anhang III 1.1.9/1.2.1) ersetzen die CRA-Risikobewertung nicht — sie dienen nur als Nachweis für die dort abgedeckten Risiken.
+Vom Zertifikat nicht abgedeckte CRA-Risiken (z. B. Schwachstellenbehandlungsprozesse, Datenminimierung, Angriffsflächenreduktion) sind zusätzlich zu adressieren.
+Für die Praxis
+Prüfen Sie Ihre Vertriebskanäle: Komponenten, die auch außerhalb der Automobil-Lieferkette verkauft werden (Retail, offener Online-Shop), fallen in den CRA — unabhängig davon, was im Datenblatt zur Zweckbestimmung steht. Inventarisieren Sie außerdem Ihre RED-/Maschinenverordnungs-Zertifikate: Sie gelten als CRA-Nachweis nur für die abgedeckten Risiken und längstens bis 11. Juni 2028 — planen Sie die Lückenschließung jetzt.
+Abschnitt im Guidance-Überblick
+Alle Guidance-Kapitel im ÜberblickEU-Kommissions-Guidance (C(2026) 5252 final) — Die Guidance gibt die Auslegung der Europäischen Kommission wieder und ist rechtlich nicht bindend. Eine verbindliche Auslegung des EU CRA kann nur der Gerichtshof der Europäischen Union vornehmen.
+Häufige Hersteller-Fragen
+Was passiert mit Produkten, die vor dem Stichtag im Markt sind?+Sie bleiben grundsätzlich vom rückwirkenden CRA-Anwendungsbereich ausgenommen. Aber: die Schwachstellen-Meldepflicht nach Artikel 14 gilt seit dem 11. September 2026 auch für diese Produkte, sofern aktiv ausgenutzte Schwachstellen vorliegen.
+Was zählt als „wesentliche Änderung“, die den CRA auslöst?+Eine Änderung, die die Konformität mit der Verordnung beeinflusst oder den bestimmungsgemäßen Gebrauch verändert. Sicherheitsupdates und Bugfixes zählen explizit nicht als wesentliche Änderung. Funktionsänderungen oder neue Schnittstellen tun es.
+Müssen wir alle bestehenden Produkte bis Dezember 2027 CRA-konform machen?+Nein — nur wenn sie nach dem Stichtag erneut in Verkehr gebracht werden oder eine wesentliche Änderung erfahren. Für Lagerware, die nach dem 11.12.2027 verkauft wird, gilt der CRA jedoch — die „Inverkehrbringen vor Stichtag“-Klausel zählt nicht für „Bereitstellung auf dem Markt“.
+Praxis-Ressourcen zu diesem Artikel
+Einzelstück-Prinzip: Warum 2026 produzierte Lagerware zum CRA-Risiko wird
+Kein Grandfathering unter dem CRA — das Produktionsdatum zählt nicht
+Cyber Resilience Act — Zeitplan und aktueller Stand
+Verwandte Erwägungsgründe
+(2)
+127Es ist wichtig, Kleinstunternehmen sowie kleine und mittlere Unternehmen, einschließlich Start-up-Unternehmen, bei der Durchführung dieser Verordnung zu unterstützen und die Risiken für die Durchführu…
+128Außerdem sollten die Mitgliedstaaten prüfen, ob sie ergänzende Maßnahmen ergreifen, die darauf abzielen, für Kleinstunternehmen sowie kleine und mittlere Unternehmen Orientierungshilfen und Unterstütz…
+Vorheriger Artikel
+Artikel 68Artikel 68 - Änderungen der Verordnung (EU) Nr. 168/2013
+Nächster Artikel
+Artikel 70Artikel 70 - Bewertung und Überprüfung
+CRA-Updates per E-Mail
+Fristen, Guidance und Mythos-Faktenchecks zum EU Cyber Resilience Act, kompakt im Newsletter.
+Newsletter ansehen
+Dieser Text wurde aus der Verordnung (EU) 2024/2847 des Europäischen Parlaments und des Rates vom 23. Oktober 2024 übernommen. Die Darstellung dient ausschließlich Informationszwecken und stellt keine Rechtsberatung dar. Maßgeblich ist allein der im Amtsblatt der Europäischen Union veröffentlichte Wortlaut. Originaltext auf EUR-Lex
+Kunnus ist ein Produkt und Marke von Think Ahead.
+Plattform
+Alle Funktionen
+Multi-Produkt-Plattform
+CRA-Abdeckung
+Walkthrough
+SBOM-Scanner
+Scanner-Doku
+Roadmap
+Demo anfordern
+Lösungen
+Startups
+KMU
+Enterprise
+Anwendungsfälle
+Branchen
+Industriemaschinen
+IoT & Konsumgüter
+Energie & Gebäudetechnik
+Industriekomponenten
+Smart Farming
+Telekommunikation
+Software & SaaS
+Embedded Systems
+Smart Home & Consumer
+Ressourcen
+Wissensdatenbank
+CRA Leitfaden
+SECURE-Förderung
+Blog
+Events
+CRA & Schweiz
+Newsletter
+Unternehmen
+Über uns
+Team
+Methodik
+Partnerprogramm
+Karriere
+Impressum
+GitHub
+© 2026 Think Ahead Technologies GmbH. All rights reserved.
+DatenschutzCookiesSicherheitImpressum

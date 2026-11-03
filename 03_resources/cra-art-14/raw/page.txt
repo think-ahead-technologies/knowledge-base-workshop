@@ -1,0 +1,202 @@
+EU CRA Artikel 14 — Meldepflichten der Hersteller
+Die ersten Pflichten des EU Cyber Resilience Act für Hersteller gelten seit dem 11. September 2026.Erste Pflichten seit September 2026Was jetzt zu tun ist
+Plattform
+Lösungen
+Ressourcen
+Unternehmen
+Wissensdatenbank
+
+DE
+EinloggenDemo anfordernToggle menu
+
+WissensdatenbankArtikelArtikel 14Kapitel II - PFLICHTEN DER WIRTSCHAFTSAKTEURE UND BESTIMMUNGEN IN BEZUG AUF FREIE UND QUELLOFFENE SOFTWARE
+14Artikel 14
+Meldepflichten der Hersteller
+
+Verordnung (EU) 2024/2847 — veröffentlicht 10. Dezember 2024 · Letzte Prüfung durch Kunnus: März 2026
+Schnellantwort für Hersteller
+
+Artikel 14 etabliert die zentrale Meldepflicht: aktiv ausgenutzte Schwachstellen und schwerwiegende Sicherheitsvorfälle müssen innerhalb von 24h (Frühwarnung) und 72h (Erstmeldung) an das koordinierende CSIRT und die ENISA gemeldet werden; der Abschlussbericht folgt nach 14 Tagen bei einer aktiv ausgenutzten Schwachstelle bzw. einem Monat beim schwerwiegenden Sicherheitsvorfall.
+Diese Schnellantwort + FAQ ergänzen den Original-Rechtstext mit praxisorientierter Auslegung. Rechtsverbindlich ist allein der Originaltext.
+(1)Ein Hersteller meldet jede aktiv ausgenutzte Schwachstelle, die in dem Produkt mit digitalen Elementen enthalten ist und von der er Kenntnis erlangt, gleichzeitig dem gemäß Absatz 7 als Koordinator benannten CSIRT und der ENISA. Der Hersteller meldet diese aktiv ausgenutzte Schwachstelle über die gemäß Artikel 16 eingerichtete einheitliche Meldeplattform.
+
+(2)Für die Zwecke der Mitteilung gemäß Absatz 1 legt der Hersteller Folgendes vor:
+
+a)unverzüglich, in jedem Fall aber innerhalb von 24 Stunden, nachdem der Hersteller davon Kenntnis erlangt hat, eine Frühwarnung über eine aktiv ausgenutzte Schwachstelle unter Angabe der Mitgliedstaaten, in deren Hoheitsgebiet das Produkt mit digitalen Elementen des Herstellers seiner Kenntnis nach bereitgestellt wurde;
+
+b)sofern die einschlägigen Informationen nicht bereits vorgelegt wurden, unverzüglich, in jedem Fall aber innerhalb von 72 Stunden, nachdem der Hersteller Kenntnis von der aktiv ausgenutzten Schwachstelle erlangt hat, eine Meldung von Schwachstellen, die allgemeine Informationen, soweit verfügbar, über das betreffende Produkt mit digitalen Elementen, über die allgemeine Art der Ausnutzung und der betreffenden Schwachstelle sowie über alle ergriffenen Korrektur- oder Risikominderungsmaßnahmen sowie Korrektur- oder Abhilfemaßnahmen, die Nutzer ergreifen können, enthält und in der gegebenenfalls auch angegeben wird, als wie sensibel der Hersteller die gemeldeten Informationen ansieht;
+
+c)sofern die einschlägigen Informationen nicht bereits vorgelegt wurden, spätestens 14 Tage, nachdem eine Korrektur- oder Risikominderungsmaßnahme zur Verfügung steht, einen Abschlussbericht, der mindestens Folgendes enthält:
+
+i)eine Beschreibung der Schwachstelle, einschließlich ihres Schweregrads und ihrer Auswirkungen, ii) falls verfügbar, Informationen über jeden böswilligen Akteur, der die Schwachstelle ausgenutzt hat oder ausnutzt, iii) Informationen über die Sicherheitsaktualisierung oder andere Korrekturmaßnahmen, die zur Behebung der Schwachstelle zur Verfügung gestellt wurden.
+
+(3)Ein Hersteller meldet jeden schwerwiegenden Sicherheitsvorfall, der sich auf die Sicherheit des Produkts mit digitalen Elementen auswirkt und von der er Kenntnis erlangt, gleichzeitig dem gemäß Absatz 7 als Koordinator benannten CSIRT und der ENISA. Der Hersteller meldet diesen Sicherheitsvorfall über die gemäß Artikel 16 eingerichtete einheitliche Meldeplattform.
+
+(4)Für die Zwecke der Mitteilung gemäß Absatz 3 legt der Hersteller Folgendes vor:
+
+a)unverzüglich und in jedem Fall innerhalb von 24 Stunden, nachdem der Hersteller davon Kenntnis erlangt hat, eine Frühwarnung über einen schwerwiegenden Sicherheitsvorfall, der sich auf die Sicherheit des Produkts mit digitalen Elementen auswirkt, wobei zumindest anzugeben ist, ob der Verdacht besteht, dass der Sicherheitsvorfall auf rechtswidrige oder böswillige Handlungen zurückzuführen ist, wobei gegebenenfalls auch die Mitgliedstaaten anzugeben sind, in deren Hoheitsgebiet das Produkt mit digitalen Elementen des Herstellers seiner Kenntnis nach bereitgestellt wurde;
+
+b)sofern die einschlägigen Informationen nicht bereits übermittelt wurden, unverzüglich, in jedem Fall aber innerhalb von 72 Stunden, nachdem der Hersteller von dem Sicherheitsvorfall Kenntnis erlangt hat, eine Meldung des Sicherheitsvorfalls, die allgemeine Informationen, soweit verfügbar, über die Art des Sicherheitsvorfalls, eine erste Bewertung des Sicherheitsvorfalls sowie ergriffene Korrektur- oder Risikominderungsmaßnahmen und Korrektur- oder Abhilfemaßnahmen, die Nutzer ergreifen können, enthält und in der gegebenenfalls auch angegeben wird, als wie sensibel der Hersteller die gemeldeten Informationen ansieht;
+
+c)sofern die einschlägigen Informationen nicht bereits übermittelt wurden, innerhalb eines Monats nach Übermittlung der Meldung des Sicherheitsvorfalls gemäß Buchstabe b einen Abschlussbericht, der mindestens Folgendes enthält:
+
+i)eine ausführliche Beschreibung des Sicherheitsvorfalls, einschließlich seines Schweregrads und seiner Auswirkungen; ii) Angaben zur Art der Bedrohung bzw. zugrunde liegenden Ursache, die wahrscheinlich den Sicherheitsvorfall ausgelöst hat; iii) Angaben zu den getroffenen und laufenden Abhilfemaßnahmen.
+
+(5)Für die Zwecke von Absatz 3 gilt ein Sicherheitsvorfall, der Auswirkungen auf die Sicherheit des Produkts mit digitalen Elementen hat, als schwerwiegend, wenn
+
+a)er sich negativ auf die Fähigkeit eines Produkts mit digitalen Elementen auswirkt oder auswirken kann, die Verfügbarkeit, Authentizität, Integrität oder Vertraulichkeit von sensiblen oder wichtigen Daten oder Funktionen zu schützen, oder
+
+b)er zur Einführung oder Ausführung eines böswilligen Codes in einem Produkt mit digitalen Elementen oder im Netzwerk und Informationssystem eines Nutzers des Produkts mit digitalen Elementen geführt hat oder dazu führen kann.
+
+(6)Erforderlichenfalls kann das als Koordinator benannte CSIRT, dass ursprünglich die Meldung erhält, die Hersteller auffordern, einen Zwischenbericht über relevante Statusaktualisierungen über die aktiv genutzte Schwachstelle oder den schwerwiegenden Sicherheitsvorfall, der sich auf die Sicherheit des Produkts mit digitalen Elementen auswirkt, vorzulegen.
+
+(7)Die Meldungen gemäß den Absätzen 1 und 3 des vorliegenden Artikels werden über die in Artikel 16 genannte einheitliche Meldeplattform unter Verwendung eines der in Artikel 16 Absatz 1 genannten Endpunkte für die elektronische Meldung übermittelt. Die Meldung wird über den Endpunkt für die elektronische Meldung des CSIRT übermittelt, der als Koordinator des Mitgliedstaats benannt wurde, in dem die Hersteller ihre Hauptniederlassung in der Union haben, und ist gleichzeitig für die ENISA zugänglich. Für die Zwecke dieser Verordnung wird davon ausgegangen, dass ein Hersteller seine Hauptniederlassung in der Union in dem Mitgliedstaat hat, in dem die Entscheidungen im Zusammenhang mit der Cybersicherheit seiner Produkte mit digitalen Elementen überwiegend getroffen werden. Kann ein solcher Mitgliedstaat nicht bestimmt werden, so gilt als Mitgliedstaat der Hauptniederlassung der Mitgliedstaat, in dem der betreffende Hersteller die Niederlassung mit der höchsten Beschäftigtenzahl in der Union hat. Hat ein Hersteller keine Hauptniederlassung in der Union, so übermittelt er die in den Absätzen 1 und 3 genannten Meldungen unter Verwendung des Endpunkts für die elektronische Meldung des in dem Mitgliedstaat als Koordinator benannten CSIRT, der gemäß folgender Reihenfolge und auf der Grundlage der dem Hersteller zur Verfügung stehenden Informationen bestimmt wurde:
+
+a)der Mitgliedstaat, in dem der Bevollmächtigte niedergelassen ist, der für die meisten Produkte mit digitalen Elementen des Herstellers im Namen des Herstellers handelt;
+
+b)der Mitgliedstaat, in dem der Einführer niedergelassen ist, der die meisten Produkte mit digitalen Elementen dieses Herstellers in den Verkehr bringt;
+
+c)der Mitgliedstaat, in dem der Händler niedergelassen ist, der die meisten Produkte mit digitalen Elementen dieses Herstellers auf dem Markt bereitstellt;
+
+d)der Mitgliedstaat, in dem sich die meisten Nutzer von Produkten mit digitalen Elementen dieses Herstellers befinden. In Bezug auf Unterabsatz 3 Buchstabe d kann ein Hersteller Meldungen im Zusammenhang mit späteren aktiv ausgenutzten Schwachstellen oder schwerwiegenden Sicherheitsvorfällen, die sich auf die Sicherheit des Produkts mit digitalen Elementen auswirken, an dasselbe CSIRT richten, das als Koordinator benannt wurde und dem er zuerst Meldung erstattet hat.
+
+(8)Nachdem der Hersteller Kenntnis von einer aktiv ausgenutzten Schwachstelle oder einem schwerwiegenden Sicherheitsvorfall, der sich auf die Sicherheit des Produkts mit digitalen Elementen auswirkt, erlangt hat, informiert er die betroffenen Nutzer des Produkts mit digitalen Elementen und gegebenenfalls alle Nutzer über diese Schwachstelle oder diesen schwerwiegenden Sicherheitsvorfall und erforderlichenfalls über jegliche Risikominderungsmaßnahmen und Korrekturmaßnahmen, die die Nutzer ergreifen können, um die Auswirkungen dieser Schwachstellen oder Sicherheitsvorfälle zu mindern, gegebenenfalls in einem strukturierten, maschinenlesbaren Format, das leicht automatisch zu verarbeiten ist. Versäumt es der Hersteller, die Nutzer des Produkts mit digitalen Elementen rechtzeitig zu informieren, können die als Koordinatoren benannten CSIRTs diese Informationen den Nutzern zur Verfügung stellen, wenn sie dies für verhältnismäßig und erforderlich halten, um die Auswirkungen dieser Schwachstellen oder Sicherheitsvorfälle zu verhindern oder abzumildern.
+
+(9)Bis zum 11. Dezember 2025 erlässt die Kommission einen delegierten Rechtsakt gemäß Artikel 61 der vorliegenden Verordnung zur Ergänzung dieser Verordnung durch Festlegung der Modalitäten und Bedingungen für die Anwendung der Cybersicherheitsgründe im Zusammenhang mit der Verzögerung der Verbreitung von Meldungen gemäß Artikel 16 Absatz 2 der vorliegenden Verordnung. Die Kommission arbeitet bei der Ausarbeitung des Entwurfs des delegierten Rechtsakts mit dem gemäß Artikel 15 der Richtlinie (EU) 2022/2555 eingerichteten CSIRTs-Netzwerk und der ENISA zusammen.
+
+(10)Die Kommission kann im Wege von Durchführungsrechtsakten das Format und die Verfahren für die in diesem Artikel sowie in den Artikeln 15 und 16 genannten Meldungen präzisieren. Diese Durchführungsrechtsakte werden gemäß dem in Artikel 62 Absatz 2 genannten Prüfverfahren erlassen. Die Kommission arbeitet bei der Ausarbeitung der Entwürfe von Durchführungsrechtsakten mit dem CSIRTs-Netzwerk und der ENISA zusammen.
+
+Auslegung der EU-Kommission
+Guidance vom 27. Juli 2026
+Die EU-Kommissions-Guidance vom 27. Juli 2026 enthält offizielle Auslegungshinweise zu dieser Vorschrift. Jeder Abschnitt: Kurzfassung, Kernaussagen und was das konkret für Sie bedeutet.
+Abschnitt 3.3Open-Source-Stewards — abgestufte Pflichten+Stewards sind juristische Personen, die FOSS mit kommerzieller Zweckbestimmung nachhaltig unterstützen, ohne es in Verkehr zu bringen (Art. 3 Nr. 14, Art. 24). Die Leitlinien staffeln die Melde-Pflichten nach Art der Unterstützung: rein nicht-technischer Support, Infrastruktur-Hosting oder aktive Engineering-Beiträge.
+Kernaussagen
+Die Rolle gilt pro FOSS-Projekt: Dieselbe Organisation kann für Produkt A Steward und für Produkt B Hersteller sein (z. B. Community- vs. Bezahlversion).
+Nur nicht-technischer Support (Branding, Governance, Events, Donations): keine Meldepflicht für aktiv ausgenutzte Schwachstellen — Informationen aber an die Maintainer weitergeben; freiwillige Meldung nach Art. 15 erwägen.
+Infrastruktur-Steward (Repos, Versionskontrolle, Signing Keys): schwerwiegende Vorfälle mit Auswirkung auf die Produktsicherheit an ENISA/CSIRT melden (Art. 14 Abs. 3), Nutzer ggf. informieren.
+Engineering-Steward (Entwickler, Releases, Vulnerability-Handling): aktiv ausgenutzte Schwachstellen melden (Art. 14 Abs. 1) und Nutzer informieren (Art. 14 Abs. 8).
+Not-for-Profit-Entitäten, deren Erträge satzungsgemäß gemeinnützigen Zwecken dienen, bringen ihre FOSS auch bei Monetarisierung nicht in Verkehr — es gelten Steward-Pflichten (Beispiel 24: Browser mit Suchmaschinen-Partnerschaft).
+Für die Praxis
+Klären Sie pro FOSS-Projekt, welche Art Unterstützung Sie leisten — nur Governance/Branding, Infrastruktur (Repos, Signing Keys) oder aktives Engineering. Daraus folgt direkt, welche Melde- und Informationspflichten aus Artikel 24 Sie treffen. Dieselbe Organisation kann für Projekt A Steward und für Projekt B Hersteller sein.
+
+Abschnitt im Guidance-ÜberblickAbschnitt 9.1Meldepflichten: seit 11. September 2026, „Bewusstwerden“ und Nutzerinformation+Die Meldepflichten nach Artikel 14 gelten seit dem 11. September 2026 für alle Produkte im Anwendungsbereich des EU CRA — auch für vor dem 11. Dezember 2027 in Verkehr gebrachte und für Produkte nach Supportende. „Bewusstwerden“ heißt: hinreichende Gewissheit nach unverzüglicher Erstbewertung — ab dann laufen die Fristen (24 h Frühwarnung, 72 h Meldung, 14 Tage bzw. 1 Monat Abschlussbericht).
+Kernaussagen
+Keine retroaktive Meldung: Aktive Ausnutzung, die dem Hersteller schon vor dem 11.09.2026 bekannt war, ist nicht meldepflichtig; wird die Ausnutzung erst danach bekannt, greift die Pflicht.
+Dritt-Komponenten: Meldepflichtig ist nur eine aktiv ausgenutzte Schwachstelle, die im eigenen Produkt ausnutzbar ist bzw. ausgenutzt wurde — sonst nur freiwillige Meldung (Art. 15) plus Upstream-Meldung an den Komponenten-Maintainer (Art. 13 Abs. 6).
+Der Begriff „Bewusstwerden“ ist bewusst konsistent mit der NIS-2-Durchführungsverordnung und den GDPR-Guidelines ausgelegt.
+Nutzerinformation (Art. 14 Abs. 8) ist risikobasiert: keine indiskriminierte Veröffentlichung — bei sensiblen Umgebungen darf die Detailinformation auf betroffene Nutzer beschränkt werden; breitere Offenlegung nach Behebung, Pflicht-Veröffentlichung fixer Schwachstellen nach Anhang I Teil II Nr. 4.
+Die Meldepflichten laufen — anders als die Schwachstellenbehandlung — auch nach Ende des Supportzeitraums weiter.
+Für die Praxis
+Definieren Sie jetzt, wer Verdachtsfälle wie schnell erstbewertet — ab „hinreichender Gewissheit“ läuft die 24-Stunden-Frist. Der Prozess muss seit dem 11. September 2026 laufen und deckt auch Altprodukte und Produkte nach Supportende ab. Legen Sie zusätzlich fest, wie Sie Nutzer risikobasiert informieren: erst betroffene Kunden gezielt, breite Veröffentlichung nach der Behebung.
+
+Abschnitt im Guidance-Überblick
+Alle Guidance-Kapitel im ÜberblickEU-Kommissions-Guidance (C(2026) 5252 final) — Die Guidance gibt die Auslegung der Europäischen Kommission wieder und ist rechtlich nicht bindend. Eine verbindliche Auslegung des EU CRA kann nur der Gerichtshof der Europäischen Union vornehmen.
+
+Häufige Hersteller-Fragen
+
+Wann beginnt die 24-Stunden-Frist?+Mit Kenntnis des Herstellers, dass die Schwachstelle aktiv ausgenutzt wird — nicht mit der CVE-Veröffentlichung. Erwägungsgrund 68 präzisiert: Es geht um Fälle, in denen ein Sicherheitsverstoß durch böswillige Akteure festgestellt wurde.
+Was muss in der 24-Stunden-Frühwarnung enthalten sein?+Mindestens: betroffenes Produkt, Art der Schwachstelle (sofern bekannt), erste Einschätzung des Risikos. Die vollständige Analyse folgt in der 72-Stunden-Meldung.
+Gilt die Meldepflicht ab Dezember 2027 oder früher?+Früher. Artikel 14 gilt bereits seit dem 11. September 2026, also 15 Monate vor der vollständigen Anwendung des EU CRA. Auch für Produkte, die bereits vor diesem Datum auf dem Markt waren.
+Wer meldet bei Importeuren und Händlern?+Die Meldepflicht trifft primär den Hersteller. Importeure und Händler müssen den Hersteller informieren, wenn sie Kenntnis von einer aktiv ausgenutzten Schwachstelle erlangen, und mit ihm bei der Meldung kooperieren.
+Welche Fristen folgen nach der 24-Stunden-Frühwarnung?+Innerhalb von 72 Stunden folgt die detaillierte Schwachstellen-Meldung mit Art, Schwere und ergriffenen Maßnahmen. Der Abschlussbericht ist spätestens 14 Tage nach Verfügbarkeit einer Abhilfemaßnahme fällig; bei schwerwiegenden Vorfällen ein Monat nach der 72-Stunden-Meldung.
+Wie bereitet man den Meldeprozess praktisch vor?+Vor September 2026: Meldeverantwortliche samt Vertretung benennen, Vorlagen für 24h- und 72h-Meldung vorbereiten, Schwachstellen-Monitoring mit Alarmierung etablieren und den Ablauf einmal durchspielen. Gemeldet wird über die zentrale Meldeplattform an das zuständige CSIRT und die ENISA.
+
+Praxis-Ressourcen zu diesem Artikel
+EU-CRA-Meldepflicht in der Praxis: alle Pflichten aus Artikel 14 umsetzen (Leitfaden)
+Schwachstellenmanagement unter dem CRA — Leitfaden
+CRA-Bußgelder und Sanktionen bei Verstößen
+Vulnerability-Management mit Kunnus automatisieren
+
+Verwandte Erwägungsgründe
+(10)
+65Aktiv ausgenutzte Schwachstellen in Produkten mit digitalen Elementen sowie schwerwiegende Sicherheitsvorfälle, die sich auf die Sicherheit dieser Produkte auswirken, sollten die Hersteller über die e…
+
+66Die Hersteller sollten aktiv ausgenutzte Schwachstellen melden, um dafür zu sorgen, dass die als Koordinatoren benannten CSIRTs und die ENISA einen angemessenen Überblick über diese Schwachstellen hab…
+
+67Die Hersteller sollten dem als Koordinator benannten CSIRT und der ENISA auch jeden schwerwiegenden Sicherheitsvorfall melden, der sich auf die Sicherheit eines Produkts mit digitalen Elementen auswir…
+
+68Bei aktiv ausgenutzten Schwachstellen handelt es sich um Fälle, in denen ein Hersteller feststellt, dass eine Sicherheitsverletzung, die sich auf seine Nutzer oder andere natürliche oder juristische P…
+
+69Damit Meldungen rasch an alle einschlägigen als Koordinatoren benannten CSIRTs weitergeleitet werden können und die Hersteller in jeder Phase des Meldeverfahrens die Möglichkeit einer Einzelnotifizier…
+
+70Unter außergewöhnlichen Umständen und insbesondere auf Ersuchen des Herstellers sollte das als Koordinator benannte CSIRT, bei dem die Meldung zunächst eingeht, beschließen können, die Übermittlung üb…
+
+71Wenn Hersteller eine aktiv ausgenutzte Schwachstelle oder einen schwerwiegenden Sicherheitsvorfall melden, die bzw. der sich auf die Sicherheit des Produkts mit digitalen Elementen auswirkt, sollten s…
+
+72Um die im Rahmen dieser Verordnung vorgeschriebene Meldung von Informationen unter Berücksichtigung anderer ergänzender Meldepflichten, die im Unionsrecht etwa in der Verordnung (EU) 2016/679, der Ver…
+
+73Um sich Erfahrungen aus der Vergangenheit zunutze zu machen, sollte die ENISA bei der Einrichtung der in dieser Verordnung genannten einheitlichen Meldeplattform andere Organe oder Agenturen der Union…
+
+74Hersteller und andere natürliche und juristische Personen sollten in der Lage sein, einem als Koordinator benannten CSIRT oder der ENISA auf freiwilliger Basis jedwede in einem Produkt mit digitalen E…
+
+So deckt Kunnus das ab
+
+Die Pflichten aus diesem Abschnitt bildet die Kunnus-Plattform als strukturierte Workflows und auditfähige Nachweise ab.
+MeldepflichtVulnerability Management
+Vertiefung im Blog
+
+CRA Friday Facts: Startups sind nicht von der Meldepflicht befreitEU CRA Meldepflicht: Fristen ab 11. September 2026 + ChecklisteEU Cyber Resilience Act: Welche Erleichterungen KMU wirklich bekommen – und wo die Grenzen liegen
+Vorheriger Artikel
+Artikel 13Artikel 13 - Pflichten der Hersteller
+
+Nächster Artikel
+Artikel 15Artikel 15 - Freiwillige Meldungen
+
+CRA-Updates per E-Mail
+Fristen, Guidance und Mythos-Faktenchecks zum EU Cyber Resilience Act, kompakt im Newsletter.
+
+Newsletter ansehen
+
+Dieser Text wurde aus der Verordnung (EU) 2024/2847 des Europäischen Parlaments und des Rates vom 23. Oktober 2024 übernommen. Die Darstellung dient ausschließlich Informationszwecken und stellt keine Rechtsberatung dar. Maßgeblich ist allein der im Amtsblatt der Europäischen Union veröffentlichte Wortlaut. Originaltext auf EUR-Lex
+
+Kunnus ist ein Produkt und Marke von Think Ahead.
+
+Plattform
+Alle Funktionen
+Multi-Produkt-Plattform
+CRA-Abdeckung
+Walkthrough
+SBOM-Scanner
+Scanner-Doku
+Roadmap
+Demo anfordern
+
+Lösungen
+Startups
+KMU
+Enterprise
+Anwendungsfälle
+
+Branchen
+Industriemaschinen
+IoT & Konsumgüter
+Energie & Gebäudetechnik
+Industriekomponenten
+Smart Farming
+Telekommunikation
+Software & SaaS
+Embedded Systems
+Smart Home & Consumer
+
+Ressourcen
+Wissensdatenbank
+CRA Leitfaden
+SECURE-Förderung
+Blog
+Events
+CRA & Schweiz
+Newsletter
+
+Unternehmen
+Über uns
+Team
+Methodik
+Partnerprogramm
+Karriere
+Impressum
+GitHub
+
+© 2026 Think Ahead Technologies GmbH. All rights reserved.
+DatenschutzCookiesSicherheitImpressum
+
+

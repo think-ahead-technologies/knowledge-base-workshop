@@ -1,0 +1,111 @@
+EU CRA Artikel 32 — Konformitätsbewertungsverfahren für Produkte mit digitalen Elementen
+Die ersten Pflichten des EU Cyber Resilience Act für Hersteller gelten seit dem 11. September 2026. Erste Pflichten seit September 2026 Was jetzt zu tun ist
+Plattform
+Lösungen
+Ressourcen
+Unternehmen
+Wissensdatenbank
+DE
+Einloggen Demo anfordern Toggle menu
+Wissensdatenbank Artikel Artikel 32 Kapitel III - KONFORMITÄT DES PRODUKTS MIT DIGITALEN ELEMENTEN
+32 Artikel 32
+Konformitätsbewertungsverfahren für Produkte mit digitalen Elementen
+Verordnung (EU) 2024/2847 — veröffentlicht 10. Dezember 2024 · Letzte Prüfung durch Kunnus: März 2026
+( 1 ) Der Hersteller führt eine Konformitätsbewertung des Produkts mit digitalen Elementen und der vom Hersteller festgelegten Verfahren durch, um festzustellen, ob die grundlegenden Cybersicherheitsanforderungen in Anhang I erfüllt sind. Der Hersteller erbringt den Nachweis der Konformität mit den grundlegenden Cybersicherheitsanforderungen anhand eines der folgenden Verfahren:
+a) internes Kontrollverfahren (auf der Grundlage von Modul A) gemäß Anhang VIII b) EU-Baumusterprüfverfahren (auf der Grundlage von Modul B) gemäß Anhang VIII und anschließend Konformität mit dem EU-Baumuster auf der Grundlage der internen Fertigungskontrolle (auf der Grundlage von Modul C) gemäß Anhang VIII c) Konformitätsbewertung auf der Grundlage einer umfassenden Qualitätssicherung (auf der Grundlage von Modul H) gemäß Anhang VIII ; oder
+d) sofern verfügbar und anwendbar, ein europäisches Schema für die Cybersicherheitszertifizierung gemäß Artikel 27 Absatz 9.
+( 2 ) Hat der Hersteller bei der Bewertung der Konformität eines wichtigen Produkts mit digitalen Elementen, das in Klasse I gemäß Anhang III fällt, und der von dessen Hersteller festgelegten Verfahren mit den grundlegenden Cybersicherheitsanforderungen in Anhang I harmonisierte Normen, gemeinsame Spezifikationen oder europäische Systeme für die Cybersicherheitszertifizierung mindestens der Vertrauenswürdigkeitsstufe „mittel“ gemäß Artikel 27 nicht oder nur zum Teil angewandt oder sind solche harmonisierten Normen, gemeinsamen Spezifikationen oder europäischen Schemata für die Cybersicherheitszertifizierung nicht vorhanden, so sind die Produkte mit digitalen Elementen und die vom Hersteller festgelegten Verfahren im Hinblick auf die grundlegenden Cybersicherheitsanforderungen einem der folgenden Verfahren zu unterziehen:
+a) EU-Baumusterprüfverfahren (auf der Grundlage von Modul B) gemäß Anhang VIII und anschließend Konformität mit dem EU-Baumuster auf der Grundlage der internen Fertigungskontrolle (auf der Grundlage von Modul C) gemäß Anhang VIII oder
+b) eine Konformitätsbewertung auf der Grundlage einer umfassenden Qualitätssicherung (auf der Grundlage von Modul H) gemäß Anhang VIII .
+( 3 ) Handelt es sich bei dem Produkt um ein wichtiges Produkt mit digitalen Elementen, das in Klasse II gemäß Anhang III fällt, so erbringt der Hersteller den Nachweis der Konformität mit den grundlegenden Cybersicherheitsanforderungen in Anhang I anhand eines der folgenden Verfahren:
+a) EU-Baumusterprüfverfahren (auf der Grundlage von Modul B) gemäß Anhang VIII und anschließend Konformität mit dem EU-Baumuster auf der Grundlage der internen Fertigungskontrolle (auf der Grundlage von Modul C) gemäß Anhang VIII ;
+b) eine Konformitätsbewertung auf der Grundlage einer umfassenden Qualitätssicherung (auf der Grundlage von Modul H) gemäß Anhang VIII , oder
+c) sofern verfügbar und anwendbar, ein europäisches Schema für die Cybersicherheitszertifizierung gemäß Artikel 27 Absatz 9 der vorliegenden Verordnung mindestens auf der Vertrauenswürdigkeitsstufe „mittel“ gemäß der Verordnung (EU) 2019/881 .
+( 4 ) Bei in Anhang IV aufgeführten kritischen Produkten mit digitalen Elementen wird der Nachweis der Konformität mit den grundlegenden Cybersicherheitsanforderungen in Anhang I anhand eines der folgenden Verfahren erbracht:
+a) ein europäisches Schema für die Cybersicherheitszertifizierung gemäß Artikel 8 Absatz 1 oder
+b) wenn die Bedingungen des Artikels 8 Absatz 1 nicht erfüllt sind, eines der in Absatz 3 genannten Verfahren.
+( 5 ) Hersteller von Produkten mit digitalen Elementen, die als freie und quelloffene Software gelten und in die in Anhang III aufgeführten Kategorien fallen, können die Konformität mit den grundlegenden Cybersicherheitsanforderungen in Anhang I anhand eines der in Absatz 1 dieses Artikels genannten Verfahren nachweisen, sofern die in Artikel 31 genannte technische Dokumentation zum Zeitpunkt des Inverkehrbringens dieser Produkte der Öffentlichkeit zugänglich gemacht wird.
+( 6 ) Bei der Festlegung der Gebühren für die Konformitätsbewertung werden die besonderen Interessen und Bedürfnisse von Kleinstunternehmen und kleinen und mittleren Unternehmen, einschließlich Start-up-Unternehmen, berücksichtigt, und diese Gebühren werden proportional zu deren besonderen Interessen und Bedürfnissen gesenkt.
+Auslegung der EU-Kommission
+Guidance vom 27. Juli 2026
+Die EU-Kommissions-Guidance vom 27. Juli 2026 enthält offizielle Auslegungshinweise zu dieser Vorschrift. Jeder Abschnitt: Kurzfassung, Kernaussagen und was das konkret für Sie bedeutet.
+Abschnitt 2.7 Vor CRA-Geltung entwickelte Produkte — kein Redesign-Zwang + Produkte, die vor dem 11. Dezember 2027 entworfen, aber danach in Verkehr gebracht werden, müssen nicht zwingend neu designt werden. Der Hersteller führt eine aktuelle Risikobewertung durch; zeigt sie, dass vorhandene Maßnahmen die Risiken adressieren, kann er darauf die Konformität stützen. Historische Design- und Testdokumentation muss nicht rekonstruiert werden.
+Kernaussagen
+Konformitätsbewertungsverfahren, EU-Konformitätserklärung und CE-Kennzeichnung bleiben in jedem Fall Pflicht.
+Keine Pflicht, Testnachweise aus der ursprünglichen Designphase nachzuliefern; Tests können über Produktfamilien gebündelt werden (Abschnitt 7.4 der Leitlinien).
+Schwachstellenbehandlung (Anhang I Teil II), aktuelle Risikobewertung (Art. 13 Abs. 3) und Nutzerinformationen (Art. 13 Abs. 18) gelten uneingeschränkt.
+Beispiel aus der Guidance
+Ein vor CRA-Geltung entwickelter Mikrocontroller darf ohne Redesign weiter in Verkehr gebracht werden, wenn eine aktuelle Risikobewertung zeigt, dass die vorhandenen Sicherheitsmaßnahmen die identifizierten Risiken abdecken (Beispiel 12).
+Für die Praxis
+Planen Sie für Bestandsdesigns kein Redesign ein, bevor die Risikobewertung eines verlangt: Eine aktuelle Risikobewertung plus der Nachweis, dass vorhandene Maßnahmen die Risiken abdecken, genügt. Historische Design- und Testdoku müssen Sie nicht rekonstruieren — Konformitätserklärung und CE-Kennzeichnung bleiben aber Pflicht.
+Abschnitt im Guidance-Überblick Abschnitt 6.2 Konformitätsbewertung wichtiger und kritischer Produkte + Klasse-II- und kritische Produkte brauchen eine Drittbewertung. Wichtige Produkte der Klasse I dürfen ins interne Kontrollverfahren (Modul A), wenn eine harmonisierte Norm vollständig angewendet wird, die mindestens alle Risiken der Kernfunktionalität abdeckt — Risiken darüber hinaus sind mit zusätzlichen, dokumentierten Maßnahmen zu adressieren.
+Kernaussagen
+FOSS-Ausnahme: Wichtige Produkte der Klassen I/II, die als FOSS in Verkehr gebracht werden, dürfen die Verfahren der Default-Kategorie nutzen (Art. 32 Abs. 5).
+Antivirus mit Zusatzfunktionen (Disk-Cleaning, Anti-Tracking): Selbstbewertung möglich, wenn die Norm die Risiken der Kernfunktionalität abdeckt und die Zusatzrisiken dokumentiert behandelt werden (Beispiel 62).
+Eine integrierte kritische Komponente zwingt das Gesamtprodukt nicht in deren strengeres Verfahren — maßgeblich bleibt die Kernfunktionalität des Gesamtprodukts (Beispiel 63: Router mit Firewall-Komponente).
+Verstöße gegen Art. 32 können Bußgelder nach Art. 64 Abs. 3 auslösen.
+Für die Praxis
+Prüfen Sie für Klasse-I-Produkte zuerst, ob eine harmonisierte Norm alle Risiken der Kernfunktionalität abdeckt — davon hängt ab, ob Sie selbst bewerten dürfen (Modul A) oder eine notifizierte Stelle brauchen. Risiken von Zusatzfunktionen außerhalb der Norm müssen Sie mit eigenen, dokumentierten Maßnahmen schließen. FOSS-Produkte der Klassen I/II dürfen immer selbst bewerten.
+Abschnitt im Guidance-Überblick
+Alle Guidance-Kapitel im Überblick EU-Kommissions-Guidance (C(2026) 5252 final) — Die Guidance gibt die Auslegung der Europäischen Kommission wieder und ist rechtlich nicht bindend. Eine verbindliche Auslegung des EU CRA kann nur der Gerichtshof der Europäischen Union vornehmen.
+Verwandte Erwägungsgründe
+( 5 )
+99 Um für ein einheitliches Qualitätsniveau bei der Durchführung der Konformitätsbewertungen von Produkten mit digitalen Elementen zu sorgen, müssen auch die Anforderungen an die notifizierenden Behörden…
+100 Konformitätsbewertungsstellen, die nach Unionsrecht akkreditiert und notifiziert wurden, in denen ähnliche Anforderungen wie in dieser Verordnung festgelegt sind, wie z. B. eine Konformitätsbewertungs…
+101 Eine transparente Akkreditierung nach Maßgabe der Verordnung (EG) Nr. 765/2008, die das notwendige Maß an Vertrauen in Konformitätsbescheinigungen gewährleistet, sollte von den nationalen Behörden uni…
+102 Häufig vergeben Konformitätsbewertungsstellen Teile ihrer Arbeit im Zusammenhang mit der Konformitätsbewertung an Unterauftragnehmer oder übertragen sie an Zweigstellen. Zur Wahrung des für das Inverk…
+103 Die Notifizierung einer Konformitätsbewertungsstelle sollte der Kommission und den anderen Mitgliedstaaten von der notifizierenden Behörde über das NANDO-Informationssystem (New Approach Notified and…
+So deckt Kunnus das ab
+Die Pflichten aus diesem Abschnitt bildet die Kunnus-Plattform als strukturierte Workflows und auditfähige Nachweise ab.
+Evidence & Compliance
+Vorheriger Artikel
+Artikel 31 Artikel 31 - Technische Dokumentation
+Nächster Artikel
+Artikel 33 Artikel 33 - Unterstützungsmaßnahmen für Kleinstunternehmen sow…
+CRA-Updates per E-Mail
+Fristen, Guidance und Mythos-Faktenchecks zum EU Cyber Resilience Act, kompakt im Newsletter.
+Newsletter ansehen
+Dieser Text wurde aus der Verordnung (EU) 2024/2847 des Europäischen Parlaments und des Rates vom 23. Oktober 2024 übernommen. Die Darstellung dient ausschließlich Informationszwecken und stellt keine Rechtsberatung dar. Maßgeblich ist allein der im Amtsblatt der Europäischen Union veröffentlichte Wortlaut. Originaltext auf EUR-Lex
+Kunnus ist ein Produkt und Marke von Think Ahead .
+Plattform
+Alle Funktionen
+Multi-Produkt-Plattform
+CRA-Abdeckung
+Walkthrough
+SBOM-Scanner
+Scanner-Doku
+Roadmap
+Demo anfordern
+Lösungen
+Startups
+KMU
+Enterprise
+Anwendungsfälle
+Branchen
+Industriemaschinen
+IoT & Konsumgüter
+Energie & Gebäudetechnik
+Industriekomponenten
+Smart Farming
+Telekommunikation
+Software & SaaS
+Embedded Systems
+Smart Home & Consumer
+Ressourcen
+Wissensdatenbank
+CRA Leitfaden
+SECURE-Förderung
+Blog
+Events
+CRA & Schweiz
+Newsletter
+Unternehmen
+Über uns
+Team
+Methodik
+Partnerprogramm
+Karriere
+Impressum
+GitHub
+© 2026 Think Ahead Technologies GmbH. All rights reserved.
+Datenschutz Cookies Sicherheit Impressum

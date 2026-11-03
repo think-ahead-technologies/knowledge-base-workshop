@@ -1,0 +1,73 @@
+EU CRA Artikel 30 — Vorschriften und Bedingungen für die Anbringung der CE-Kennzeichnung
+Die ersten Pflichten des EU Cyber Resilience Act für Hersteller gelten seit dem 11. September 2026. Erste Pflichten seit September 2026 Was jetzt zu tun ist
+Plattform
+Lösungen
+Ressourcen
+Unternehmen
+Wissensdatenbank
+DE
+Einloggen Demo anfordern Toggle menu
+Wissensdatenbank Artikel Artikel 30 Kapitel III - KONFORMITÄT DES PRODUKTS MIT DIGITALEN ELEMENTEN
+30 Artikel 30
+Vorschriften und Bedingungen für die Anbringung der CE-Kennzeichnung
+Verordnung (EU) 2024/2847 — veröffentlicht 10. Dezember 2024 · Letzte Prüfung durch Kunnus: März 2026
+( 1 ) Die CE-Kennzeichnung ist gut sichtbar, leserlich und dauerhaft auf dem Produkt mit digitalen Elementen anzubringen. Falls die Art des Produkts mit digitalen Elementen dies nicht zulässt oder nicht rechtfertigt, wird die CE-Kennzeichnung auf der Verpackung und der dem Produkt mit digitalen Elementen beigefügten EU-Konformitätserklärung gemäß Artikel 28 angebracht. Bei Produkten mit digitalen Elementen in Form von Software wird die CE-Kennzeichnung entweder auf der EU-Konformitätserklärung gemäß Artikel 28 oder auf der das Softwareprodukt begleitenden Website angebracht. Im letzteren Fall muss der relevante Abschnitt der Website für Verbraucher leicht und direkt zugänglich sein.
+( 2 ) Aufgrund der Art des Produkts mit digitalen Elementen kann die Höhe des daran angebrachten CE-Kennzeichens kleiner als 5 mm sein, sofern es weiterhin sichtbar und lesbar ist.
+( 3 ) Die CE-Kennzeichnung wird vor dem Inverkehrbringen des Produkts mit digitalen Elementen angebracht. Ihr kann ein Piktogramm oder ein anderes Zeichen folgen, das auf ein besonderes Cybersicherheitsrisiko oder eine besondere Verwendung hinweist, die in den Durchführungsrechtsakten gemäß Absatz 6 festgelegt werden.
+( 4 ) Auf die CE-Kennzeichnung folgt die Kennnummer der notifizierten Stelle, sofern diese an dem Konformitätsbewertungsverfahren auf der Grundlage einer umfassenden Qualitätssicherung (auf der Grundlage von Modul H) gemäß Artikel 32 beteiligt ist. Die Kennnummer der notifizierten Stelle wird entweder von der Stelle selbst oder nach ihren Anweisungen vom Hersteller oder seinem Bevollmächtigten angebracht.
+( 5 ) Die Mitgliedstaaten bauen auf bestehenden Mechanismen auf, um eine ordnungsgemäße Durchführung des Systems der CE-Kennzeichnung sicherzustellen, und leiten im Fall einer missbräuchlichen Verwendung dieser Kennzeichnung angemessene Maßnahmen ein. Falls das Produkt mit digitalen Elementen auch unter andere Harmonisierungsrechtsvorschriften der Union als diese Verordnung fällt, in denen die CE-Kennzeichnung ebenfalls vorgesehen ist, bedeutet die CE-Kennzeichnung, dass das Produkt auch die Anforderungen dieser anderen Harmonisierungsrechtsvorschriften der Union erfüllt.
+( 6 ) Die Kommission kann im Wege von Durchführungsrechtsakten technische Spezifikationen für Etiketten, Piktogramme oder andere Kennzeichen in Bezug auf die Sicherheit von Produkten mit digitalen Elementen, deren Unterstützungszeiträume sowie Mechanismen zur Förderung ihrer Verwendung und zur Sensibilisierung der Öffentlichkeit für die Sicherheit von Produkten mit digitalen Elementen festlegen. Bei der Ausarbeitung der Entwürfe von Durchführungsrechtsakten konsultiert die Kommission die einschlägigen Interessenträger und, falls sie bereits gemäß Artikel 52 Absatz 15 eingerichtet wurde, die ADCO. Diese Durchführungsrechtsakte werden gemäß dem in Artikel 62 Absatz 2 genannten Prüfverfahren erlassen.
+Verwandte Erwägungsgründe
+( 1 )
+97 Die Ziele von Reallaboren sollten darin bestehen, Innovation und Wettbewerbsfähigkeit für Unternehmen zu fördern, indem vor dem Inverkehrbringen von Produkten mit digitalen Elementen kontrollierte Tes…
+Vorheriger Artikel
+Artikel 29 Artikel 29 - Allgemeine Grundsätze der CE-Kennzeichnung
+Nächster Artikel
+Artikel 31 Artikel 31 - Technische Dokumentation
+CRA-Updates per E-Mail
+Fristen, Guidance und Mythos-Faktenchecks zum EU Cyber Resilience Act, kompakt im Newsletter.
+Newsletter ansehen
+Dieser Text wurde aus der Verordnung (EU) 2024/2847 des Europäischen Parlaments und des Rates vom 23. Oktober 2024 übernommen. Die Darstellung dient ausschließlich Informationszwecken und stellt keine Rechtsberatung dar. Maßgeblich ist allein der im Amtsblatt der Europäischen Union veröffentlichte Wortlaut. Originaltext auf EUR-Lex
+Kunnus ist ein Produkt und Marke von Think Ahead .
+Plattform
+Alle Funktionen
+Multi-Produkt-Plattform
+CRA-Abdeckung
+Walkthrough
+SBOM-Scanner
+Scanner-Doku
+Roadmap
+Demo anfordern
+Lösungen
+Startups
+KMU
+Enterprise
+Anwendungsfälle
+Branchen
+Industriemaschinen
+IoT & Konsumgüter
+Energie & Gebäudetechnik
+Industriekomponenten
+Smart Farming
+Telekommunikation
+Software & SaaS
+Embedded Systems
+Smart Home & Consumer
+Ressourcen
+Wissensdatenbank
+CRA Leitfaden
+SECURE-Förderung
+Blog
+Events
+CRA & Schweiz
+Newsletter
+Unternehmen
+Über uns
+Team
+Methodik
+Partnerprogramm
+Karriere
+Impressum
+GitHub
+© 2026 Think Ahead Technologies GmbH. All rights reserved.
+Datenschutz Cookies Sicherheit Impressum

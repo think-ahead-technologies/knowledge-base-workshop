@@ -1,0 +1,72 @@
+EU CRA Artikel 9 — Konsultation der Interessenträger
+Die ersten Pflichten des EU Cyber Resilience Act für Hersteller gelten seit dem 11. September 2026.  Erste Pflichten seit September 2026   Was jetzt zu tun ist
+Plattform
+Lösungen
+Ressourcen
+Unternehmen
+Wissensdatenbank
+DE
+Einloggen  Demo anfordern           Toggle menu
+Wissensdatenbank        Artikel        Artikel 9     Kapitel   I  -  ALLGEMEINE BESTIMMUNGEN
+9   Artikel   9
+Konsultation der Interessenträger
+Verordnung (EU) 2024/2847 — veröffentlicht 10. Dezember 2024 · Letzte Prüfung durch Kunnus: März 2026
+( 1 )  Bei der Vorbereitung von Maßnahmen für die Durchführung dieser Verordnung konsultiert die Kommission die einschlägigen Interessenträger, wie die einschlägigen Behörden der Mitgliedstaaten, Unternehmen des Privatsektors, einschließlich Kleinstunternehmen und kleiner und mittlerer Unternehmen, die Open-Source-Software-Gemeinschaft, Verbraucherverbände, Hochschulen und einschlägige Agenturen und Einrichtungen der Union sowie auf Unionsebene eingerichtete Expertengruppen, und berücksichtigt deren Ansichten. Insbesondere konsultiert die Kommission in folgenden Fällen gegebenenfalls in folgender strukturierter Weise diese Interessenträger und holt deren Ansichten ein:
+a)  bei der Erstellung der in  Artikel 26  genannten Leitlinien;
+b)  unbeschadet  Artikel 61  bei der Ausarbeitung der technischen Beschreibungen der in  Anhang III  aufgeführten Produktkategorien gemäß  Artikel 7  Absatz 4, bei der Bewertung, ob die Liste der Produktkategorien gemäß  Artikel 7  Absatz 3 und  Artikel 8  Absatz 2 aktualisiert werden muss, oder bei der Durchführung der Bewertung der potenziellen Auswirkungen auf den Markt gemäß  Artikel 8  Absatz 1;
+c)  bei der Durchführung von Vorbereitungsarbeiten für die Bewertung und Überprüfung dieser Verordnung.
+( 2 )  Die Kommission organisiert regelmäßig, mindestens einmal jährlich, Konsultations- und Informationssitzungen, um die Ansichten der in Absatz 1 genannten Interessenträger zur Durchführung dieser Verordnung einzuholen.
+Verwandte Erwägungsgründe
+( 1 )
+46   Die in dieser Verordnung festgelegten Kategorien kritischer Produkte mit digitalen Elementen sind mit einer Cybersicherheitsfunktion verbunden und werden für eine Funktion verwendet, die ein beträchtl…
+Vorheriger Artikel
+Artikel   8  Artikel   8  -  Kritische Produkte mit digitalen Elementen
+Nächster Artikel
+Artikel   10  Artikel   10  -  Ausbau der Kompetenzen in einem digitalen Umfeld m…
+CRA-Updates per E-Mail
+Fristen, Guidance und Mythos-Faktenchecks zum EU Cyber Resilience Act, kompakt im Newsletter.
+Newsletter ansehen
+Dieser Text wurde aus der Verordnung (EU) 2024/2847 des Europäischen Parlaments und des Rates vom 23. Oktober 2024 übernommen. Die Darstellung dient ausschließlich Informationszwecken und stellt keine Rechtsberatung dar. Maßgeblich ist allein der im Amtsblatt der Europäischen Union veröffentlichte Wortlaut.   Originaltext auf EUR-Lex
+Kunnus ist ein Produkt und Marke von   Think Ahead .
+Plattform
+Alle Funktionen
+Multi-Produkt-Plattform
+CRA-Abdeckung
+Walkthrough
+SBOM-Scanner
+Scanner-Doku
+Roadmap
+Demo anfordern
+Lösungen
+Startups
+KMU
+Enterprise
+Anwendungsfälle
+Branchen
+Industriemaschinen
+IoT & Konsumgüter
+Energie & Gebäudetechnik
+Industriekomponenten
+Smart Farming
+Telekommunikation
+Software & SaaS
+Embedded Systems
+Smart Home & Consumer
+Ressourcen
+Wissensdatenbank
+CRA Leitfaden
+SECURE-Förderung
+Blog
+Events
+CRA & Schweiz
+Newsletter
+Unternehmen
+Über uns
+Team
+Methodik
+Partnerprogramm
+Karriere
+Impressum
+GitHub
+©  2026  Think Ahead Technologies GmbH. All rights reserved.
+Datenschutz  Cookies  Sicherheit  Impressum

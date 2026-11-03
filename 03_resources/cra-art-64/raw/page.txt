@@ -1,0 +1,142 @@
+EU CRA Artikel 64 — Sanktionen
+Die ersten Pflichten des EU Cyber Resilience Act für Hersteller gelten seit dem 11. September 2026.Erste Pflichten seit September 2026Was jetzt zu tun ist
+Plattform
+Lösungen
+Ressourcen
+Unternehmen
+Wissensdatenbank
+
+DE
+EinloggenDemo anfordernToggle menu
+
+WissensdatenbankArtikelArtikel 64Kapitel VII - VERTRAULICHKEIT UND SANKTIONEN
+64Artikel 64
+Sanktionen
+
+Verordnung (EU) 2024/2847 — veröffentlicht 10. Dezember 2024 · Letzte Prüfung durch Kunnus: März 2026
+Schnellantwort für Hersteller
+
+Artikel 64 regelt die Strafen für CRA-Verstöße. Höchstmaß: 15 Mio. € oder 2,5% des weltweiten Jahresumsatzes — je nachdem, welcher Betrag höher ist. Mitgliedstaaten setzen die Strafen national um; die Verordnung gibt nur den Rahmen vor.
+Diese Schnellantwort + FAQ ergänzen den Original-Rechtstext mit praxisorientierter Auslegung. Rechtsverbindlich ist allein der Originaltext.
+
+(1)Die Mitgliedstaaten erlassen Vorschriften über Sanktionen, die bei Verstößen gegen diese Verordnung zu verhängen sind, und treffen alle für die Umsetzung der Sanktionen erforderlichen Maßnahmen. Die vorgesehenen Sanktionen müssen wirksam, verhältnismäßig und abschreckend sein. Die Mitgliedstaaten teilen der Kommission diese Vorschriften und Maßnahmen unverzüglich mit und melden ihr unverzüglich alle diesbezüglichen Änderungen.
+
+(2)Bei Nichteinhaltung der in Anhang I festgelegten grundlegenden Cybersicherheitsanforderungen oder Verstößen gegen die in den Artikeln 13 und 14 festgelegten Pflichten werden Geldbußen von bis zu 15 000 000 EUR oder — im Falle von Unternehmen — von bis zu 2,5 % des gesamten weltweiten Jahresumsatzes des vorangegangenen Geschäftsjahres verhängt, je nachdem, welcher Betrag höher ist.
+
+(3)Bei Verstößen gegen die in den Artikeln 18 bis 23, Artikel 28, Artikel 30 Absätze 1 bis 4, Artikel 31 Absätze 1 bis 4, Artikel 32 Absätze 1, 2 und 3, Artikel 33 Absatz 5 und Artikeln 39, 41, 47, 49 und 53 festgelegten Pflichten werden Geldbußen von bis zu 10 000 000 EUR oder — im Falle von Unternehmen — von bis zu 2 % des gesamten weltweiten Jahresumsatzes des vorangegangenen Geschäftsjahres verhängt, je nachdem, welcher Betrag höher ist.
+
+(4)Werden gegenüber notifizierten Stellen und Marktüberwachungsbehörden auf deren Auskunftsverlangen hin falsche, unvollständige oder irreführende Angaben gemacht, so werden Geldbußen von bis zu 5 000 000 EUR oder — im Falle von Unternehmen — von bis zu 1 % des gesamten weltweiten Jahresumsatzes des vorangegangenen Geschäftsjahres verhängt, je nachdem, welcher Betrag höher ist.
+
+(5)Bei der Festsetzung der Geldbuße werden in jedem Einzelfall alle relevanten Umstände der konkreten Situation sowie Folgendes gebührend berücksichtigt:
+
+a)Art, Schwere und Dauer des Verstoßes und dessen Folgen,
+
+b)ob bereits dieselben oder andere Marktüberwachungsbehörden demselben Wirtschaftsakteur für einen ähnlichen Verstoß Geldbußen auferlegt haben,
+
+c)Größe, insbesondere im Hinblick auf Kleinstunternehmen sowie kleine und mittlere Unternehmen, einschließlich Start-up-Unternehmen, und Marktanteil des Wirtschaftsakteurs, der den Verstoß begangen hat.
+
+(6)Marktüberwachungsbehörden, die Geldbußen verhängen, teilen die Verhängung einer Geldbuße den Marktüberwachungsbehörden der anderen Mitgliedstaaten über das in Artikel 34 der Verordnung (EU) 2019/1020 genannte Informations- und Kommunikationssystem mit.
+
+(7)Jeder Mitgliedstaat erlässt Vorschriften darüber, ob und in welchem Umfang gegen Behörden und öffentliche Stellen, die in dem betreffenden Mitgliedstaat niedergelassen sind, Geldbußen verhängt werden können.
+
+(8)In Abhängigkeit vom Rechtssystem des betreffenden Mitgliedstaats können die Vorschriften über Geldbußen je nach den dort geltenden Regeln so angewandt werden, dass die Geldbußen entsprechend der auf nationaler Ebene in den Mitgliedstaaten festgelegten Verteilung der Zuständigkeiten von zuständigen nationalen Gerichten oder von anderen Stellen verhängt werden. Die Anwendung dieser Vorschriften in diesen Mitgliedstaaten muss eine gleichwertige Wirkung haben.
+
+(9)Geldbußen können je nach den Umständen des Einzelfalls zusätzlich zu anderen Korrekturmaßnahmen oder einschränkenden Maßnahmen, die Marktüberwachungsbehörden für denselben Verstoß auferlegen, verhängt werden.
+
+(10)Abweichend von den Absätzen 3 bis 9 gelten die in diesen Absätzen genannten Geldbußen nicht für a) Hersteller, die als Kleinst- oder Kleinunternehmen gelten, und zwar in Bezug auf die Nichteinhaltung der in Artikel 14 Absatz 2 Buchstabe a oder Artikel 14 Absatz 4 Buchstabe a genannten Frist,
+
+b)Verwalter quelloffener Software bei jedem Verstoß gegen diese Verordnung.
+
+Auslegung der EU-Kommission
+Guidance vom 27. Juli 2026
+Die EU-Kommissions-Guidance vom 27. Juli 2026 enthält offizielle Auslegungshinweise zu dieser Vorschrift. Jeder Abschnitt: Kurzfassung, Kernaussagen und was das konkret für Sie bedeutet.
+Abschnitt 6.2Konformitätsbewertung wichtiger und kritischer Produkte+Klasse-II- und kritische Produkte brauchen eine Drittbewertung. Wichtige Produkte der Klasse I dürfen ins interne Kontrollverfahren (Modul A), wenn eine harmonisierte Norm vollständig angewendet wird, die mindestens alle Risiken der Kernfunktionalität abdeckt — Risiken darüber hinaus sind mit zusätzlichen, dokumentierten Maßnahmen zu adressieren.
+Kernaussagen
+FOSS-Ausnahme: Wichtige Produkte der Klassen I/II, die als FOSS in Verkehr gebracht werden, dürfen die Verfahren der Default-Kategorie nutzen (Art. 32 Abs. 5).
+Antivirus mit Zusatzfunktionen (Disk-Cleaning, Anti-Tracking): Selbstbewertung möglich, wenn die Norm die Risiken der Kernfunktionalität abdeckt und die Zusatzrisiken dokumentiert behandelt werden (Beispiel 62).
+Eine integrierte kritische Komponente zwingt das Gesamtprodukt nicht in deren strengeres Verfahren — maßgeblich bleibt die Kernfunktionalität des Gesamtprodukts (Beispiel 63: Router mit Firewall-Komponente).
+Verstöße gegen Art. 32 können Bußgelder nach Art. 64 Abs. 3 auslösen.
+Für die Praxis
+Prüfen Sie für Klasse-I-Produkte zuerst, ob eine harmonisierte Norm alle Risiken der Kernfunktionalität abdeckt — davon hängt ab, ob Sie selbst bewerten dürfen (Modul A) oder eine notifizierte Stelle brauchen. Risiken von Zusatzfunktionen außerhalb der Norm müssen Sie mit eigenen, dokumentierten Maßnahmen schließen. FOSS-Produkte der Klassen I/II dürfen immer selbst bewerten.
+
+Abschnitt im Guidance-Überblick
+Alle Guidance-Kapitel im ÜberblickEU-Kommissions-Guidance (C(2026) 5252 final) — Die Guidance gibt die Auslegung der Europäischen Kommission wieder und ist rechtlich nicht bindend. Eine verbindliche Auslegung des EU CRA kann nur der Gerichtshof der Europäischen Union vornehmen.
+
+Häufige Hersteller-Fragen
+
+Wie hoch sind die maximalen Bußgelder?+Für Verstöße gegen die zentralen Pflichten (z. B. Anhang-I-Anforderungen, Schwachstellenmeldung): bis 15 Mio. € oder 2,5% des weltweiten Jahresumsatzes (höherer Wert). Für weniger schwere Verstöße: bis 10 Mio. € oder 2% (Behinderung der Marktaufsicht: 5 Mio. € / 1%).
+Welche Faktoren beeinflussen die Strafhöhe?+Schwere und Dauer des Verstoßes, Anzahl betroffener Nutzer, vorsätzliches oder fahrlässiges Verhalten, Kooperationsbereitschaft, Maßnahmen zur Schadensbegrenzung. KMU-Größe gilt als mildernder Faktor (Erwägungsgrund 102).
+Können Bußgelder die Existenz eines Herstellers bedrohen?+Bei Großunternehmen wird das Maximum selten erreicht. Bei kleineren Unternehmen wirkt das relative 2,5%-Limit deckelnd. Existenzbedrohend können aber begleitende Maßnahmen sein: Vertriebsverbot, Marktrückruf, Reputationsschaden.
+
+Verwandte Erwägungsgründe
+(2)
+123In ihren Beziehungen mit Drittländern strebt die Union die Förderung des internationalen Handels mit regulierten Produkten an. Zur Erleichterung des Handels kann eine ganze Palette von Maßnahmen angew…
+
+124Verbraucher sollten ihre Rechte im Zusammenhang mit den gemäß dieser Verordnung für Wirtschaftsakteure geltenden Pflichten im Wege von Verbandsklagen gemäß der Richtlinie (EU) 2020/1828 des Europäisch…
+
+Vertiefung im Blog
+
+CRA Friday Facts: Startups sind nicht von der Meldepflicht befreit
+
+Vorheriger Artikel
+Artikel 63Artikel 63 - Vertraulichkeit
+
+Nächster Artikel
+Artikel 65Artikel 65 - Verbandsklagen
+
+CRA-Updates per E-Mail
+Fristen, Guidance und Mythos-Faktenchecks zum EU Cyber Resilience Act, kompakt im Newsletter.
+
+Newsletter ansehen
+
+Dieser Text wurde aus der Verordnung (EU) 2024/2847 des Europäischen Parlaments und des Rates vom 23. Oktober 2024 übernommen. Die Darstellung dient ausschließlich Informationszwecken und stellt keine Rechtsberatung dar. Maßgeblich ist allein der im Amtsblatt der Europäischen Union veröffentlichte Wortlaut. Originaltext auf EUR-Lex
+
+Kunnus ist ein Produkt und Marke von Think Ahead.
+
+Plattform
+Alle Funktionen
+Multi-Produkt-Plattform
+CRA-Abdeckung
+Walkthrough
+SBOM-Scanner
+Scanner-Doku
+Roadmap
+Demo anfordern
+
+Lösungen
+Startups
+KMU
+Enterprise
+Anwendungsfälle
+
+Branchen
+Industriemaschinen
+IoT & Konsumgüter
+Energie & Gebäudetechnik
+Industriekomponenten
+Smart Farming
+Telekommunikation
+Software & SaaS
+Embedded Systems
+Smart Home & Consumer
+
+Ressourcen
+Wissensdatenbank
+CRA Leitfaden
+SECURE-Förderung
+Blog
+Events
+CRA & Schweiz
+Newsletter
+
+Unternehmen
+Über uns
+Team
+Methodik
+Partnerprogramm
+Karriere
+Impressum
+GitHub
+
+© 2026 Think Ahead Technologies GmbH. All rights reserved.
+DatenschutzCookiesSicherheitImpressum

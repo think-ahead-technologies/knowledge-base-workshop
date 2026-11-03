@@ -1,0 +1,162 @@
+EU CRA Artikel 12 — Hochrisiko-KI-Systeme
+Die ersten Pflichten des EU Cyber Resilience Act für Hersteller gelten seit dem 11. September 2026.
+Erste Pflichten seit September 2026
+Was jetzt zu tun ist
+Plattform
+Lösungen
+Ressourcen
+Unternehmen
+Wissensdatenbank
+DE
+Einloggen
+Demo anfordern
+Toggle menu
+Wissensdatenbank
+Artikel
+Artikel 12
+Kapitel
+I
+-
+ALLGEMEINE BESTIMMUNGEN
+12
+Artikel
+12
+Hochrisiko-KI-Systeme
+Verordnung (EU) 2024/2847 — veröffentlicht 10. Dezember 2024 · Letzte Prüfung durch Kunnus: März 2026
+(
+1
+)
+Unbeschadet der Anforderungen in Bezug auf Genauigkeit und Robustheit gemäß Artikel 15 der
+Verordnung (EU) 2024/1689
+gelten Produkte mit digitalen Elementen, die in den Anwendungsbereich der vorliegenden Verordnung fallen und die gemäß
+Artikel 6
+der genannten Verordnung als Hochrisiko-KI-Systeme eingestuft werden, als mit den Cybersicherheitsanforderungen gemäß
+Artikel 15
+der genannten Verordnung konform, wenn
+a)
+diese Produkte die grundlegenden Cybersicherheitsanforderungen gemäß
+Anhang I
+Teil I erfüllen;
+b)
+die vom Hersteller festgelegten Verfahren den grundlegenden Cybersicherheitsanforderungen in
+Anhang I
+Teil II entsprechen, und
+c)
+die Verwirklichung des gemäß Artikel 15 der
+Verordnung (EU) 2024/1689
+erforderlichen Cybersicherheitsniveaus in der gemäß dieser Verordnung ausgestellten EU-Konformitätserklärung nachgewiesen wird.
+(
+2
+)
+Für die in Absatz 1 genannten Produkte mit digitalen Elementen und Cybersicherheitsanforderungen gilt das einschlägige in Artikel 43 der
+Verordnung (EU) 2024/1689
+vorgesehene Konformitätsbewertungsverfahren. Für die Zwecke dieser Bewertung sind die notifizierten Stellen, die gemäß der
+Verordnung (EU) 2024/1689
+dafür zuständig sind, die Konformität der Hochrisiko-KI-Systeme zu kontrollieren, auch dafür zuständig, im Rahmen der vorliegenden Verordnung die Konformität der Hochrisiko-KI-Systeme mit den Anforderungen in
+Anhang I
+der vorliegenden Verordnung zu kontrollieren, sofern in dem nach der
+Verordnung (EU) 2024/1689
+durchgeführten Notifizierungsverfahren geprüft wurde, ob diese notifizierten Stellen die in
+Artikel 39
+der vorliegenden Verordnung festgelegten Anforderungen erfüllen.
+(
+3
+)
+Abweichend von Absatz 2 des vorliegenden Artikels unterliegen die in
+Anhang III
+der vorliegenden Verordnung aufgeführten wichtigen Produkte mit digitalen Elementen, die den Konformitätsbewertungsverfahren gemäß
+Artikel 32
+Absatz 2 Buchstaben a und b und
+Artikel 32
+Absatz 3 der vorliegenden Verordnung unterliegen, sowie in
+Anhang IV
+der vorliegenden Verordnung aufgeführte kritische Produkte mit digitalen Elementen, die gemäß
+Artikel 8
+Absatz 1 der vorliegenden Verordnung ein europäisches Cybersicherheitszertifikat erhalten müssen oder — in Ermangelung eines solchen Zertifikats — die den Konformitätsbewertungsverfahren gemäß
+Artikel 32
+Absatz 3 der vorliegenden Verordnung unterliegen, und auch nach Artikel 6 der
+Verordnung (EU) 2024/1689
+als Hochrisiko-KI-Systeme eingestuft sind und für die das Konformitätsbewertungsverfahren auf der Grundlage einer internen Kontrolle gemäß Anhang VI der
+Verordnung (EU) 2024/1689
+gilt, den in der vorliegenden Verordnung vorgesehenen Konformitätsbewertungsverfahren, soweit dies die in der vorliegenden Verordnung festgelegten grundlegenden Cybersicherheitsanforderungen betrifft.
+(
+4
+)
+Hersteller von Produkten mit digitalen Elementen gemäß Absatz 1 können an den KI-Reallaboren gemäß Artikel 57 der
+Verordnung (EU) 2024/1689
+teilnehmen.
+Verwandte Erwägungsgründe
+(
+1
+)
+49
+Die Kommission sollte sicherstellen, dass bei der Ausarbeitung von Maßnahmen zur Durchführung dieser Verordnung ein breites Spektrum einschlägiger Interessengruppen in strukturierter und regelmäßiger…
+Vorheriger Artikel
+Artikel
+11
+Artikel
+11
+-
+Allgemeine Produktsicherheit
+Nächster Artikel
+Artikel
+13
+Artikel
+13
+-
+Pflichten der Hersteller
+CRA-Updates per E-Mail
+Fristen, Guidance und Mythos-Faktenchecks zum EU Cyber Resilience Act, kompakt im Newsletter.
+Newsletter ansehen
+Dieser Text wurde aus der Verordnung (EU) 2024/2847 des Europäischen Parlaments und des Rates vom 23. Oktober 2024 übernommen. Die Darstellung dient ausschließlich Informationszwecken und stellt keine Rechtsberatung dar. Maßgeblich ist allein der im Amtsblatt der Europäischen Union veröffentlichte Wortlaut.
+Originaltext auf EUR-Lex
+Kunnus ist ein Produkt und Marke von
+Think Ahead
+.
+Plattform
+Alle Funktionen
+Multi-Produkt-Plattform
+CRA-Abdeckung
+Walkthrough
+SBOM-Scanner
+Scanner-Doku
+Roadmap
+Demo anfordern
+Lösungen
+Startups
+KMU
+Enterprise
+Anwendungsfälle
+Branchen
+Industriemaschinen
+IoT & Konsumgüter
+Energie & Gebäudetechnik
+Industriekomponenten
+Smart Farming
+Telekommunikation
+Software & SaaS
+Embedded Systems
+Smart Home & Consumer
+Ressourcen
+Wissensdatenbank
+CRA Leitfaden
+SECURE-Förderung
+Blog
+Events
+CRA & Schweiz
+Newsletter
+Unternehmen
+Über uns
+Team
+Methodik
+Partnerprogramm
+Karriere
+Impressum
+GitHub
+©
+2026
+Think Ahead Technologies GmbH. All rights reserved.
+Datenschutz
+Cookies
+Sicherheit
+Impressum

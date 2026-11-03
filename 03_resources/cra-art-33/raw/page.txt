@@ -1,0 +1,78 @@
+EU CRA Artikel 33 — Unterstützungsmaßnahmen für Kleinstunternehmen sowie kleine und mittlere Unternehmen, einschließlich Start-up-Unternehmen
+Die ersten Pflichten des EU Cyber Resilience Act für Hersteller gelten seit dem 11. September 2026.Erste Pflichten seit September 2026Was jetzt zu tun ist
+Plattform
+Lösungen
+Ressourcen
+Unternehmen
+Wissensdatenbank
+DE
+EinloggenDemo anfordernToggle menu
+WissensdatenbankArtikelArtikel 33Kapitel III - KONFORMITÄT DES PRODUKTS MIT DIGITALEN ELEMENTEN
+33Artikel 33
+Unterstützungsmaßnahmen für Kleinstunternehmen sowie kleine und mittlere Unternehmen, einschließlich Start-up-Unternehmen
+Verordnung (EU) 2024/2847 — veröffentlicht 10. Dezember 2024 · Letzte Prüfung durch Kunnus: März 2026
+(1)Die Mitgliedstaaten ergreifen gegebenenfalls die folgenden Maßnahmen, die auf die Bedürfnisse von Kleinst- und Kleinunternehmen zugeschnitten sind:
+a)Organisation spezifischer Sensibilisierungs- und Schulungsmaßnahmen für die Anwendung dieser Verordnung,
+b)Einrichtung eines speziellen Kommunikationskanals für Kleinst- und Kleinunternehmen sowie gegebenenfalls für lokale Behörden, um Beratung zur Durchführung dieser Verordnung zu leisten und Rückfragen zu klären,
+c)Unterstützung von Prüf- und Konformitätsbewertungstätigkeiten, bei Bedarf auch mit Unterstützung des Europäischen Kompetenzzentrums für Cybersicherheit.
+(2)Die Mitgliedstaaten können, soweit erforderlich, Reallabore für Cyberresilienz einrichten. In solchen Reallaboren sind kontrollierte Prüfumgebungen für innovative Produkte mit digitalen Elementen vorgesehen, um deren Entwicklung, Entwurf, Validierung und Erprobung zum Zwecke der Einhaltung dieser Verordnung für einen begrenzten Zeitraum vor dem Inverkehrbringen zu erleichtern. Die Kommission und gegebenenfalls die ENISA können technische Unterstützung, Beratung und Instrumente für die Einrichtung und den Betrieb von Reallaboren bereitstellen. Die Reallabore werden unter direkter Aufsicht, Leitung und Unterstützung durch die Marktüberwachungsbehörden eingerichtet. Die Mitgliedstaaten unterrichten die Kommission und die anderen Marktüberwachungsbehörden über die Einrichtung eines Reallabors über die ADCO. Die Reallabore lassen die Aufsichts- und Abhilfebefugnisse der zuständigen Behörden unberührt. Die Mitgliedstaaten stellen einen offenen, fairen und transparenten Zugang zu Reallaboren sicher und erleichtern insbesondere Kleinst- und Kleinunternehmen, einschließlich Start-up-Unternehmen, den Zugang.
+(3)Im Einklang mit Artikel 26 stellt die Kommission Leitlinien für Kleinstunternehmen sowie kleine und mittlere Unternehmen in Bezug auf die Durchführung dieser Verordnung bereit.
+(4)Die Kommission informiert über verfügbare finanzielle Unterstützung im Rechtsrahmen bestehender Unionsprogramme, um insbesondere Kleinst- und Kleinunternehmen finanziell zu entlasten.
+(5)Kleinst- und Kleinunternehmen können alle in Anhang VII genannten Elemente der technischen Dokumentation in einem vereinfachten Format vorlegen. Zu diesem Zweck legt die Kommission im Wege von Durchführungsrechtsakten das vereinfachte Formular für die technische Dokumentation fest, das auf die Bedürfnisse von Kleinst- und Kleinunternehmen zugeschnitten ist, einschließlich der Art und Weise, wie die in Anhang VII aufgeführten Elemente vorzulegen sind. Entscheidet sich ein Kleinst- oder ein Kleinunternehmen für eine vereinfachte Bereitstellung der in Anhang VII vorgeschriebenen Informationen, so verwendet es das in diesem Absatz genannte Formular. Die notifizierten Stellen akzeptieren dieses Formular für die Zwecke der Konformitätsbewertung. Diese Durchführungsrechtsakte werden gemäß dem in Artikel 62 Absatz 2 genannten Prüfverfahren erlassen.
+Verwandte Erwägungsgründe
+(2)
+104Da die notifizierten Stellen ihre Dienstleistungen in der gesamten Union anbieten können, sollten die anderen Mitgliedstaaten und die Kommission die Möglichkeit erhalten, Einwände gegen eine notifizie…
+105Im Interesse der Wettbewerbsfähigkeit ist es entscheidend, dass die notifizierten Stellen die Konformitätsbewertungsverfahren anwenden, ohne unnötigen Aufwand für die Wirtschaftsakteure zu schaffen. A…
+Vertiefung im Blog
+EU Cyber Resilience Act: Welche Erleichterungen KMU wirklich bekommen – und wo die Grenzen liegen
+Vorheriger Artikel
+Artikel 32Artikel 32 - Konformitätsbewertungsverfahren für Produkte mit d…
+Nächster Artikel
+Artikel 34Artikel 34 - Abkommen über die gegenseitige Anerkennung
+CRA-Updates per E-Mail
+Fristen, Guidance und Mythos-Faktenchecks zum EU Cyber Resilience Act, kompakt im Newsletter.
+Newsletter ansehen
+Dieser Text wurde aus der Verordnung (EU) 2024/2847 des Europäischen Parlaments und des Rates vom 23. Oktober 2024 übernommen. Die Darstellung dient ausschließlich Informationszwecken und stellt keine Rechtsberatung dar. Maßgeblich ist allein der im Amtsblatt der Europäischen Union veröffentlichte Wortlaut. Originaltext auf EUR-Lex
+Kunnus ist ein Produkt und Marke von Think Ahead.
+Plattform
+Alle Funktionen
+Multi-Produkt-Plattform
+CRA-Abdeckung
+Walkthrough
+SBOM-Scanner
+Scanner-Doku
+Roadmap
+Demo anfordern
+Lösungen
+Startups
+KMU
+Enterprise
+Anwendungsfälle
+Branchen
+Industriemaschinen
+IoT & Konsumgüter
+Energie & Gebäudetechnik
+Industriekomponenten
+Smart Farming
+Telekommunikation
+Software & SaaS
+Embedded Systems
+Smart Home & Consumer
+Ressourcen
+Wissensdatenbank
+CRA Leitfaden
+SECURE-Förderung
+Blog
+Events
+CRA & Schweiz
+Newsletter
+Unternehmen
+Über uns
+Team
+Methodik
+Partnerprogramm
+Karriere
+Impressum
+GitHub
+© 2026 Think Ahead Technologies GmbH. All rights reserved.
+DatenschutzCookiesSicherheitImpressum

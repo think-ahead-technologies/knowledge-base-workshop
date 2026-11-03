@@ -1,0 +1,291 @@
+EU CRA Artikel 3 — Begriffsbestimmungen
+Die ersten Pflichten des EU Cyber Resilience Act für Hersteller gelten seit dem 11. September 2026.Erste Pflichten seit September 2026Was jetzt zu tun ist
+Plattform
+Lösungen
+Ressourcen
+Unternehmen
+Wissensdatenbank
+
+DE
+EinloggenDemo anfordernToggle menu
+
+WissensdatenbankArtikelArtikel 3Kapitel I - ALLGEMEINE BESTIMMUNGEN
+3Artikel 3
+Begriffsbestimmungen
+
+Verordnung (EU) 2024/2847 — veröffentlicht 10. Dezember 2024 · Letzte Prüfung durch Kunnus: März 2026
+Für die Zwecke dieser Verordnung bezeichnet der Ausdruck
+1.„Produkt mit digitalen Elementen“ ein Software- oder Hardwareprodukt und dessen Datenfernverarbeitungslösungen, einschließlich Software- oder Hardwarekomponenten, die getrennt in den Verkehr gebracht werden;
+
+2.„Datenfernverarbeitung“ entfernt stattfindende Datenverarbeitung, für die eine Software vom Hersteller selbst oder unter dessen Verantwortung konzipiert und entwickelt wird und ohne die das Produkt mit digitalen Elementen eine seiner Funktionen nicht erfüllen könnte;
+
+3.„Cybersicherheit“ Cybersicherheit im Sinne des Artikels 2 Nummer 1 der Verordnung (EU) 2019/881;
+
+4.„Software“ den Teil eines elektronischen Informationssystems, der aus Computercode besteht;
+
+5.„Hardware“ ein physisches elektronisches Informationssystem, das digitale Daten verarbeiten, speichern oder übertragen kann, oder Teile eines solchen Systems;
+
+6.„Komponente“ Software oder Hardware, die für die Integration in ein elektronisches Informationssystem bestimmt ist;
+
+7.„elektronisches Informationssystem“ ein System, einschließlich elektrischer oder elektronischer Ausrüstung, das digitale Daten verarbeiten, speichern oder übertragen kann;
+
+8.„logische Verbindung“ eine virtuelle Darstellung einer Datenverbindung, die über eine Softwareschnittstelle hergestellt wird;
+
+9.„physische Verbindung“ eine Verbindung zwischen elektronischen Informationssystemen oder Komponenten, die mit physikalischen Mitteln wie elektrischen, optischen oder mechanischen Schnittstellen, Drähten oder Funkwellen hergestellt wird;
+
+10.„indirekte Verbindung“ eine Verbindung zu einem Gerät oder Netz, die nicht direkt erfolgt, sondern als Teil eines größeren Systems, das seinerseits direkt mit diesem Gerät oder Netz verbunden werden kann;
+
+11.„Endpunkt“ ein Gerät, das an ein Netz angeschlossen ist und als Zugangspunkt zu diesem Netz dient;
+
+12.„Wirtschaftsakteur“ den Hersteller, den Bevollmächtigten, den Einführer, den Händler oder jede andere natürliche oder juristische Person, die Verpflichtungen im Zusammenhang mit der Herstellung von Produkten mit digitalen Elementen oder der Bereitstellung auf dem Markt von Produkten mit digitalen Elementen im Einklang mit dieser Verordnung unterliegt;
+
+13.„Hersteller“ eine natürliche oder juristische Person, die Produkte mit digitalen Elementen entwickelt oder herstellt oder die Produkte mit digitalen Elementen konzipieren, entwickeln oder herstellen lässt und sie unter ihrem Namen oder ihrer Marke vermarktet, sei es gegen Bezahlung, zur Monetarisierung oder unentgeltlich;
+
+14.„Verwalter quelloffener Software“ eine juristische Person, bei der es sich nicht um einen Hersteller handelt, die den Zweck oder das Ziel hat, die Entwicklung spezifischer Produkte mit digitalen Elementen, die als freie und quelloffene Software gelten und für kommerzielle Tätigkeiten bestimmt sind, systematisch und nachhaltig zu unterstützen, und die die Brauchbarkeit dieser Produkte sicherstellt;
+
+15.„Bevollmächtigter“ eine in der Union ansässige oder niedergelassene natürliche oder juristische Person, die von einem Hersteller schriftlich beauftragt wurde, in seinem Namen bestimmte Aufgaben wahrzunehmen;
+
+16.„Einführer“ eine in der Union ansässige oder niedergelassene natürliche oder juristische Person, die ein Produkt mit digitalen Elementen unter dem Namen oder der Marke einer außerhalb der Union ansässigen oder niedergelassenen natürlichen oder juristischen Person in der Union in den Verkehr bringt;
+
+17.„Händler“ eine natürliche oder juristische Person in der Lieferkette, die ein Produkt mit digitalen Elementen ohne Änderung seiner Eigenschaften auf dem Unionsmarkt bereitstellt, mit Ausnahme des Herstellers oder des Einführers;
+
+18.„Verbraucher“ eine natürliche Person, die zu Zwecken handelt, die nicht ihrer gewerblichen, geschäftlichen, handwerklichen oder beruflichen Tätigkeit zugerechnet werden können;
+
+19.„Kleinstunternehmen“, „kleine Unternehmen“ und „mittlere Unternehmen“ Kleinstunternehmen, kleine Unternehmen bzw. mittlere Unternehmen im Sinne des Anhangs der Empfehlung 2003/361/EG;
+
+20.„Unterstützungszeitraum“ den Zeitraum, in dem der Hersteller sicherstellen muss, dass die Schwachstellen des Produkts mit digitalen Elementen wirksam und im Einklang mit den grundlegenden Cybersicherheitsanforderungen in Anhang I Teil II behandelt werden;
+
+21.„Inverkehrbringen“ bzw. „in den Verkehr bringen“ die erstmalige Bereitstellung eines Produkts mit digitalen Elementen auf dem Unionsmarkt;
+
+22.„Bereitstellung auf dem Markt“ die entgeltliche oder unentgeltliche Abgabe eines Produkts mit digitalen Elementen zum Vertrieb oder zur Verwendung auf dem Unionsmarkt im Rahmen einer Geschäftstätigkeit;
+
+23.„Zweckbestimmung“ die Verwendung, für die ein Produkt mit digitalen Elementen laut Hersteller bestimmt ist, einschließlich der besonderen Nutzungsumstände und Nutzungsbedingungen entsprechend den Angaben des Herstellers in der Gebrauchsanleitung, im Werbe- oder Verkaufsmaterial und in Erklärungen sowie in der technischen Dokumentation;
+
+24.„vernünftigerweise vorhersehbare Verwendung“ eine Verwendung, die nicht unbedingt der vom Hersteller in der Gebrauchsanleitung, im Werbe- oder Verkaufsmaterial und in Erklärungen und der technischen Dokumentation angegebenen Zweckbestimmung entspricht, die sich aber aus einem vernünftigerweise vorhersehbaren menschlichen Verhalten oder aus technischen Vorgängen oder Wechselwirkungen wahrscheinlich ergibt;
+
+25.„vernünftigerweise vorhersehbare Fehlanwendung“ die Verwendung eines Produkts mit digitalen Elementen in einer Weise, die nicht seiner Zweckbestimmung entspricht, die sich aber aus einem vernünftigerweise vorhersehbaren menschlichen Verhalten oder einer vernünftigerweise vorhersehbaren Interaktion mit anderen Systemen ergeben kann;
+
+26.„notifizierende Behörde“ die nationale Behörde, die für die Einrichtung und Durchführung der erforderlichen Verfahren für die Bewertung, Benennung und Notifizierung von Konformitätsbewertungsstellen und für deren Überwachung zuständig ist;
+
+27.„Konformitätsbewertung“ das Verfahren, mit dem überprüft wird, ob die grundlegenden Cybersicherheitsanforderungen in Anhang I erfüllt werden;
+
+28.„Konformitätsbewertungsstelle“ eine Konformitätsbewertungsstelle im Sinne von Artikel 2 Nummer 13 der Verordnung (EG) Nr. 765/2008.
+
+29.„notifizierte Stelle“ eine Konformitätsbewertungsstelle, die nach Artikel 43 dieser Verordnung und anderen einschlägigen Harmonisierungsrechtsvorschriften der Union benannt wurde;
+
+30.„wesentliche Änderung“ eine Änderung des Produkts mit digitalen Elementen nach dessen Inverkehrbringen, die sich auf die Konformität des Produkts mit den grundlegenden Cybersicherheitsanforderungen in Anhang I Teil I auswirkt oder zu einer Änderung des bestimmungsgemäßen Zwecks, für den das Produkt geprüft wurde, führt;
+
+31.„CE-Kennzeichnung“ eine Kennzeichnung, durch die ein Hersteller erklärt, dass ein Produkt mit digitalen Elementen und die vom Hersteller festgelegten Verfahren den grundlegenden Cybersicherheitsanforderungen in Anhang I und anderen geltenden Harmonisierungsrechtsvorschriften der Union über ihre Anbringung genügen;
+
+32.„Harmonisierungsrechtsvorschriften der Union“ die in Anhang I der Verordnung (EU) 2019/1020 aufgeführten Rechtsvorschriften der Union sowie alle sonstigen Rechtsvorschriften der Union zur Harmonisierung der Bedingungen für die Vermarktung von Produkten, auf welche die genannte Verordnung Anwendung findet;
+
+33.„Marktüberwachungsbehörde“ eine Marktüberwachungsbehörde gemäß der Begriffsbestimmung in Artikel 3 Nummer 4 der Verordnung (EU) 2019/1020;
+
+34.„internationale Norm“ eine internationale Norm gemäß der Begriffsbestimmung in Artikel 2 Absatz 1 Buchstabe a der Verordnung (EU) Nr. 1025/2012;
+
+35.„europäische Norm“ eine europäische Norm gemäß der Begriffsbestimmung in Artikel 2 Nummer 1 Buchstabe b der Verordnung (EU) Nr. 1025/2012;
+
+36.„harmonisierte Norm“ eine harmonisierte Norm gemäß der Begriffsbestimmung in Artikel 2 Nummer 1 Buchstabe c der Verordnung (EU) Nr. 1025/2012;
+
+37.„Cybersicherheitsrisiko“ das Potenzial für Verluste oder Störungen, die durch einen Sicherheitsvorfall verursacht werden, das als eine Kombination des Ausmaßes eines solchen Verlusts oder einer solchen Störung und der Wahrscheinlichkeit des Eintretens des Sicherheitsvorfalls zum Ausdruck gebracht wird;
+
+38.„erhebliches Cybersicherheitsrisiko“ ein Cybersicherheitsrisiko, bei dem aufgrund seiner technischen Merkmale davon auszugehen ist, dass es mit hoher Wahrscheinlichkeit zu einem Sicherheitsvorfall führen wird, der schwerwiegende negative Auswirkungen haben und erhebliche materielle oder immaterielle Verluste oder Störungen verursachen könnte;
+
+39.„Software-Stückliste“ eine formale Aufzeichnung der Einzelheiten und Lieferkettenbeziehungen der Komponenten, die in den Softwareelementen eines Produkts mit digitalen Elementen enthalten sind;
+
+40.„Schwachstelle“ eine Schwäche, Anfälligkeit oder Fehlfunktion eines Produkts mit digitalen Elementen, die bei einer Cyberbedrohung ausgenutzt werden kann;
+
+41.„ausnutzbare Schwachstelle“ eine Schwachstelle, die von einem unbefugten Dritten unter praktischen Betriebsbedingungen wirksam genutzt werden kann;
+
+42.„aktiv ausgenutzte Schwachstelle“ eine Schwachstelle, zu der verlässliche Nachweise dafür vorliegen, dass ein böswilliger Akteur sie in einem System ohne Zustimmung des Systemeigners ausgenutzt hat;
+
+43.„Sicherheitsvorfall“ einen Sicherheitsvorfall gemäß der Begriffsbestimmung in Artikel 6 Nummer 6 der Richtlinie (EU) 2022/2555;
+
+44.„Sicherheitsvorfall mit Auswirkungen auf die Sicherheit des Produkts mit digitalen Elementen“ einen Sicherheitsvorfall, der sich negativ auf die Fähigkeit eines Produkts mit digitalen Elementen auswirkt oder auswirken kann, die Verfügbarkeit, Authentizität, Integrität oder Vertraulichkeit von Daten oder Funktionen zu schützen;
+
+45.„Beinahe-Vorfall“ einen Beinahe-Vorfall gemäß der Begriffsbestimmung in Artikel 6 Nummer 5 der Richtlinie (EU) 2022/2555;
+
+46.„Cyberbedrohung“ ist eine Cyberbedrohung gemäß der Begriffsbestimmung in Artikel 2 Nummer 8 der Verordnung (EU) 2019/881;
+
+47.„personenbezogene Daten“ personenbezogene Daten gemäß der Begriffsbestimmung in Artikel 4 Nummer 1 der Verordnung (EU) 2016/679;
+
+48.„freie und quelloffene Software“ eine Software, deren Quellcode offen geteilt wird und die im Rahmen einer kostenlosen Open-Source-Lizenz zur Verfügung gestellt wird, die alle Rechte vorsieht, um sie frei zugänglich, nutzbar, veränderbar und weiterverteilbar zu machen;
+
+49.„Rückruf“ einen Rückruf gemäß der Begriffsbestimmung in Artikel 3 Nummer 22 der Verordnung (EU) 2019/1020;
+
+50.„Rücknahme vom Markt“ eine Rücknahme vom Markt gemäß der Begriffsbestimmung in Artikel 3 Nummer 23 der Verordnung (EU) 2019/1020;
+
+51.„als Koordinator benanntes CSIRT“ ein CSIRT, das gemäß Artikel 12 Absatz 1 der Richtlinie (EU) 2022/2555 als Koordinator benannt wurde.
+
+Auslegung der EU-Kommission
+Guidance vom 27. Juli 2026
+Die EU-Kommissions-Guidance vom 27. Juli 2026 enthält offizielle Auslegungshinweise zu dieser Vorschrift. Jeder Abschnitt: Kurzfassung, Kernaussagen und was das konkret für Sie bedeutet.
+Abschnitt 2.1Inverkehrbringen von Standalone-Software+Standalone-Software gilt als in Verkehr gebracht, sobald die Herstellungsphase abgeschlossen ist und die Software erstmals zum Vertrieb oder zur Nutzung auf dem EU-Markt angeboten wird. Alle Kopien derselben Version gelten als zum selben Zeitpunkt in Verkehr gebracht — unabhängig davon, wann einzelne Nutzer sie herunterladen.
+Kernaussagen
+Der Zeitpunkt des ersten Angebots zählt für alle Kopien einer Version — spätere Downloads sind nur ein „Bereitstellen auf dem Markt“ derselben Produkte.
+Iterationen ohne wesentliche Änderung verschieben das Datum des Inverkehrbringens nicht; erst eine wesentliche Änderung gilt als neues Inverkehrbringen (vgl. Kapitel 4 der Leitlinien).
+Varianten mit unterschiedlichen Komponenten, Konfigurationen oder Funktionsumfängen (z. B. Builds je Betriebssystem, unterschiedliche Feature-Bundles) sind eigenständige Produkte.
+Beispiel aus der Guidance
+Version 1.0.0 wird am 1. Januar 2028 erstmals über die Website angeboten. Kunde 1 kauft am selben Tag, Kunde 2 am 15. Januar. Beide Kopien gelten als am 1. Januar 2028 in Verkehr gebracht (Beispiel 1 der Leitlinien).
+
+Für die Praxis
+Halten Sie pro Software-Version das Datum des ersten Angebots fest — es bestimmt, ab wann die CRA-Pflichten für alle Kopien dieser Version laufen. Führen Sie außerdem eine Liste Ihrer Varianten (Builds je Betriebssystem, Feature-Bundles): Jede Variante ist ein eigenes Produkt mit eigenem Datum.
+
+Abschnitt im Guidance-ÜberblickAbschnitt 2.2Software als Produkt — Web-Apps und Websites+Software ist nur dann ein Produkt mit digitalen Elementen, wenn sie dem Nutzer bereitgestellt und auf dessen System ausgeführt wird. Web-Apps, die ausschließlich über den Browser genutzt werden, und reine Informations-Websites sind selbst keine Produkte — sie fallen nur als Remote Data Processing in den Scope, wenn sie eine Funktion eines Produkts unterstützen.
+Kernaussagen
+Lokal installierte Anwendungen sind Produkte — auch Browser-Extensions und mit Web-Technologien gebaute Desktop-Apps, die lokal ausgeführt werden.
+Web-Apps und Progressive Web Apps, die nur im Browser laufen, sind keine Produkte mit digitalen Elementen (Erwägungsgründe 11 und 12).
+Ein lokal installierter Client plus die Datenverarbeitung „at a distance“, auf die er für seine Funktionen angewiesen ist, bilden zusammen das Produkt.
+Für die Praxis
+Sortieren Sie Ihr Portfolio in drei Körbe: (1) läuft lokal beim Nutzer (App, Desktop-Client, Browser-Extension) → Produkt im CRA-Sinn; (2) reine Browser-Anwendung oder Info-Website → kein Produkt; (3) Backend, das eine Produktfunktion trägt → als Remote Data Processing prüfen (Kapitel 8 der Leitlinien).
+
+Abschnitt im Guidance-ÜberblickAbschnitt 2.3Computercode — Quellcode und Maschinencode+Sowohl Maschinencode als auch Quellcode sind „Software“ im Sinne von Artikel 3 Nr. 4. Entscheidend ist, ob die Bereitstellung im Rahmen einer Geschäftstätigkeit erfolgt: Öffentlich geteilter FOSS-Code, unfertiger Code in der Entwicklung sowie Demo- und Tutorial-Code gelten nicht als in Verkehr gebracht — kommerziell an Kunden lizenzierter Quellcode dagegen schon.
+Kernaussagen
+Wer Kunden Quellcode als Produkt liefert, bringt ihn in Verkehr — auch wenn der Kunde ihn erst anpassen und kompilieren muss (Beispiel 7).
+Der Lizenzgeber ist nicht für die CRA-Konformität der nachgelagerten Anpassungen des Kunden verantwortlich.
+Unfertige Software (Alpha, Beta, Release Candidate) darf nach Artikel 4 Abs. 3 zeitlich begrenzt zu Test- und Feedback-Zwecken bereitgestellt werden.
+Für die Praxis
+Prüfen Sie Ihre Lizenz- und Lieferverträge: Wo geben Sie Kunden Quellcode gegen Entgelt? Für diesen Code tragen Sie die vollen Herstellerpflichten — nicht aber für das, was der Kunde daraus macht. Demo-Code, Tutorials und Beta-Versionen zu Testzwecken bleiben außen vor.
+
+Abschnitt im Guidance-ÜberblickAbschnitt 2.4Hardware + Software als ein Produkt+Ob Software Teil eines Produkts ist, bestimmt nicht der Auslieferungsweg, sondern ob die Software für die bestimmungsgemäßen Funktionen des Produkts erforderlich ist. Separat bezogene Treiber und Companion-Apps (z. B. aus dem App Store) bilden mit der Hardware ein einziges Produkt mit digitalen Elementen.
+Kernaussagen
+Netzwerkdrucker + zum Download bereitgestellte Treiber = ein Produkt, weil der Drucker ohne Treiber seinen Zweck nicht erfüllt (Beispiel 8).
+Fitness-Wearable + Companion-App = ein Produkt, weil beide zusammenwirken sollen (Beispiel 9).
+Das Inverkehrbringen der Software erfolgt zeitgleich mit dem der Hardware-Einheiten.
+Für die Praxis
+Ordnen Sie jede Companion-App und jeden Treiber dem zugehörigen Hardware-Produkt zu: Sie gehören in dessen Risikobewertung, SBOM, technische Dokumentation und Konformitätsbewertung — nicht in eine eigene. Der Auslieferungsweg (App Store, Download-Link) spielt keine Rolle.
+
+Abschnitt im Guidance-ÜberblickAbschnitt 2.5Datenverbindung — Abgrenzung zu bloßer Elektronik+Der CRA-Scope knüpft an eine Datenverbindung an, nicht an das bloße Vorhandensein von Elektronik. Eine Datenverbindung setzt voraus, dass binäre Zustände von einem Sender bewusst als Information codiert und vom Empfänger als Daten decodiert werden können. Elektrische Signale, die nur eine Funktion auslösen oder mit Strom versorgen, begründen keinen CRA-Scope.
+Kernaussagen
+Bloßes Ein-/Ausschalten eines Ausgangs (0/1) ist keine Datenverbindung, wenn die Zustände keine Information repräsentieren sollen.
+Erforderlich: ein Sender, der digitale Symbole nach einem definierten Schema erzeugt, und ein Empfänger, der sie als Daten interpretieren kann.
+Die Grenze trennt Produkte, die an digitaler Kommunikation teilnehmen (und Cyberrisiken ausgesetzt sind), von rein elektrisch angesteuerten Produkten.
+Für die Praxis
+Stellen Sie je Produkt eine einzige Frage: Sendet oder empfängt es bewusst codierte Daten (Protokoll, Bus, Funk, serielle Schnittstelle)? Nur dann ist es im CRA-Scope. Produkte, die Signale nur schalten oder Strom führen, können Sie mit dieser Begründung dokumentiert aussteuern.
+
+Abschnitt im Guidance-ÜberblickAbschnitt 3.1 – 3.2Open Source: Wann ist FOSS „in Verkehr gebracht“?+Entscheidend ist die Monetarisierung durch den Verantwortlichen (Maintainer), nicht die Finanzierung der Entwicklung: Preis für Binaries, Monetarisierung anderer Dienste über die Software, verpflichtende Datenverarbeitung oder kostenpflichtige Versionen mit Support-Vorteilen bedeuten Inverkehrbringen. Freiwillige Donations, optionale Beratung und Dritt-Sponsoring lösen für sich genommen keinen CRA-Scope aus.
+Kernaussagen
+FOSS-Definition (Art. 3 Nr. 48) verlangt kumulativ eine FOSS-Lizenz mit allen Rechten und öffentlich geteilten Quellcode — Code nur für zahlende Kunden ist kein FOSS.
+Verantwortlich ist, wer Releases, Roadmap und Distribution kontrolliert; Contributors ohne diese Kontrolle unterliegen dem CRA nicht, selbst mit Commit-Rechten (Beispiel 13).
+Community-Version und kostenpflichtige (Open-Core-)Version sind zwei verschiedene Produkte — die kostenlose Version bleibt außerhalb des Markts.
+Optionale bezahlte Services (Consulting, Training, Deployment-Hilfe) sind unschädlich; kostenpflichtiger Zugang zu einer Version mit technischem Support ist dagegen Monetarisierung (Beispiele 17/18).
+Donations sind erst kritisch, wenn sie de facto Zugangsbedingung sind — etwa Releases oder Security-Fixes nur für Spender (Beispiele 21/22); Kostendeckung inkl. angemessener Lebenshaltungskosten ist zulässig.
+Dritt-Finanzierung (Grants, Bug Bounties, bezahlte Feature-Entwicklung) macht FOSS nicht kommerziell (Erwägungsgrund 18, Beispiel 23).
+Für die Praxis
+Gehen Sie Ihre Open-Source-Projekte einzeln durch und beantworten Sie zwei Fragen: Kontrollieren wir Releases und Distribution? Und verdienen wir an genau dieser Version (Preis, Monetarisierung über die Software, Pflicht-Datenverarbeitung, Bezahlversion mit Support)? Nur bei zweimal Ja sind Sie Hersteller. Donations-Link, Sponsoring und optionale Beratung ändern daran nichts.
+
+Abschnitt im Guidance-ÜberblickAbschnitt 4.3Software-Updates als wesentliche Änderung+Maßstab ist nicht der Umfang der Änderung, sondern ihre Wirkung auf das Risikoprofil: Ändert ein Update den bewerteten Verwendungszweck oder schafft es neue, nicht in der Risikobewertung erfasste Risiken, ist es eine wesentliche Änderung. Sicherheitsupdates sind es grundsätzlich nicht. Vier Prüfkriterien (Rn. 110) strukturieren die Einzelfallbewertung.
+Kernaussagen
+In der ursprünglichen Risikobewertung bereits antizipierte und bewertete Features lösen keine wesentliche Änderung aus — auch nicht das spätere Aktivieren vorhandener, bewerteter Funktionen (Beispiele 42/43).
+Auch kleine Features können wesentlich sein: ein „Remember me“-Login mit lokal gespeicherten Tokens schafft neue Risiken (Token-Diebstahl, Session Hijacking — Beispiel 44).
+Sicherheitsupdates sind nur ausnahmsweise wesentlich — etwa wenn sie Zweckbestimmung, Datenflüsse oder Abhängigkeitsstruktur grundlegend ändern (Beispiele 49/50: lokale Verschlüsselung wird Cloud-Service; externes Key-Management ersetzt internes).
+Prüfkriterien (Rn. 110): neue Bedrohungsvektoren, neue Angriffsszenarien, veränderte Eintrittswahrscheinlichkeit, veränderte Auswirkungen bekannter Szenarien.
+Unabhängig von der Einstufung: Risikobewertung und technische Doku sind laufend aktuell zu halten (Art. 13 Abs. 7, Art. 31 Abs. 2).
+Für die Praxis
+Verankern Sie im Release-Prozess eine feste Prüffrage mit dokumentierter Antwort: Schafft dieses Update neue Bedrohungsvektoren oder Angriffsszenarien, oder verändert es Wahrscheinlichkeit/Auswirkung bekannter Szenarien? Nein und in der Risikobewertung abgedeckt → kein neues Inverkehrbringen. Ja → Risikobewertung nachziehen und prüfen, ob eine neue Konformitätsbewertung fällig ist.
+
+Abschnitt im Guidance-ÜberblickAbschnitt 8.1Was zählt als Remote Data Processing Solution (RDPS)?+Remote-Datenverarbeitung ist Teil des Produkts, wenn drei Kriterien kumulativ erfüllt sind: Verarbeitung „at a distance“, Funktionsnotwendigkeit (ohne sie könnte das Produkt eine Funktion nicht erfüllen) und Entwicklung durch den Hersteller oder unter seiner Verantwortung. Die Leitlinien übersetzen das in zwei Prüffragen mit Entscheidungsbaum.
+Kernaussagen
+„Wer betreibt“ ist unerheblich: On-Premises- oder Private-Cloud-Lösungen können genauso RDPS sein wie Public-Cloud-Lösungen.
+„Funktionen“ meint mehr als Kernfunktionalität: auch Onboarding, Datei-Sync, Konfiguration, automatische Update-Verteilung und Identity/Access Management zählen.
+Telemetrie rein für Statistik oder Produktentwicklung ist kein RDPS — die Risiken solcher Remote-Komponenten gehören aber trotzdem in die Risikobewertung.
+IaaS/PaaS: Läuft die eigene (oder beauftragte) Software auf fremder Infrastruktur, kann sie RDPS sein; Standard-SaaS von Dritten ist kein RDPS, wird aber wie eine Dritt-Komponente behandelt (Risiken mitigieren + Due Diligence).
+„Unter Verantwortung des Herstellers“ = maßgeschneidert für den Hersteller nach dessen Designs/Spezifikationen — nicht das bloße Lizenzieren eines bestehenden Dienstes.
+Interne Systeme (HR, CRM, CI/CD-Pipelines, Update-Verteilung an Edge-Standorte, Pentest-/Red-Team-Infrastruktur) sind kein RDPS.
+Websites nur bei Funktionsbeitrag: ein Auth-Portal, das Tokens für das Produkt ausstellt, kann RDPS sein — eine Info-Website nicht, selbst wenn das Produkt auf sie verlinkt.
+Für die Praxis
+Beantworten Sie je Cloud-/Backend-Dienst zwei Fragen: (1) Fällt ohne ihn eine Produktfunktion aus (auch Onboarding, Sync, Updates, Login)? (2) Wurde die Software von uns oder nach unseren Vorgaben entwickelt? Zweimal Ja → Teil Ihres Produkts, gehört in Risikobewertung und Konformitätsbewertung. Nur Frage 1 Ja (z. B. Standard-SaaS) → wie Dritt-Komponente behandeln: Risiken mitigieren plus Due Diligence.
+
+Abschnitt im Guidance-ÜberblickAbschnitt 8.3Fünf RDPS-Use-Cases: Banking-App, Thermostat, e-Reader, Roboter, Mobilfunk+Fünf durchgespielte Fälle zeigen die Abgrenzung: Bei der Mobile-Banking-App ist das selbst entwickelte Banking-Interface RDPS, nachgelagerte Ledger-/Kontensysteme nicht, der Support-Chat (Dritt-SaaS) ist eine Dritt-Komponente. Smart Thermostat und Industrieroboter: eigene Cloud-Software auf Dritt-IaaS ist RDPS. e-Reader: Dritt-SaaS-Storage ist kein RDPS, aber als Komponente zu behandeln. Das Mobilfunknetz ist reiner Kommunikationskanal — kein RDPS, keine Due Diligence nötig.
+Kernaussagen
+Der CRA erfasst nur die Systemteile, mit denen das Produkt direkt interagiert — Risiken dahinterliegender Systeme (z. B. kompromittiertes Ledger) sind produktseitig zu mitigieren (starke Backend-Authentisierung, Integritätsschutz, sichere Kanäle).
+Bei Dritt-IaaS: RDPS und IaaS-Nutzung in der technischen Doku dokumentieren; vom Provider z. B. NIS-2-Nachweise einholen.
+Netz-Infrastruktur (5G, Ethernet, WLAN, Router) ist Kommunikations-Enabler, nicht Datenverarbeitung, deren Fehlen eine Produktfunktion verhindert.
+Für die Praxis
+Ordnen Sie Ihr eigenes Setup dem nächstliegenden der fünf Kommissions-Use-Cases zu (Banking-App, Smart Thermostat, e-Reader, Industrieroboter, Mobilfunknetz) und übernehmen Sie dessen Logik: Was direkt mit dem Produkt interagiert und von Ihnen entwickelt wurde, ist RDPS; dahinterliegende Systeme sind externe Abhängigkeiten; reine Netzinfrastruktur ist gar nichts davon. Meist ersetzt das ein teures Einzelgutachten.
+
+Abschnitt im Guidance-Überblick
+Alle Guidance-Kapitel im ÜberblickEU-Kommissions-Guidance (C(2026) 5252 final) — Die Guidance gibt die Auslegung der Europäischen Kommission wieder und ist rechtlich nicht bindend. Eine verbindliche Auslegung des EU CRA kann nur der Gerichtshof der Europäischen Union vornehmen.
+
+Verwandte Erwägungsgründe
+(7)
+8Um das Gesamtniveau der Cybersicherheit aller im Binnenmarkt in den Verkehr gebrachten Produkte mit digitalen Elementen zu erhöhen, müssen für diese Produkte objektive und technologieneutrale grundleg…
+
+9Alle Produkte mit digitalen Elementen, die in ein größeres elektronisches Informationssystem integriert oder mit ihm verbunden sind, können unter bestimmten Umständen böswilligen Akteuren als Angriffs…
+
+10Mit der Festlegung von Cybersicherheitsanforderungen für das Inverkehrbringen von Produkten mit digitalen Elementen soll die Cybersicherheit dieser Produkte sowohl für Verbraucher als auch für Unterne…
+
+13Im Einklang mit dem Ziel dieser Verordnung, Hindernisse für den freien Verkehr von Produkten mit digitalen Elementen auszuräumen, sollten die Mitgliedstaaten in den von dieser Verordnung erfassten Asp…
+
+14Diese Verordnung sollte im Einklang mit dem Unionsrecht die Verantwortung der Mitgliedstaaten für die Gewährleistung der nationalen Sicherheit unberührt lassen. Die Mitgliedstaaten sollten Produkte mi…
+
+15Diese Verordnung gilt für Wirtschaftsakteure nur in Bezug auf Produkte mit digitalen Elementen, die auf dem Markt bereitgestellt werden, d. h., die im Rahmen einer Geschäftstätigkeit zum Vertrieb oder…
+
+16Produkte mit digitalen Elementen, die im Rahmen der Erbringung einer Dienstleistung bereitgestellt werden, für die eine Gebühr ausschließlich zur Deckung der tatsächlichen Kosten erhoben wird, die in…
+
+Vertiefung im Blog
+
+CRA vs Produkthaftungsrichtlinie: Wie die zwei EU-Gesetze für Softwarehersteller zusammenspielenEU-CRA-Compliance für Industriemaschinen: Schritt-für-Schritt-Anleitung für OEMsCRA Friday Facts: Kein Grandfathering, das Produktionsdatum zählt nicht
+Vorheriger Artikel
+Artikel 2Artikel 2 - Anwendungsbereich
+
+Nächster Artikel
+Artikel 4Artikel 4 - Freier Verkehr
+
+CRA-Updates per E-Mail
+Fristen, Guidance und Mythos-Faktenchecks zum EU Cyber Resilience Act, kompakt im Newsletter.
+
+Newsletter ansehen
+
+Dieser Text wurde aus der Verordnung (EU) 2024/2847 des Europäischen Parlaments und des Rates vom 23. Oktober 2024 übernommen. Die Darstellung dient ausschließlich Informationszwecken und stellt keine Rechtsberatung dar. Maßgeblich ist allein der im Amtsblatt der Europäischen Union veröffentlichte Wortlaut. Originaltext auf EUR-Lex
+
+Kunnus ist ein Produkt und Marke von Think Ahead.
+
+Plattform
+Alle Funktionen
+Multi-Produkt-Plattform
+CRA-Abdeckung
+Walkthrough
+SBOM-Scanner
+Scanner-Doku
+Roadmap
+Demo anfordern
+
+Lösungen
+Startups
+KMU
+Enterprise
+Anwendungsfälle
+
+Branchen
+Industriemaschinen
+IoT & Konsumgüter
+Energie & Gebäudetechnik
+Industriekomponenten
+Smart Farming
+Telekommunikation
+Software & SaaS
+Embedded Systems
+Smart Home & Consumer
+
+Ressourcen
+Wissensdatenbank
+CRA Leitfaden
+SECURE-Förderung
+Blog
+Events
+CRA & Schweiz
+Newsletter
+
+Unternehmen
+Über uns
+Team
+Methodik
+Partnerprogramm
+Karriere
+Impressum
+GitHub
+
+© 2026 Think Ahead Technologies GmbH. All rights reserved.
+DatenschutzCookiesSicherheitImpressum
+

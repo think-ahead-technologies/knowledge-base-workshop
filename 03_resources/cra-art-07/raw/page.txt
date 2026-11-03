@@ -1,0 +1,184 @@
+EU CRA Artikel 7 — Wichtige Produkte mit digitalen Elementen
+Die ersten Pflichten des EU Cyber Resilience Act für Hersteller gelten seit dem 11. September 2026.
+Erste Pflichten seit September 2026
+Was jetzt zu tun ist
+Plattform
+Lösungen
+Ressourcen
+Unternehmen
+Wissensdatenbank
+DE
+Einloggen
+Demo anfordern
+Toggle menu
+Wissensdatenbank
+Artikel
+Artikel 7
+Kapitel
+I
+-
+ALLGEMEINE BESTIMMUNGEN
+7
+Artikel
+7
+Wichtige Produkte mit digitalen Elementen
+Verordnung (EU) 2024/2847 — veröffentlicht 10. Dezember 2024 · Letzte Prüfung durch Kunnus: März 2026
+Schnellantwort für Hersteller
+Artikel 7 klassifiziert Produkte als „wichtig“ in Klasse I oder Klasse II. Die Einstufung bestimmt das anwendbare Konformitätsbewertungsverfahren — und entscheidet, ob eine notifizierte Stelle eingebunden werden muss.
+Diese Schnellantwort + FAQ ergänzen den Original-Rechtstext mit praxisorientierter Auslegung. Rechtsverbindlich ist allein der Originaltext.
+(
+1
+)
+Produkte mit digitalen Elementen, die die Kernfunktionen einer in
+Anhang III
+aufgeführten Produktkategorie aufweisen, gelten als wichtige Produkte mit digitalen Elementen und unterliegen den in
+Artikel 32
+Absätze 2 und 3 genannten Konformitätsbewertungsverfahren. Die Integration eines Produkts mit digitalen Elementen, das die Kernfunktionen einer in
+Anhang III
+aufgeführten Produktkategorie aufweist, führt für sich genommen nicht dazu, dass das Produkt, in das es integriert ist, den Konformitätsbewertungsverfahren gemäß
+Artikel 32
+Absätze 2 und 3 unterliegt.
+(
+2
+)
+Die in Absatz 1 dieses Artikels genannten Kategorien von Produkten mit digitalen Elementen, die gemäß
+Anhang III
+in die Klassen I und II unterteilt sind, erfüllen mindestens eines der folgenden Kriterien:
+a)
+Das Produkt mit digitalen Elementen erfüllt in erster Linie Funktionen, die für die Cybersicherheit anderer Produkte, Netze oder Dienste von entscheidender Bedeutung sind, einschließlich der Sicherung der Authentifizierung und des Zugangs, der Prävention und Erkennung von Eindringen, der Endpunktsicherheit oder des Netzschutzes;
+b)
+das Produkt mit digitalen Elementen erfüllt eine Funktion, die ein erhebliches Risiko nachteiliger Auswirkungen birgt in Bezug auf deren Intensität und Fähigkeit, eine große Zahl anderer Produkte oder die Gesundheit, Sicherheit oder Sicherheit seiner Nutzer durch direkte Manipulation zu stören, zu steuern oder zu schädigen, wie z. B. eine zentrale Systemfunktion, einschließlich Netzmanagement, Konfigurationskontrolle, Virtualisierung oder Verarbeitung personenbezogener Daten.
+(
+3
+)
+Der Kommission wird die Befugnis übertragen, gemäß
+Artikel 61
+delegierte Rechtsakte zur Änderung des
+Anhangs III
+zu erlassen, um innerhalb jeder Klasse der Kategorien von Produkten mit digitalen Elementen eine neue Kategorie in die Liste aufzunehmen und ihre Definition zu präzisieren, eine Produktkategorie von einer Klasse in die andere zu verschieben oder eine bestehende Kategorie von dieser Liste zu streichen. Bei der Bewertung der Notwendigkeit einer Änderung der Liste in
+Anhang III
+berücksichtigt die Kommission die cybersicherheitsbezogenen Funktionen oder die Funktion und die Höhe des von Produkten mit digitalen Elementen ausgehenden Cybersicherheitsrisikos gemäß den in Absatz 2 genannten Kriterien des vorliegenden Artikels. Die in Unterabsatz 1 genannten delegierten Rechtsakte sehen gegebenenfalls einen Übergangszeitraum von mindestens 12 Monaten vor, insbesondere wenn eine neue Kategorie wichtiger Produkte mit digitalen Elementen der Klasse I oder II gemäß
+Anhang III
+hinzugefügt oder von der Klasse I in die Klasse II verschoben wird, bevor die einschlägigen Konformitätsbewertungsverfahren gemäß
+Artikel 32
+Absätze 2 und 3 zur Anwendung kommen, es sei denn, ein kürzerer Übergangszeitraum ist aus Gründen äußerster Dringlichkeit gerechtfertigt.
+(
+4
+)
+Bis zum 11. Dezember 2025 erlässt die Kommission einen Durchführungsrechtsakt, in dem sie die technische Beschreibung der nach
+Anhang III
+zu den Klassen I und II gehörigen Kategorien von Produkten mit digitalen Elementen und die technische Beschreibung der Kategorien von Produkten mit digitalen Elementen gemäß
+Anhang IV
+festlegt. Dieser Durchführungsrechtsakt wird nach dem Prüfverfahren gemäß
+Artikel 62
+Absatz 2 erlassen.
+Auslegung der EU-Kommission
+Guidance vom 27. Juli 2026
+Die EU-Kommissions-Guidance vom 27. Juli 2026 enthält offizielle Auslegungshinweise zu dieser Vorschrift. Jeder Abschnitt: Kurzfassung, Kernaussagen und was das konkret für Sie bedeutet.
+Abschnitt
+6.1
+Kernfunktionalität — der Schlüssel zur Produktklassifizierung
++
+Ob ein Produkt „wichtig“ (Anhang III) oder „kritisch“ (Anhang IV) ist, bestimmt allein seine Kernfunktionalität — die Hauptmerkmale, ohne die es seinen Zweck nicht erfüllen könnte. Zusatzfunktionen und integrierte Komponenten ändern die Einstufung nicht; jedes Produkt hat genau eine Kernfunktionalität, die in der technischen Dokumentation klar zu benennen ist.
+Kernaussagen
+Integration ist keine Einstufung: Ein Smartphone mit integriertem Betriebssystem hat nicht die Kernfunktionalität eines Betriebssystems (Beispiel 58).
+Deutliches Über- oder Unterschreiten einer Kategorie fällt heraus: SOAR-Software ist kein SIEM (Beispiel 59), einfache Log-Sammel-Tools ohne Korrelation auch nicht (Beispiel 60).
+Keine Gestaltung über Marketing: Widersprüche zwischen Werbematerial, Nutzungsanleitung und technischer Doku dürfen nicht genutzt werden, um dem strengeren Verfahren zu entgehen.
+Auch separat vermarktete Module eines Produkts werden je eigenständig eingestuft (Beispiel 61: Security-Suite mit SIEM-, IDS- und Analytics-Modul).
+Die technischen Beschreibungen der Kategorien stehen in der Durchführungsverordnung (EU) 2025/2392.
+Für die Praxis
+Formulieren Sie für jedes Produkt einen Satz: „Ohne Funktion X erfüllt das Produkt seinen Zweck nicht.“ X ist die Kernfunktionalität — gleichen Sie nur X mit den Kategorien in Anhang III/IV (bzw. der Durchführungsverordnung 2025/2392) ab, nicht Ihre Feature-Liste. Achten Sie darauf, dass Werbematerial, Anleitung und technische Doku dieselbe Geschichte erzählen.
+Abschnitt im Guidance-Überblick
+Alle Guidance-Kapitel im Überblick
+EU-Kommissions-Guidance (C(2026) 5252 final)
+—
+Die Guidance gibt die Auslegung der Europäischen Kommission wieder und ist rechtlich nicht bindend. Eine verbindliche Auslegung des EU CRA kann nur der Gerichtshof der Europäischen Union vornehmen.
+Häufige Hersteller-Fragen
+Was unterscheidet Klasse I von Klasse II?
++
+Klasse I (z. B. Passwort-Manager, Heimrouter, SPSen) erlaubt Selbstbewertung nach Modul A, wenn vollständig harmonisierte Normen angewendet werden. Klasse II (z. B. Hypervisor, Firewalls, Smartcards) erfordert in jedem Fall eine notifizierte Stelle.
+Wo finde ich die Liste der wichtigen Produktkategorien?
++
+In Anhang III des CRA. Klasse I und Klasse II sind dort jeweils mit konkreten Produktkategorien aufgeführt. Erwägungsgrund 45 ergänzt das Verständnis um die „Kernfunktionalitäts“-Logik der Einstufung.
+Welche Frist gilt für Klasse-II-Hersteller?
++
+Die volle Konformitäts-Deadline 11. Dezember 2027 gilt für alle Hersteller. Wegen Notified-Body-Engpässen sollten Klasse-II-Hersteller die notifizierte Stelle bereits 12+ Monate vor dem Termin ansprechen.
+Verwandte Erwägungsgründe
+(
+3
+)
+41
+Im Einklang mit dem allgemein anerkannten Konzept der wesentlichen Änderung von Produkten, für die Harmonisierungsrechtsvorschriften der Union gelten, ist es angebracht, wenn eine wesentliche Änderung…
+42
+Wird ein Produkt mit digitalen Elementen einer „Überholung“, „Wartung“ und „Reparatur“ im Sinne des Artikels 2 Nummern 18, 19 und 20 der Verordnung (EU) 2024/1781 des Europäischen Parlaments und des R…
+43
+Produkte mit digitalen Elementen sollten als wichtig betrachtet werden, wenn die negativen Auswirkungen der Ausnutzung potenzieller Cybersicherheitslücken in dem Produkt schwerwiegend sein können, unt…
+Vorheriger Artikel
+Artikel
+6
+Artikel
+6
+-
+Anforderungen an Produkte mit digitalen Elementen
+Nächster Artikel
+Artikel
+8
+Artikel
+8
+-
+Kritische Produkte mit digitalen Elementen
+CRA-Updates per E-Mail
+Fristen, Guidance und Mythos-Faktenchecks zum EU Cyber Resilience Act, kompakt im Newsletter.
+Newsletter ansehen
+Dieser Text wurde aus der Verordnung (EU) 2024/2847 des Europäischen Parlaments und des Rates vom 23. Oktober 2024 übernommen. Die Darstellung dient ausschließlich Informationszwecken und stellt keine Rechtsberatung dar. Maßgeblich ist allein der im Amtsblatt der Europäischen Union veröffentlichte Wortlaut.
+Originaltext auf EUR-Lex
+Kunnus ist ein Produkt und Marke von
+Think Ahead
+.
+Plattform
+Alle Funktionen
+Multi-Produkt-Plattform
+CRA-Abdeckung
+Walkthrough
+SBOM-Scanner
+Scanner-Doku
+Roadmap
+Demo anfordern
+Lösungen
+Startups
+KMU
+Enterprise
+Anwendungsfälle
+Branchen
+Industriemaschinen
+IoT & Konsumgüter
+Energie & Gebäudetechnik
+Industriekomponenten
+Smart Farming
+Telekommunikation
+Software & SaaS
+Embedded Systems
+Smart Home & Consumer
+Ressourcen
+Wissensdatenbank
+CRA Leitfaden
+SECURE-Förderung
+Blog
+Events
+CRA & Schweiz
+Newsletter
+Unternehmen
+Über uns
+Team
+Methodik
+Partnerprogramm
+Karriere
+Impressum
+GitHub
+©
+2026
+Think Ahead Technologies GmbH. All rights reserved.
+Datenschutz
+Cookies
+Sicherheit
+Impressum

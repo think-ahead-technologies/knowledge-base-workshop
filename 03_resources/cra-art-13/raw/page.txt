@@ -1,0 +1,390 @@
+EU CRA Artikel 13 — Pflichten der Hersteller
+Die ersten Pflichten des EU Cyber Resilience Act für Hersteller gelten seit dem 11. September 2026.Erste Pflichten seit September 2026Was jetzt zu tun ist
+
+Plattform
+
+Lösungen
+
+Ressourcen
+
+Unternehmen
+
+Wissensdatenbank
+
+DE
+
+EinloggenDemo anfordern
+
+Toggle menu
+
+Wissensdatenbank
+Artikel
+Artikel 13Kapitel II - PFLICHTEN DER WIRTSCHAFTSAKTEURE UND BESTIMMUNGEN IN BEZUG AUF FREIE UND QUELLOFFENE SOFTWARE
+13Artikel 13
+Pflichten der Hersteller
+
+Verordnung (EU) 2024/2847 — veröffentlicht 10. Dezember 2024 · Letzte Prüfung durch Kunnus: März 2026
+
+Schnellantwort für Hersteller
+
+Artikel 13 listet die zentralen Hersteller-Pflichten: Cybersicherheits-Risikobewertung, Erfüllung der Anhang-I-Anforderungen, Schwachstellenbehandlung, Technische Dokumentation, EU-Konformitätserklärung, CE-Kennzeichnung und Bereitstellung von Sicherheitsupdates über den Unterstützungszeitraum.
+Diese Schnellantwort + FAQ ergänzen den Original-Rechtstext mit praxisorientierter Auslegung. Rechtsverbindlich ist allein der Originaltext.
+(1)Wenn sie ein Produkt mit digitalen Elementen in den Verkehr bringen, gewährleisten die Hersteller, dass dieses Produkt gemäß den grundlegenden Cybersicherheitsanforderungen in Anhang I Teil I konzipiert, entwickelt und hergestellt worden ist.
+
+(2)Für die Zwecke der Erfüllung von Absatz 1 führen die Hersteller eine Bewertung der Cybersicherheitsrisiken durch, die ein Produkt mit digitalen Elementen birgt, und berücksichtigen das Ergebnis dieser Bewertung in der Planungs-, Konzeptions-, Entwicklungs-, Herstellungs-, Liefer- und Wartungsphase des Produkts mit digitalen Elementen, um die Cybersicherheitsrisiken zu minimieren, Sicherheitsvorfälle zu verhindern und die Auswirkungen solcher Sicherheitsvorfälle, auch in Bezug auf die Gesundheit und Sicherheit der Nutzer, so gering wie möglich zu halten.
+
+(3)Die Bewertung des Cybersicherheitsrisikos wird während eines gemäß Absatz 8 festzulegenden Unterstützungszeitraums dokumentiert und gegebenenfalls aktualisiert. Diese Bewertung des Cybersicherheitsrisikos umfasst mindestens eine Analyse der Cybersicherheitsrisiken auf der Grundlage der Zweckbestimmung und der vernünftigerweise vorhersehbaren Verwendung des Produkts mit digitalen Elementen, wie der Betriebsumgebung oder der zu schützenden Anlagen, wobei die voraussichtliche Nutzungsdauer des Produkts berücksichtigt wird. In der Bewertung des Cybersicherheitsrisikos wird angegeben, ob und gegebenenfalls in welcher Weise die Sicherheitsanforderungen gemäß Anhang I Teil I Nummer 2 auf das einschlägige Produkt mit digitalen Elementen anwendbar sind und wie diese Anforderungen auf der Grundlage der Bewertung des Cybersicherheitsrisikos umgesetzt werden. Ferner ist anzugeben, wie der Hersteller Anhang I Teil I Nummer 1 anzuwenden hat und welche Anforderungen an die Behandlung von Schwachstellen in Anhang I Teil II festgelegt sind.
+
+(4)Wenn er ein Produkt mit digitalen Elementen in den Verkehr bringt, nimmt der Hersteller die Bewertung der Cybersicherheitsrisiken gemäß Absatz 3 in die gemäß Artikel 31 und Anhang VII vorgeschriebene technische Dokumentation auf. Bei Produkten mit digitalen Elementen gemäß Artikel 12, die auch anderen Unionsrechtsvorschriften unterliegen, kann die Bewertung der Cybersicherheitsrisiken auch Teil der in den betreffenden Unionsrechtsvorschriften geforderten Risikobewertungen sein. Sind bestimmte grundlegende Cybersicherheitsanforderungen nicht auf das Produkt mit digitalen Elementen anwendbar, so nimmt der Hersteller eine klare Begründung hierfür in diese technische Dokumentation auf.
+
+(5)Für die Zwecke der Erfüllung der in Absatz 1 festgelegten Pflicht lassen die Hersteller die gebotene Sorgfalt walten, wenn sie von Dritten bezogene Komponenten in ihre Produkte mit digitalen Elementen integrieren, sodass solche Komponenten die Cybersicherheit des Produkts mit digitalen Elementen nicht beeinträchtigen, auch nicht bei der Integration von freier und quelloffener Software, die nicht im Rahmen einer Geschäftstätigkeit auf dem Markt bereitgestellt wurde.
+
+(6)Sobald der Hersteller eine Schwachstelle in einer in das Produkt mit digitalen Elementen integrierten Komponente, einschließlich einer quelloffenen Komponente, feststellt, meldet er die Schwachstelle der Person oder Einrichtung, die diese Komponente herstellt oder wartet, und behandelt und behebt die Schwachstelle gemäß den in Anhang I Teil II festgelegten Anforderungen an die Behandlung von Schwachstellen. Haben Hersteller eine Software- oder Hardware-Änderung entwickelt, um die Schwachstelle in dieser Komponente zu beheben, teilen sie den betreffenden Code oder die einschlägigen Unterlagen der Person oder Stelle, die die Komponente herstellt oder wartet, gegebenenfalls in einem maschinenlesbaren Format mit.
+
+(7)Der Hersteller dokumentiert systematisch und in einer der Art der Cybersicherheitsrisiken angemessenen Weise alle relevanten Cybersicherheitsaspekte des Produkts mit digitalen Elementen, einschließlich der Schwachstellen, von denen er Kenntnis erlangt, und aller von Dritten bereitgestellten einschlägigen Informationen und aktualisiert gegebenenfalls die Bewertung der Cybersicherheitsrisiken des Produkts.
+
+(8)Wenn sie ein Produkt mit digitalen Elementen in den Verkehr bringen und während der erwarteten Produktlebensdauer und des Unterstützungszeitraums stellen die Hersteller sicher, dass Schwachstellen dieses Produkts, einschließlich seiner Komponenten, wirksam und im Einklang mit den grundlegenden Cybersicherheitsanforderungen in Anhang I Teil II behandelt werden. Die Hersteller legen den Unterstützungszeitraum so fest, dass er die Dauer der voraussichtlichen Nutzung des Produkts widerspiegelt, wobei sie insbesondere angemessenen Erwartungen der Nutzer, der Art des Produkts, einschließlich seiner Zweckbestimmung, sowie den einschlägigen Rechtsvorschriften der Union zur Festlegung der Lebensdauer von Produkten mit digitalen Elementen Rechnung tragen. Bei der Festlegung des Unterstützungszeitraums können die Hersteller auch die Unterstützungszeiträume für Produkte mit digitalen Elementen mit einer ähnlichen Funktion, die von anderen Herstellern in den Verkehr gebracht werden, die Verfügbarkeit der Betriebsumgebung, die Unterstützungszeiträume für integrierte Komponenten, die Kernfunktionen erbringen und von Dritten bezogen werden, sowie die einschlägigen Leitlinien der gemäß Artikel 52 Absatz 15 eingesetzten besondere Gruppe zur administrativen Zusammenarbeit (ADCO) und der Kommission berücksichtigen. Die zur Bestimmung des Unterstützungszeitraums zu berücksichtigenden Aspekte werden in einer Weise berücksichtigt, die die Verhältnismäßigkeit gewährleistet. Unbeschadet Unterabsatz 2 beträgt der Unterstützungszeitraum mindestens fünf Jahre. Wird davon ausgegangen, dass das Produkt mit digitalen Elementen weniger als fünf Jahre im Betrieb ist, muss der Unterstützungszeitraum der voraussichtlichen Nutzungsdauer entsprechen. Unter Berücksichtigung der ADCO-Empfehlungen gemäß Artikel 52 Absatz 16 kann die Kommission gemäß Artikel 61 delegierte Rechtsakte erlassen, um diese Verordnung durch die Festlegung des Mindestunterstützungszeitraums für bestimmte Produktkategorien zu ergänzen, wenn die Marktüberwachungsdaten auf unangemessene Unterstützungszeiträume hindeuten. Die Hersteller nehmen die Informationen, die bei der Bestimmung des Unterstützungszeitraums eines Produkts mit digitalen Elementen berücksichtigt wurden, in die technische Dokumentation gemäß Anhang VII auf. Die Hersteller haben geeignete Strategien und Verfahren, darunter eine Strategie für die koordinierte Offenlegung von Schwachstellen gemäß Anhang I Teil II Nummer 5, um potenzielle Schwachstellen in dem Produkt mit digitalen Elementen, die von internen oder externen Quellen gemeldet werden, zu bearbeiten und zu beheben.
+
+(9)Die Hersteller gewährleisten, dass jede Sicherheitsaktualisierung gemäß Anhang I Teil II Nummer 8, die den Nutzern während des Unterstützungszeitraums zur Verfügung gestellt wurde, nach ihrer Bereitstellung für mindestens zehn Jahre oder für die verbleibende Dauer des Unterstützungszeitraums, je nachdem, welcher Zeitraum länger ist, verfügbar bleibt.
+
+(10)Hat ein Hersteller nachfolgende wesentlich geänderte Versionen eines Softwareprodukts in den Verkehr gebracht, so kann er die Sicherstellung der Einhaltung der in Anhang I Teil II Nummer 2 festgelegten grundlegenden Cybersicherheitsanforderung auf die Version beschränken, die der Hersteller zuletzt in den Verkehr gebracht hat, sofern die Nutzer der zuvor in den Verkehr gebrachten Version kostenlos Zugang zu der zuletzt in den Verkehr gebrachten Version haben und ihnen keine zusätzlichen Kosten für die Anpassung der Hardware- und Softwareumgebung entstehen, in der sie die Originalversion dieses Produkts verwenden.
+
+(11)Die Hersteller können öffentliche Softwarearchive unterhalten, die den Nutzern den Zugang zu historischen Versionen erleichtern. In diesen Fällen werden die Nutzer klar und in leicht zugänglicher Form über die Risiken im Zusammenhang mit der Verwendung nicht unterstützter Software informiert.
+
+(12)Bevor sie ein Produkt mit digitalen Elementen in den Verkehr bringen, erstellen die Hersteller die in Artikel 31 genannte technische Dokumentation. Sie führen die gewählten Konformitätsbewertungsverfahren gemäß Artikel 32 durch oder lassen sie durchführen. Ist mit diesem Konformitätsbewertungsverfahren nachgewiesen worden, dass das Produkt mit digitalen Elementen den grundlegenden Cybersicherheitsanforderungen in Anhang I Teil I genügt und die vom Hersteller festgelegten Verfahren den grundlegenden Cybersicherheitsanforderungen in Anhang I Teil II genügen, so stellen die Hersteller die EU-Konformitätserklärung gemäß Artikel 28 aus und bringen die CE-Kennzeichnung gemäß Artikel 30 an.
+
+(13)Die Hersteller bewahren die technische Dokumentation und die EU-Konformitätserklärung nach dem Inverkehrbringen des Produkts mit digitalen Elementen mindestens zehn Jahre lang oder für die Dauer des Unterstützungszeitraums, je nachdem, welcher Zeitraum länger ist, für die Marktüberwachungsbehörden auf.
+
+(14)Die Hersteller gewährleisten durch geeignete Verfahren, dass die Konformität von Produkten mit digitalen Elementen mit dieser Verordnung bei einer Serienherstellung sichergestellt bleibt. Die Hersteller berücksichtigen in angemessener Weise etwaige Änderungen am Entwicklungs- und Herstellungsverfahren oder an der Konzeption oder den Merkmalen des Produkts mit digitalen Elementen sowie Änderungen der harmonisierten Normen, der europäischen Schemata für die Cybersicherheitszertifizierung oder der in Artikel 27 genannten gemeinsamen Spezifikationen, die bei der Erklärung der Konformität des Produkts mit digitalen Elementen zugrunde gelegt oder bei der Überprüfung seiner Konformität angewandt wurden.
+
+(15)Die Hersteller gewährleisten, dass ihre Produkte mit digitalen Elementen eine Typen-, Chargen- oder Seriennummer oder ein anderes Kennzeichen zu ihrer Identifikation tragen, oder, falls dies nicht möglich ist, dass die diese Informationen auf der Verpackung oder in den dem Produkt mit digitalen Elementen beigefügten Unterlagen angegeben werden.
+
+(16)Die Hersteller geben den Namen, den eingetragenen Handelsnamen oder die eingetragene Handelsmarke des Herstellers, die Postanschrift, die E-Mail-Adresse oder andere digitale Kontaktangaben sowie, soweit vorhanden, die Website, unter der der Hersteller zu erreichen ist, entweder auf dem Produkt mit digitalen Elementen selbst oder, wenn dies nicht möglich ist, auf der Verpackung oder in den dem Produkt mit digitalen Elementen beigefügten Unterlagen an. Diese Informationen werden auch in die in Informationen und Anleitungen für den Nutzer gemäß Anhang II aufgenommen. Die Kontaktangaben sind in einer Sprache abzufassen, die von den Nutzern und den Marktüberwachungsbehörden leicht verstanden werden kann.
+
+(17)Für die Zwecke dieser Verordnung benennen die Hersteller eine zentrale Anlaufstelle, die es den Nutzern ermöglicht, direkt und schnell mit ihnen zu kommunizieren, auch um die Meldung von Schwachstellen des Produkts mit digitalen Elementen zu erleichtern. Die Hersteller stellen sicher, dass die zentrale Anlaufstelle von den Nutzern leicht ermittelt werden kann. Sie nehmen die zentrale Anlaufstelle auch in die Informationen und Anleitungen für die Nutzer gemäß Anhang II auf. Die zentrale Anlaufstelle ermöglicht es den Nutzern, ihr bevorzugtes Kommunikationsmittel zu wählen, wobei diese Mittel nicht auf automatisierte Instrumente beschränkt werden dürfen.
+
+(18)Die Hersteller gewährleisten, dass den Produkten mit digitalen Elementen die in Anhang II genannten Informationen und Anleitungen für den Nutzer in Papierform oder elektronischer Form beigefügt sind. Diese Informationen und Anleitungen müssen in einer Sprache bereitgestellt werden, die von den Nutzern und den Marktüberwachungsbehörden leicht verstanden werden kann. Sie müssen klar, verständlich, deutlich und lesbar sein. Sie müssen die sichere Installation, den sicheren Betrieb und die sichere Verwendung der Produkte mit digitalen Elementen ermöglichen. Die Hersteller stellen die Informationen und Anleitungen für den Nutzer gemäß Anhang II nach dem Inverkehrbringen des Produkts mit digitalen Elementen mindestens zehn Jahre lang oder für die Dauer des Unterstützungszeitraums, je nachdem, welcher Zeitraum länger ist, den Nutzern zur Verfügung. Werden diese Informationen und Anleitungen online bereitgestellt, so stellen die Hersteller sicher, dass sie zugänglich, benutzerfreundlich und mindestens zehn Jahre lang nach dem Inverkehrbringen des Produkts mit digitalen Elementen oder während des Unterstützungszeitraums, je nachdem, welcher Zeitraum länger ist, online verfügbar sind.
+
+(19)Die Hersteller stellen sicher, dass das Enddatum des in Absatz 8 genannten Unterstützungszeitraums, zum Zeitpunkt des Kaufs in leicht zugänglicher Weise und sofern zutreffend auf dem Produkt mit digitalen Elementen, seiner Verpackung oder mit digitalen Mitteln klar und verständlich angegeben wird, wobei mindestens der Monat und das Jahr anzugeben sind. Sofern dies angesichts der Art des Produkts mit digitalen Elementen technisch machbar ist, zeigen die Hersteller den Nutzern eine Mitteilung an, um sie darüber zu unterrichten, dass das Ende des Unterstützungszeitraums ihres Produkts mit digitalen Elementen erreicht ist.
+
+(20)Die Hersteller fügen dem Produkt mit digitalen Elementen entweder eine Kopie der EU-Konformitätserklärung oder eine vereinfachte EU-Konformitätserklärung bei. Wird nur eine vereinfachte EU-Konformitätserklärung bereitgestellt, muss darin die genaue Internetadresse angegeben sein, unter der die vollständige EU-Konformitätserklärung eingesehen werden kann.
+
+(21)Ab dem Inverkehrbringen und während des Unterstützungszeitraums ergreifen die Hersteller, denen bekannt ist oder die Grund zu der Annahme haben, dass das Produkt mit digitalen Elementen oder die vom Hersteller festgelegten Verfahren den grundlegenden Cybersicherheitsanforderungen in Anhang I nicht genügen, unverzüglich die erforderlichen Korrekturmaßnahmen, um die Konformität dieses Produkts mit digitalen Elementen oder der Prozesse des Herstellers herzustellen oder um gegebenenfalls das Produkt vom Markt zu nehmen oder zurückzurufen.
+
+(22)Die Hersteller übermitteln der Marktüberwachungsbehörde auf deren begründetes Verlangen in Papierform oder in elektronischer Form in einer für diese Behörde leicht verständlichen Sprache alle Informationen und Unterlagen, die für den Nachweis der Konformität des Produkts mit digitalen Elementen und der vom Hersteller festgelegten Verfahren mit den grundlegenden Cybersicherheitsanforderungen in Anhang I erforderlich sind. Die Hersteller arbeiten mit dieser Behörde auf deren Verlangen bei allen Maßnahmen zur Abwendung der Cybersicherheitsrisiken zusammen, die mit dem von ihnen in den Verkehr gebrachten Produkt mit digitalen Elementen verbunden sind.
+
+(23)Ein Hersteller, der seine Betriebstätigkeit einstellt und infolgedessen nicht in der Lage ist, diese Verordnung zu erfüllen, unterrichtet vor dem Wirksamwerden der Betriebseinstellung die einschlägigen Marktüberwachungsbehörden sowie — mit allen verfügbaren Mitteln und soweit möglich — die Nutzer der einschlägigen in den Verkehr gebrachten Produkte mit digitalen Elementen über die bevorstehende Einstellung der Betriebstätigkeit.
+
+(24)Die Kommission kann im Wege von Durchführungsrechtsakten unter Berücksichtigung europäischer oder internationaler Normen und bewährter Verfahren das Format und die Elemente der Software-Stückliste gemäß Anhang I Teil II Nummer 1 festlegen. Diese Durchführungsrechtsakte werden gemäß dem in Artikel 62 Absatz 2 genannten Prüfverfahren erlassen.
+
+(25)Um die Abhängigkeit der Mitgliedstaaten und der Union insgesamt von Softwarekomponenten und insbesondere von Komponenten, die als freie und quelloffene Software gelten, zu bewerten, kann die ADCO beschließen, für bestimmte Kategorien von Produkten mit digitalen Elementen eine unionsweite Bewertung der Abhängigkeit durchzuführen. Zu diesem Zweck können die Marktüberwachungsbehörden die Hersteller solcher Kategorien von Produkten mit digitalen Elementen auffordern, die entsprechenden Software-Stücklisten gemäß Anhang I Teil II Nummer 1 vorzulegen. Auf der Grundlage dieser Informationen können die Marktüberwachungsbehörden der ADCO anonymisierte und aggregierte Informationen über Softwareabhängigkeiten zur Verfügung stellen. Die ADCO legt der gemäß Artikel 14 der Richtlinie (EU) 2022/2555 eingesetzten Kooperationsgruppe einen Bericht über die Ergebnisse der Abhängigkeitsbewertung vor.
+
+Auslegung der EU-Kommission
+Guidance vom 27. Juli 2026
+Die EU-Kommissions-Guidance vom 27. Juli 2026 enthält offizielle Auslegungshinweise zu dieser Vorschrift. Jeder Abschnitt: Kurzfassung, Kernaussagen und was das konkret für Sie bedeutet.
+Abschnitt 2.6Komplexe Systeme und Interoperabilitäts-Constraints+Komplexe Systeme mit langen Entwicklungszyklen, Alt-Komponenten und Interoperabilitätszwängen sind nicht vom CRA ausgenommen — ihre Constraints fließen aber in den risikobasierten Ansatz ein. Wo einzelne wesentliche Anforderungen nicht oder nicht voll umsetzbar sind (vgl. Erwägungsgrund 55), müssen Hersteller die Constraints dokumentieren, die Risiken bewerten und kompensierende Maßnahmen treffen.
+Kernaussagen
+
+Ein unsicheres Legacy-Protokoll darf implementiert werden, wenn es für Interoperabilität nötig ist und die Risiken anderweitig mitigiert werden; unterstützt das Produkt beide Protokolle, muss das sichere der Default sein (Beispiel 10).
+
+Constraints, Risiken und Mitigationen gehören transparent in die technische Dokumentation (Art. 31, Anhang VII) und die Nutzerinformationen (Anhang II).
+
+Constraints sind während des Supportzeitraums regelmäßig neu zu bewerten; entfallen sie, muss das Produkt entsprechend nachgezogen werden.
+
+Vor CRA-Geltung beschaffte Komponenten dürfen integriert werden, wenn die Risikobewertung keine spezifischen Risiken ergibt und das Gesamtprodukt die Anforderungen erfüllt (Beispiel 11).
+
+Für die Praxis
+Legen Sie für jede nicht (voll) erfüllbare Anforderung ein Constraint-Dossier an: Warum nicht umsetzbar (z. B. Interoperabilitätszwang), welches Risiko entsteht, welche Kompensationsmaßnahme greift — und terminieren Sie die Neubewertung. Genau diese Dokumentation wird die Marktüberwachung sehen wollen.
+
+Abschnitt im Guidance-Überblick
+
+Abschnitt 2.7Vor CRA-Geltung entwickelte Produkte — kein Redesign-Zwang+Produkte, die vor dem 11. Dezember 2027 entworfen, aber danach in Verkehr gebracht werden, müssen nicht zwingend neu designt werden. Der Hersteller führt eine aktuelle Risikobewertung durch; zeigt sie, dass vorhandene Maßnahmen die Risiken adressieren, kann er darauf die Konformität stützen. Historische Design- und Testdokumentation muss nicht rekonstruiert werden.
+Kernaussagen
+
+Konformitätsbewertungsverfahren, EU-Konformitätserklärung und CE-Kennzeichnung bleiben in jedem Fall Pflicht.
+
+Keine Pflicht, Testnachweise aus der ursprünglichen Designphase nachzuliefern; Tests können über Produktfamilien gebündelt werden (Abschnitt 7.4 der Leitlinien).
+
+Schwachstellenbehandlung (Anhang I Teil II), aktuelle Risikobewertung (Art. 13 Abs. 3) und Nutzerinformationen (Art. 13 Abs. 18) gelten uneingeschränkt.
+Beispiel aus der Guidance
+Ein vor CRA-Geltung entwickelter Mikrocontroller darf ohne Redesign weiter in Verkehr gebracht werden, wenn eine aktuelle Risikobewertung zeigt, dass die vorhandenen Sicherheitsmaßnahmen die identifizierten Risiken abdecken (Beispiel 12).
+
+Für die Praxis
+Planen Sie für Bestandsdesigns kein Redesign ein, bevor die Risikobewertung eines verlangt: Eine aktuelle Risikobewertung plus der Nachweis, dass vorhandene Maßnahmen die Risiken abdecken, genügt. Historische Design- und Testdoku müssen Sie nicht rekonstruieren — Konformitätserklärung und CE-Kennzeichnung bleiben aber Pflicht.
+
+Abschnitt im Guidance-Überblick
+
+Abschnitt 3.4 – 3.5Contributors, Integration und die FOSS-Szenarien+Wer FOSS-Komponenten in eigene Produkte integriert, wird dadurch nicht für deren eigene CRA-Konformität verantwortlich — auch nicht durch Code-Beiträge zu deren Pflege. Es gelten die Due-Diligence-Pflicht (Art. 13 Abs. 5) und die Upstream-Pflichten (Art. 13 Abs. 6). Acht Szenarien (Beispiele 27–34) spielen die typischen Konstellationen aus Entwicklern, Foundations und integrierenden Herstellern durch.
+Kernaussagen
+
+Einzelentwickler mit Donation-Link: keine CRA-Pflichten; integrierende Hersteller schulden Due Diligence (Beispiele 27, 34).
+
+FOSS, das für die Integration durch andere Hersteller bestimmt ist und nicht monetarisiert wird, gilt nicht als in Verkehr gebracht — der Publisher ist ggf. Steward (Beispiele 25/26, 29).
+
+Der CRA-Status einer FOSS-Komponente ändert sich nicht dadurch, dass Hersteller sie in monetarisierte Produkte integrieren.
+
+Auch Paket-Repositories treffen keine CRA-Pflichten (Beispiel 34).
+
+Für die Praxis
+Führen Sie eine Liste aller integrierten FOSS-Komponenten mit Version, Bezugsquelle und Maintainer-Kontakt. Das ist die Arbeitsgrundlage für Ihre Due Diligence (Art. 13 Abs. 5) und für Upstream-Meldungen samt Fix-Sharing (Art. 13 Abs. 6) — für die Konformität der Komponente selbst sind Sie dagegen nicht verantwortlich.
+
+Abschnitt im Guidance-Überblick
+
+Abschnitt 4.3Software-Updates als wesentliche Änderung+Maßstab ist nicht der Umfang der Änderung, sondern ihre Wirkung auf das Risikoprofil: Ändert ein Update den bewerteten Verwendungszweck oder schafft es neue, nicht in der Risikobewertung erfasste Risiken, ist es eine wesentliche Änderung. Sicherheitsupdates sind es grundsätzlich nicht. Vier Prüfkriterien (Rn. 110) strukturieren die Einzelfallbewertung.
+Kernaussagen
+
+In der ursprünglichen Risikobewertung bereits antizipierte und bewertete Features lösen keine wesentliche Änderung aus — auch nicht das spätere Aktivieren vorhandener, bewerteter Funktionen (Beispiele 42/43).
+
+Auch kleine Features können wesentlich sein: ein „Remember me“-Login mit lokal gespeicherten Tokens schafft neue Risiken (Token-Diebstahl, Session Hijacking — Beispiel 44).
+
+Sicherheitsupdates sind nur ausnahmsweise wesentlich — etwa wenn sie Zweckbestimmung, Datenflüsse oder Abhängigkeitsstruktur grundlegend ändern (Beispiele 49/50: lokale Verschlüsselung wird Cloud-Service; externes Key-Management ersetzt internes).
+
+Prüfkriterien (Rn. 110): neue Bedrohungsvektoren, neue Angriffsszenarien, veränderte Eintrittswahrscheinlichkeit, veränderte Auswirkungen bekannter Szenarien.
+
+Unabhängig von der Einstufung: Risikobewertung und technische Doku sind laufend aktuell zu halten (Art. 13 Abs. 7, Art. 31 Abs. 2).
+
+Für die Praxis
+Verankern Sie im Release-Prozess eine feste Prüffrage mit dokumentierter Antwort: Schafft dieses Update neue Bedrohungsvektoren oder Angriffsszenarien, oder verändert es Wahrscheinlichkeit/Auswirkung bekannter Szenarien? Nein und in der Risikobewertung abgedeckt → kein neues Inverkehrbringen. Ja → Risikobewertung nachziehen und prüfen, ob eine neue Konformitätsbewertung fällig ist.
+
+Abschnitt im Guidance-Überblick
+
+Abschnitt 5 – 5.1Supportzeitraum — Bestimmung, Art. 13 Abs. 10 und wesentliche Änderungen+Fünf Jahre sind Untergrenze, nicht Default: Der Supportzeitraum richtet sich nach der erwarteten Nutzungsdauer; länger genutzte Produkte brauchen längeren Support. Artikel 13 Abs. 10 erlaubt, die Schwachstellenbehebung auf die zuletzt in Verkehr gebrachte Version zu konzentrieren, wenn Nutzer kostenlos und ohne Zusatzkosten upgraden können. Eine wesentliche Änderung setzt den Supportzeitraum nicht automatisch zurück.
+Kernaussagen
+
+„Zusatzkosten“ im Sinne von Art. 13 Abs. 10 meint Hardware-Neukauf oder Infrastrukturwechsel — nicht normalen Update-Aufwand wie Personalzeit, Tests oder Konfigurationsanpassungen.
+
+Jede wesentlich geänderte Version braucht bei Inverkehrbringen einen eigenen deklarierten Supportzeitraum nach Art. 13 Abs. 8.
+
+Bestimmen unveränderte Faktoren (z. B. Hardware-Lebensdauer) weiterhin die Nutzungsdauer, bleibt der ursprüngliche Supportzeitraum maßgeblich — auch wenn die Restlaufzeit unter fünf Jahren liegt (Beispiele 54/55: Saugroboter, Industriemaschine mit neuem Cloud-Backend).
+
+Verändert die Modifikation die Nutzungsdauer-Faktoren selbst (z. B. neue Rechenplattform verlängert Lebensdauer einer SPS), ist der Supportzeitraum neu zu berechnen (Beispiel 56).
+
+Enddatum des Supports beim Kauf angeben (mindestens Monat/Jahr) und EOL-Benachrichtigung anzeigen, wo technisch machbar (Art. 13 Abs. 19).
+
+Hersteller dürfen ältere Versionen freiwillig weiter patchen — auch kostenpflichtig; der CRA verlangt dafür keine Gratis-Updates.
+
+Für die Praxis
+Leiten Sie den Supportzeitraum dokumentiert aus der erwarteten Nutzungsdauer ab — pauschal „5 Jahre“ ist angreifbar, wenn Ihr Produkt erkennbar länger genutzt wird. Nennen Sie das Enddatum schon im Kaufprozess (mindestens Monat/Jahr). Bei Software: Prüfen Sie, ob Sie mit der Art.-13-Abs.-10-Regel nur die jeweils letzte Version patchen müssen — das setzt kostenlose Upgrades ohne Hardware-/Infrastrukturzwang voraus.
+
+Abschnitt im Guidance-Überblick
+
+Abschnitt 7.1 – 7.2Risikobewertung: kein eigener Risikoappetit, kein Risikotransfer+Anders als im organisatorischen Risikomanagement zählt nicht der eigene Risikoappetit: Restrisiken sind am Maßstab des „angemessenen Cybersicherheitsniveaus“ des Produkts zu messen. Kosten oder kommerzielle Erwägungen rechtfertigen keine unbehandelten Risiken — notfalls sind Design, Funktionsumfang oder Zweckbestimmung zu ändern. Ein Transfer von Risiken auf Nutzer oder Dritte ist keine zulässige Compliance-Strategie.
+Kernaussagen
+
+Zulässige Mitigationen umfassen auch Zweckbeschränkung plus klare Nutzerinformation — etwa ein Industriesensor, der nur für vertrauenswürdige Umgebungen bestimmt ist (Beispiel 66).
+
+Hersteller dürfen auf reife Plattform-Funktionen setzen, z. B. native Verschlüsselung und Key-Management des Betriebssystems statt Eigenbau (Beispiel 67).
+
+Anhang I Teil I Nr. 1 („angemessenes Cybersicherheitsniveau“) wirkt als Auffangnorm: erfüllt, wenn alle Risiken über die übrigen wesentlichen Anforderungen adressiert sind — sonst sind zusätzliche produktseitige Maßnahmen nötig.
+
+Für die Praxis
+Streichen Sie „akzeptiertes Restrisiko aus Kosten-/Geschäftsgründen“ aus Ihren Risiko-Templates — dieses Argument trägt unter dem CRA nicht. Zulässige Hebel sind: technische Maßnahmen, Zweckbeschränkung plus klare Nutzerinformation, Rückgriff auf reife Plattform-Funktionen (z. B. OS-Verschlüsselung) — und notfalls Änderung von Design oder Funktionsumfang.
+
+Abschnitt im Guidance-Überblick
+
+Abschnitt 7.3Externe Abhängigkeiten vs. Due Diligence für Komponenten+Zwei komplementäre Pflichten: Die Risikobewertung (Art. 13 Abs. 2) erfasst auch externe Risiken — Backends, Infrastruktur, Umgebung —, die produktseitig zu mitigieren sind; der CRA regelt nicht, wie fremde Infrastruktur betrieben wird. Die Due Diligence (Art. 13 Abs. 5) betrifft integrierte Dritt-Komponenten: Der Hersteller definiert, was die Komponente leisten muss, und verifiziert das risikobasiert.
+Kernaussagen
+
+Beispiele produktseitiger Mitigation externer Risiken: kryptografische Authentisierung von Remote-Kommandos, Integritätsprüfung von Konfigurationsänderungen, sichere Zustände bei Ausfall externer Dienste.
+
+Due-Diligence-Nachweise: technische Spezifikationen und Sicherheitsdokumentation des Komponenten-Herstellers, Konformitäts-/Assurance-Doku, ggf. eigene Tests.
+
+Integrierte Dritt-Komponenten gehören in die Risikobewertung, werden aber als extern gelieferte Teile behandelt, deren Eigenschaften bei Integration verifiziert werden (Erwägungsgrund 34).
+
+Für die Praxis
+Trennen Sie Ihre Risikoliste in zwei Spalten: externe Abhängigkeiten (fremde Backends, Netze, Umgebung) → produktseitig mitigieren, etwa durch authentisierte Remote-Kommandos und sichere Fail-States; integrierte Dritt-Komponenten → Anforderungen definieren und Nachweise einsammeln (Hersteller-Doku, Zertifikate, eigene Tests). Wie der externe Anbieter seinen Betrieb organisiert, ist nicht Ihr CRA-Problem.
+
+Abschnitt im Guidance-Überblick
+
+Abschnitt 7.4Produktfamilien — eine Risikobewertung, eine Doku, eine Erklärung+Varianten mit gleicher Architektur, gleichem sicherheitsrelevantem Design, gleicher Zweckbestimmung und gleichem Risikoprofil dürfen eine gemeinsame Risikobewertung, technische Dokumentation, Konformitätsbewertung und EU-Konformitätserklärung teilen. Entscheidend ist allein, ob die Unterschiede zwischen den Varianten cybersicherheitsrelevant sind.
+Kernaussagen
+
+Unerheblich: Farbe, Formfaktor, Speichergröße und andere nicht sicherheitsrelevante Merkmale.
+
+Relevant: abweichende Kommunikationsschnittstellen, Software-Stacks, Update-Mechanismen oder Remote-Konnektivität — solche Unterschiede müssen sich in Risikobewertung und Doku niederschlagen.
+
+Die gemeinsame Konformitätserklärung muss die abgedeckten Varianten eindeutig identifizieren; neue Varianten mit neuen Risiken erfordern eine Aktualisierung.
+
+Für die Praxis
+Gruppieren Sie Ihre Produktvarianten nach sicherheitsrelevanten Unterschieden: Alles, was Architektur, Schnittstellen und Risikoprofil teilt, kann eine gemeinsame Risikobewertung, Doku und EU-Konformitätserklärung bekommen — Farbe, Formfaktor und Speichergröße trennen nicht. Das reduziert den Aufwand pro Variante drastisch; die Erklärung muss die abgedeckten Varianten nur eindeutig benennen.
+
+Abschnitt im Guidance-Überblick
+
+Abschnitt 8.2RDPS in Doku, Risikobewertung und Konformitätsbewertung+RDPS gehören in Risikobewertung, technische Dokumentation und Konformitätsbewertung des Produkts — beschränkt auf die Software-Module, die die Produktfunktion tragen, und deren Schnittstellen. Nachgelagerte Backend-Systeme ohne direkte Produkt-Interaktion sind kein RDPS, bleiben aber externe Abhängigkeiten, deren Risiken produktseitig zu mitigieren sind.
+Kernaussagen
+
+Ein RDPS, das mehrere Produkte bedient, ist in jeder Produkt-Doku zu deklarieren — die RDPS-Dokumentation darf über Konformitätsbewertungen hinweg wiederverwendet werden.
+
+Wiederverwendbare Assurance-Nachweise für Dritt-Services: NIS-2-Nachweise (DVO (EU) 2024/2690), DORA-Nachweise, Zertifikate nach EU-Cybersicherheits-Schemata, ISO/IEC 27001/27017.
+
+Änderungen an Dritt-Services sind keine wesentliche Änderung des Produkts — Hersteller sollten sich aber vertraglich (SLAs) Informationen und Sicherheitsgarantien zusichern lassen und die Risikobewertung nachziehen.
+
+Für die Praxis
+Legen Sie ein zentrales RDPS-Dossier an — betroffene Software-Module, Schnittstellen, genutzte Provider samt Nachweisen (ISO 27001/27017, NIS-2-, DORA-Evidenz, EUCC-Zertifikate) — und referenzieren Sie es aus jeder Produkt-Doku. Verankern Sie in Provider-SLAs, dass Sie über wesentliche Änderungen informiert werden: Die lösen zwar keine neue Konformitätsbewertung aus, wohl aber ein Update Ihrer Risikobewertung.
+
+Abschnitt im Guidance-Überblick
+
+Abschnitt 8.3Fünf RDPS-Use-Cases: Banking-App, Thermostat, e-Reader, Roboter, Mobilfunk+Fünf durchgespielte Fälle zeigen die Abgrenzung: Bei der Mobile-Banking-App ist das selbst entwickelte Banking-Interface RDPS, nachgelagerte Ledger-/Kontensysteme nicht, der Support-Chat (Dritt-SaaS) ist eine Dritt-Komponente. Smart Thermostat und Industrieroboter: eigene Cloud-Software auf Dritt-IaaS ist RDPS. e-Reader: Dritt-SaaS-Storage ist kein RDPS, aber als Komponente zu behandeln. Das Mobilfunknetz ist reiner Kommunikationskanal — kein RDPS, keine Due Diligence nötig.
+Kernaussagen
+
+Der CRA erfasst nur die Systemteile, mit denen das Produkt direkt interagiert — Risiken dahinterliegender Systeme (z. B. kompromittiertes Ledger) sind produktseitig zu mitigieren (starke Backend-Authentisierung, Integritätsschutz, sichere Kanäle).
+
+Bei Dritt-IaaS: RDPS und IaaS-Nutzung in der technischen Doku dokumentieren; vom Provider z. B. NIS-2-Nachweise einholen.
+
+Netz-Infrastruktur (5G, Ethernet, WLAN, Router) ist Kommunikations-Enabler, nicht Datenverarbeitung, deren Fehlen eine Produktfunktion verhindert.
+
+Für die Praxis
+Ordnen Sie Ihr eigenes Setup dem nächstliegenden der fünf Kommissions-Use-Cases zu (Banking-App, Smart Thermostat, e-Reader, Industrieroboter, Mobilfunknetz) und übernehmen Sie dessen Logik: Was direkt mit dem Produkt interagiert und von Ihnen entwickelt wurde, ist RDPS; dahinterliegende Systeme sind externe Abhängigkeiten; reine Netzinfrastruktur ist gar nichts davon. Meist ersetzt das ein teures Einzelgutachten.
+
+Abschnitt im Guidance-Überblick
+
+Abschnitt 9.2Schwachstellenbehandlung: Upstream-Meldung, bekannte Schwachstellen, Tests+Die Leitlinien präzisieren drei Pflichten: das Upstream-Melden von Komponenten-Schwachstellen und Teilen von Security-Fixes (Art. 13 Abs. 6), das Verbot, Produkte mit bekannten ausnutzbaren Schwachstellen in Verkehr zu bringen (Anhang I Teil I), und die „effektiven und regelmäßigen Tests“ (Anhang I Teil II Nr. 3) — die keine mechanische Testwiederholung verlangen, sondern anlassbezogene Review und Anpassung.
+Kernaussagen
+
+Upstream nur für die tatsächlich integrierte Version und gemäß CVD-Prozessen des Maintainers; keine Pflicht bei bereits bekannter Schwachstelle (Duplikate vermeiden: Datenbanken/Advisories prüfen) oder bei verwaisten Projekten ohne Maintainer.
+
+Nur Schwachstellen der Komponente selbst sind zu melden — nicht solche, die erst durch die eigene Integration entstehen.
+
+Security-Fixes maschinenlesbar und lizenzkompatibel teilen; weder muss der Maintainer den Fix annehmen, noch der Hersteller den Fix des Maintainers übernehmen.
+
+„Bekannt“ ist eine Schwachstelle bei Listung in relevanten öffentlichen Datenbanken (z. B. Europäische Schwachstellendatenbank), bei Coordinated Disclosure, eigenen Tests (inkl. KI-gestützter Analyse) oder prominenter Medienberichterstattung — eine kurze Prüf-/Verifikationszeit ist zulässig.
+
+Kurz vor Release entdeckte Schwachstellen: risikobasierte Entscheidung, ob das Release verschoben wird — abwägen mit den Risiken der Verzögerung (z. B. wenn das Release andere Schwachstellen schließt).
+
+Für die Praxis
+Ergänzen Sie Ihren Schwachstellen-Prozess um drei Bausteine: (1) Datenbank-/Advisory-Check vor jeder Upstream-Meldung, um Duplikate zu vermeiden; (2) lizenzkonformes, maschinenlesbares Teilen eigener Fixes mit dem Maintainer; (3) ein dokumentierter Release-Entscheid für spät gefundene Schwachstellen — abwägen zwischen Fix-vor-Release und den Risiken der Verzögerung.
+
+Abschnitt im Guidance-Überblick
+
+Alle Guidance-Kapitel im Überblick
+
+EU-Kommissions-Guidance (C(2026) 5252 final) — Die Guidance gibt die Auslegung der Europäischen Kommission wieder und ist rechtlich nicht bindend. Eine verbindliche Auslegung des EU CRA kann nur der Gerichtshof der Europäischen Union vornehmen.
+
+Häufige Hersteller-Fragen
+
+Welche Hauptpflichten ergeben sich aus Artikel 13?+Risikobewertung pro Produkt, Erfüllung der Anhang-I-Anforderungen, Implementierung der Schwachstellenbehandlung nach Anhang I Teil II, Erstellung der Technischen Dokumentation nach Anhang VII, EU-Konformitätserklärung und CE-Kennzeichnung sowie kostenlose Sicherheitsupdates während des Unterstützungszeitraums.
+Wie lang muss der Unterstützungszeitraum sein?+Mindestens fünf Jahre, sofern der zu erwartende Lebenszyklus nicht kürzer ist. Bei Industriemaschinen mit 15-Jahres-Lebenszyklen muss der Unterstützungszeitraum entsprechend länger sein — das ist eine Anforderung, keine Empfehlung.
+Muss der Hersteller die SBOM veröffentlichen?+Nein, nicht öffentlich. Die SBOM ist Teil der Technischen Dokumentation und muss den Marktüberwachungsbehörden auf Anforderung vorgelegt werden. Eine Veröffentlichung an Endkunden ist optional, kann aber bei B2B-Beschaffung verlangt werden.
+Was passiert bei Verstößen gegen Artikel 13?+Bußgelder bis 15 Mio. € oder 2,5% des weltweiten Jahresumsatzes (höherer Wert), Marktrückruf, Verbot des Inverkehrbringens. Artikel 64 regelt die Strafen im Detail.
+Gilt Artikel 13 auch für Produkte, die vor Dezember 2027 entwickelt wurden?+Ja, sobald das einzelne Exemplar ab dem 11. Dezember 2027 in Verkehr gebracht wird — maßgeblich ist das Exemplar, nicht die Produktlinie. Auch 2026 produzierte Lagerware fällt unter den CRA, wenn sie nach dem Stichtag verkauft wird. Nur vorher in Verkehr gebrachte Bestandsgeräte bleiben ohne wesentliche Änderung ausgenommen.
+Wie setzen Hersteller die Artikel-13-Pflichten operativ um?+Bewährte Reihenfolge: Produktinventur mit Risikobewertung, Gap-Analyse gegen Anhang I, SBOM-Aufbau pro Produkt, Schwachstellenprozess mit ENISA-Meldefähigkeit, Technische Dokumentation nach Anhang VII, zuletzt die EU-Konformitätserklärung. Für Hersteller mit vielen Produktvarianten ist zentrale Komponentenverfolgung der größte Effizienzhebel.
+
+Praxis-Ressourcen zu diesem Artikel
+
+CRA-Anforderungen für Industrieautomatisierung — Praxis-Leitfaden
+
+Konformitätsbewertung und CE-Kennzeichnung unter dem CRA
+
+Einzelstück-Prinzip: Warum Lagerware zum Compliance-Risiko wird
+
+Verwandte Erwägungsgründe
+(15)
+50Mit dieser Verordnung werden Cybersicherheitsrisiken gezielt angegangen. Produkte mit digitalen Elementen können jedoch noch andere Sicherheitsrisiken bergen, die nicht immer mit der Cybersicherheit z…
+
+51Produkte mit digitalen Elementen, die nach Artikel 6 der Verordnung (EU) 2024/1689 des Europäischen Parlaments und des Rates als Hochrisiko-KI-Systeme eingestuft sind und in den Anwendungsbereich der…
+
+52Zur Erhöhung der Sicherheit von Produkten mit digitalen Elementen, die im Binnenmarkt in den Verkehr gebracht werden, ist es erforderlich, grundlegende Cybersicherheitsanforderungen festzulegen, die f…
+
+53Die Hersteller von Produkten, die in den Anwendungsbereich der Verordnung (EU) 2023/1230 des Europäischen Parlaments und des Rates fallen und bei deren Produkten es sich auch um Produkte mit digitalen…
+
+54Um sicherzustellen, dass Produkte mit digitalen Elementen sowohl zum Zeitpunkt ihres Inverkehrbringens als auch während der voraussichtlichen Nutzungsdauer des Produkts mit digitalen Elementen sicher…
+
+55Sind bestimmte grundlegende Cybersicherheitsanforderungen auf ein Produkt mit digitalen Elementen nicht anwendbar, sollte der Hersteller dies in der Risikobewertung für die Cybersicherheit eindeutig b…
+
+56Eine der wichtigsten Maßnahmen, die die Nutzer ergreifen müssen, um ihre Produkte mit digitalen Elementen vor Cyberangriffen zu schützen, ist die schnellstmögliche Installation der neuesten verfügbare…
+
+57Um die Verfahren zur Behandlung von Schwachstellen transparenter zu machen und um sicherzustellen, dass die Nutzer nicht gezwungen sind, neue Funktionsaktualisierungen zu installieren, nur um die neue…
+
+58In der gemeinsamen Mitteilung der Kommission und des Hohen Vertreters der Union für Außen- und Sicherheitspolitik vom 20. Juni 2023 über eine „Europäische Strategie für wirtschaftliche Sicherheit“ hei…
+
+59Um für die Sicherheit von Produkten mit digitalen Elementen nach ihrem Inverkehrbringen zu sorgen, sollten die Hersteller den Unterstützungszeitraum festlegen, der der voraussichtlichen Nutzungsdauer…
+
+60Der Unterstützungszeitraum, für den der Hersteller die wirksame Behandlung von Schwachstellen gewährleistet, sollte mindestens fünf Jahre betragen, es sei denn, die Lebensdauer des Produkts mit digita…
+
+61Wenn bei Produkten mit digitalen Elementen das Ende des jeweiligen Unterstützungszeitraums erreicht ist, sollten die Hersteller in Erwägung ziehen, den Quellcode dieser Produkte mit digitalen Elemente…
+
+62Um sicherzustellen, dass die Hersteller in der gesamten Union vergleichbare Unterstützungszeiträume für vergleichbare Produkte mit digitalen Elementen festlegen, sollte die ADCO Statistiken über die v…
+
+63Die Hersteller sollten eine zentrale Anlaufstelle einrichten, die es den Nutzern ermöglicht, mühelos mit ihnen zu kommunizieren, etwa um Schwachstellen des Produkts mit digitalen Elementen zu melden u…
+
+64Die Hersteller sollten ihre Produkte mit digitalen Elementen mit einer sicheren Standardkonfiguration auf dem Markt bereitstellen und den Nutzern kostenlos Sicherheitsaktualisierungen zur Verfügung st…
+
+So deckt Kunnus das ab
+
+Die Pflichten aus diesem Abschnitt bildet die Kunnus-Plattform als strukturierte Workflows und auditfähige Nachweise ab.
+Risikoanalyse & Threat Modeling
+
+Produktinventar & Einstufung
+
+Komponenten- & Lieferantenbewertung
+
+Technische Dokumentation
+
+Vertiefung im Blog
+
+EU CRA Meldepflicht: Fristen ab 11. September 2026 + Checkliste
+
+Vorheriger Artikel
+Artikel 12Artikel 12 - Hochrisiko-KI-Systeme
+
+Nächster Artikel
+Artikel 14Artikel 14 - Meldepflichten der Hersteller
+
+CRA-Updates per E-Mail
+Fristen, Guidance und Mythos-Faktenchecks zum EU Cyber Resilience Act, kompakt im Newsletter.
+
+Newsletter ansehen
+
+Dieser Text wurde aus der Verordnung (EU) 2024/2847 des Europäischen Parlaments und des Rates vom 23. Oktober 2024 übernommen. Die Darstellung dient ausschließlich Informationszwecken und stellt keine Rechtsberatung dar. Maßgeblich ist allein der im Amtsblatt der Europäischen Union veröffentlichte Wortlaut. Originaltext auf EUR-Lex
+
+Kunnus ist ein Produkt und Marke von Think Ahead.
+
+Plattform
+Alle Funktionen
+Multi-Produkt-Plattform
+CRA-Abdeckung
+Walkthrough
+SBOM-Scanner
+Scanner-Doku
+Roadmap
+Demo anfordern
+
+Lösungen
+Startups
+KMU
+Enterprise
+Anwendungsfälle
+
+Branchen
+Industriemaschinen
+IoT & Konsumgüter
+Energie & Gebäudetechnik
+Industriekomponenten
+Smart Farming
+Telekommunikation
+Software & SaaS
+Embedded Systems
+Smart Home & Consumer
+
+Ressourcen
+Wissensdatenbank
+CRA Leitfaden
+SECURE-Förderung
+Blog
+Events
+CRA & Schweiz
+Newsletter
+
+Unternehmen
+Über uns
+Team
+Methodik
+Partnerprogramm
+Karriere
+Impressum
+
+GitHub
+
+© 2026 Think Ahead Technologies GmbH. All rights reserved.
+DatenschutzCookiesSicherheitImpressum
+

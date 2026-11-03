@@ -1,0 +1,88 @@
+EU CRA Artikel 70 — Bewertung und Überprüfung
+
+Die ersten Pflichten des EU Cyber Resilience Act für Hersteller gelten seit dem 11. September 2026.Erste Pflichten seit September 2026Was jetzt zu tun ist
+
+Plattform
+Lösungen
+Ressourcen
+UnternehmenWissensdatenbank
+
+DEEinloggenDemo anfordernToggle menu
+WissensdatenbankArtikelArtikel 70
+Kapitel VIII - ÜBERGANGS- UND SCHLUSSBESTIMMUNGEN
+70
+
+Artikel 70
+Bewertung und Überprüfung
+Verordnung (EU) 2024/2847 — veröffentlicht 10. Dezember 2024 · Letzte Prüfung durch Kunnus: März 2026
+
+(1)
+Bis zum 11. Dezember 2030 und danach alle vier Jahre legt die Kommission dem Europäischen Parlament und dem Rat einen Bericht über die Bewertung und Überprüfung dieser Verordnung vor. Die Berichte werden veröffentlicht.
+(2)
+Bis zum 11. September 2028 legt die Kommission nach Konsultation der ENISA und des CSIRT-Netzes dem Europäischen Parlament und dem Rat einen Bericht vor, in dem sie die Wirksamkeit der einheitlichen Meldeplattform gemäß Artikel 16 sowie die Auswirkungen der Geltendmachung der in Artikel 16 Absatz 2 genannten Gründen der Cybersicherheit durch die als Koordinatoren benannten CSIRTs auf die Wirksamkeit der einheitlichen Meldeplattform im Hinblick auf die rechtzeitige Übermittlung eingegangener Meldungen an andere einschlägige CSIRTs bewertet.
+
+Verwandte Erwägungsgründe(1)
+
+129
+
+Da das Ziel dieser Verordnung von den Mitgliedstaaten nicht ausreichend verwirklicht werden kann, sondern vielmehr wegen der Wirkungen der Maßnahme auf Unionsebene besser zu verwirklichen ist, kann di…
+
+Vorheriger Artikel
+Artikel 69Artikel 69 - Übergangsbestimmungen
+
+Nächster Artikel
+Artikel 71Artikel 71 - Inkrafttreten und Geltungsbeginn
+
+CRA-Updates per E-Mail
+Fristen, Guidance und Mythos-Faktenchecks zum EU Cyber Resilience Act, kompakt im Newsletter.Newsletter ansehen
+Dieser Text wurde aus der Verordnung (EU) 2024/2847 des Europäischen Parlaments und des Rates vom 23. Oktober 2024 übernommen. Die Darstellung dient ausschließlich Informationszwecken und stellt keine Rechtsberatung dar. Maßgeblich ist allein der im Amtsblatt der Europäischen Union veröffentlichte Wortlaut. Originaltext auf EUR-Lex
+
+Kunnus ist ein Produkt und Marke von Think Ahead.
+
+Plattform
+Alle Funktionen
+Multi-Produkt-Plattform
+CRA-Abdeckung
+Walkthrough
+SBOM-Scanner
+Scanner-Doku
+Roadmap
+Demo anfordern
+
+Lösungen
+Startups
+KMU
+Enterprise
+Anwendungsfälle
+
+Branchen
+Industriemaschinen
+IoT & Konsumgüter
+Energie & Gebäudetechnik
+Industriekomponenten
+Smart Farming
+Telekommunikation
+Software & SaaS
+Embedded Systems
+Smart Home & Consumer
+
+Ressourcen
+Wissensdatenbank
+CRA Leitfaden
+SECURE-Förderung
+Blog
+Events
+CRA & Schweiz
+Newsletter
+
+Unternehmen
+Über uns
+Team
+Methodik
+Partnerprogramm
+Karriere
+Impressum
+GitHub
+
+© 2026 Think Ahead Technologies GmbH. All rights reserved.
+DatenschutzCookiesSicherheitImpressum

@@ -1,0 +1,70 @@
+EU CRA Artikel 47 — Operative Pflichten der notifizierten Stellen
+Die ersten Pflichten des EU Cyber Resilience Act für Hersteller gelten seit dem 11. September 2026. Erste Pflichten seit September 2026 Was jetzt zu tun ist
+Plattform
+Lösungen
+Ressourcen
+Unternehmen
+Wissensdatenbank
+DE
+Einloggen Demo anfordern Toggle menu
+Wissensdatenbank Artikel Artikel 47 Kapitel IV - NOTIFIZIERUNG VON KONFORMITÄTSBEWERTUNGSSTELLEN
+47 Artikel 47
+Operative Pflichten der notifizierten Stellen
+Verordnung (EU) 2024/2847 — veröffentlicht 10. Dezember 2024 · Letzte Prüfung durch Kunnus: März 2026
+( 1 ) Die notifizierten Stellen führen die Konformitätsbewertungen im Einklang mit den Konformitätsbewertungsverfahren gemäß Artikel 32 und Anhang VIII durch.
+( 2 ) Die Konformitätsbewertungen werden unter Wahrung der Verhältnismäßigkeit durchgeführt, wobei unnötige Belastungen der Wirtschaftsakteure vermieden werden. Die Konformitätsbewertungsstellen üben ihre Tätigkeiten unter gebührender Berücksichtigung der Größe der Unternehmen, insbesondere in Bezug auf Kleinstunternehmen sowie kleine und mittlere Unternehmen, der Branche, in der sie tätig sind, ihrer Struktur, ihres Grads der Komplexität und des Cybersicherheitsrisikos der betroffenen Produkte mit digitalen Elementen und Technologien und des Massenfertigungs- oder Seriencharakters des Fertigungsprozesses aus.
+( 3 ) Die notifizierten Stellen gehen hierbei jedoch so streng vor und halten ein solches Schutzniveau ein, wie dies für die Konformität der Produkte mit digitalen Elementen mit dieser Verordnung erforderlich ist.
+( 4 ) Stellt eine notifizierte Stelle fest, dass ein Hersteller die in Anhang I oder in den entsprechenden harmonisierten Normen oder gemeinsamen Spezifikationen gemäß Artikel 27 festgelegten Anforderungen nicht erfüllt hat, fordert sie den Hersteller auf, angemessene Korrekturmaßnahmen zu ergreifen, und stellt keine Konformitätsbescheinigung aus.
+( 5 ) Hat eine notifizierte Stelle bereits eine Bescheinigung ausgestellt und stellt im Rahmen der Überwachung der Konformität fest, dass das Produkt mit digitalen Elementen die in dieser Verordnung festgelegten Anforderungen nicht mehr erfüllt, fordert sie den Hersteller auf, angemessene Korrekturmaßnahmen zu ergreifen, und setzt die Bescheinigung falls nötig aus oder widerruft sie.
+( 6 ) Werden keine Korrekturmaßnahmen ergriffen oder zeigen sie nicht die nötige Wirkung, so schränkt die notifizierte Stelle die Bescheinigungen ein, setzt sie aus bzw. widerruft sie, je nachdem, was angemessen ist.
+Vorheriger Artikel
+Artikel 46 Artikel 46 - Anfechtung der Kompetenz notifizierter Stellen
+Nächster Artikel
+Artikel 48 Artikel 48 - Einspruch gegen Entscheidungen notifizierter Stell…
+CRA-Updates per E-Mail
+Fristen, Guidance und Mythos-Faktenchecks zum EU Cyber Resilience Act, kompakt im Newsletter.
+Newsletter ansehen
+Dieser Text wurde aus der Verordnung (EU) 2024/2847 des Europäischen Parlaments und des Rates vom 23. Oktober 2024 übernommen. Die Darstellung dient ausschließlich Informationszwecken und stellt keine Rechtsberatung dar. Maßgeblich ist allein der im Amtsblatt der Europäischen Union veröffentlichte Wortlaut. Originaltext auf EUR-Lex
+Kunnus ist ein Produkt und Marke von Think Ahead .
+Plattform
+Alle Funktionen
+Multi-Produkt-Plattform
+CRA-Abdeckung
+Walkthrough
+SBOM-Scanner
+Scanner-Doku
+Roadmap
+Demo anfordern
+Lösungen
+Startups
+KMU
+Enterprise
+Anwendungsfälle
+Branchen
+Industriemaschinen
+IoT & Konsumgüter
+Energie & Gebäudetechnik
+Industriekomponenten
+Smart Farming
+Telekommunikation
+Software & SaaS
+Embedded Systems
+Smart Home & Consumer
+Ressourcen
+Wissensdatenbank
+CRA Leitfaden
+SECURE-Förderung
+Blog
+Events
+CRA & Schweiz
+Newsletter
+Unternehmen
+Über uns
+Team
+Methodik
+Partnerprogramm
+Karriere
+Impressum
+GitHub
+© 2026 Think Ahead Technologies GmbH. All rights reserved.
+Datenschutz Cookies Sicherheit Impressum

@@ -1,0 +1,93 @@
+EU CRA Artikel 16 — Einrichtung einer einheitlichen Meldeplattform
+Die ersten Pflichten des EU Cyber Resilience Act für Hersteller gelten seit dem 11. September 2026.  Erste Pflichten seit September 2026   Was jetzt zu tun ist
+Plattform
+Lösungen
+Ressourcen
+Unternehmen
+Wissensdatenbank
+DE
+Einloggen  Demo anfordern           Toggle menu
+Wissensdatenbank        Artikel        Artikel 16     Kapitel   II  -  PFLICHTEN DER WIRTSCHAFTSAKTEURE UND BESTIMMUNGEN IN BEZUG AUF FREIE UND QUELLOFFENE SOFTWARE
+16   Artikel   16
+Einrichtung einer einheitlichen Meldeplattform
+Verordnung (EU) 2024/2847 — veröffentlicht 10. Dezember 2024 · Letzte Prüfung durch Kunnus: März 2026
+( 1 )  Für die Zwecke der Meldungen gemäß  Artikel 14  Absätze 1 und 3 und  Artikel 15  Absätze1 und 2 und zur Vereinfachung der Meldepflichten der Hersteller richtet die ENISA eine einheitliche Meldeplattform ein. Der laufende Betrieb dieser einheitlichen Meldeplattform wird von der ENISA gesteuert und aufrechterhalten. Die Architektur der einheitlichen Meldeplattform muss es den Mitgliedstaaten und der ENISA ermöglichen, ihre eigenen Endpunkte für die elektronische Meldung einzurichten.
+( 2 )  Nach Erhalt einer Meldung leitet das als Koordinator benannte CSIRT, das die Meldung ursprünglich erhält, die Meldung über die einheitliche Meldeplattform unverzüglich an die als Koordinatoren benannten CSIRT weiter, in deren Hoheitsgebiet das Produkt mit digitalen Elementen nach Angaben des Herstellers bereitgestellt wurde. Unter außergewöhnlichen Umständen und insbesondere auf Antrag des Herstellers und angesichts des vom Hersteller gemäß  Artikel 14  Absatz 2 Buchstabe a der vorliegenden Verordnung angegebenen Grades der Sensibilität der gemeldeten Informationen kann die Verbreitung der Meldung aus berechtigten Gründen im Zusammenhang mit der Cybersicherheit so lange, wie unbedingt erforderlich, hinausgeschoben werden, auch wenn eine Schwachstelle einem koordinierten Verfahren zur Offenlegung von Schwachstellen gemäß Artikel 12 Absatz 1 der  Richtlinie (EU) 2022/2555  unterliegt. Beschließt ein CSIRT, eine Meldung zurückzuhalten, so unterrichtet es die ENISA unverzüglich über die Entscheidung und legt sowohl eine Begründung für die Zurückhaltung der Meldung als auch eine Angabe dazu vor, wann es die Meldung gemäß dem in diesem Absatz festgelegten Verfahren verbreiten wird. Die ENISA kann das CSIRT bei der Anwendung von Cybersicherheitsgründen im Zusammenhang mit der Verzögerung der Verbreitung der Meldung unterstützen. Unter besonderen außergewöhnlichen Umständen, wenn der Hersteller in der Mitteilung gemäß  Artikel 14  Absatz 2 Buchstabe b Folgendes angibt:
+a)  dass die gemeldete Schwachstelle von einem böswilligen Akteur aktiv ausgenutzt wurde und den verfügbaren Informationen zufolge in keinem anderen Mitgliedstaat als dem der als Koordinator benannten CSIRT, der der Hersteller die Schwachstelle gemeldet hat, ausgenutzt wurde;
+b)  dass eine sofortige weitere Verbreitung der gemeldeten Schwachstelle wahrscheinlich zur Bereitstellung von Informationen führen würde, deren Offenlegung den wesentlichen Interessen des betreffenden Mitgliedstaats zuwiderlaufen würde; oder
+c)  dass die gemeldete Schwachstelle ein unmittelbares hohes Cybersicherheitsrisiko darstellt, das sich aus der weiteren Verbreitung ergibt, werden nur die Informationen darüber, dass der Hersteller eine Meldung vorgenommen hat, die allgemeinen Informationen über das Produkt, die Informationen über die allgemeine Art der Ausnutzung und die Informationen, dass Sicherheitsgründe geltend gemacht wurden, gleichzeitig der ENISA zur Verfügung gestellt, bis die vollständige Meldung an die betreffenden CSIRTs und die ENISA weitergeleitet wird. Ist die ENISA auf der Grundlage dieser Informationen der Auffassung, dass ein Systemrisiko für die Sicherheit des Binnenmarkts besteht, empfiehlt sie dem CSIRT, bei dem die Meldung eingegangen ist, die vollständige Meldung an die anderen als Koordinatoren benannten CSIRTs und an die ENISA selbst weiterzuleiten.
+( 3 )  Nach Erhalt einer Meldung über eine aktiv ausgenutzte Schwachstelle in einem Produkt mit digitalen Elementen oder über einen schwerwiegenden Sicherheitsvorfall, der sich auf die Sicherheit eines Produkts mit digitalen Elementen auswirkt, stellen die als Koordinatoren benannten CSIRTs den Marktüberwachungsbehörden ihres jeweiligen Mitgliedstaats die gemeldeten Informationen zur Verfügung, die diese benötigen, damit sie ihren Verpflichtungen gemäß dieser Verordnung nachkommen können.
+( 4 )  Die ENISA ergreift geeignete und verhältnismäßige technische, operative und organisatorische Maßnahmen, um die Risiken für die Sicherheit der einheitlichen Meldeplattform und der über die einheitliche Meldeplattform übermittelten oder verbreiteten Informationen zu bewältigen. Sie meldet dem CSIRTs-Netzwerk und der Kommission unverzüglich jeden Sicherheitsvorfall, der die einheitliche Meldeplattform betrifft.
+( 5 )  Die ENISA stellt in Zusammenarbeit mit dem CSIRTs-Netzwerk Spezifikationen für die technischen, operativen und organisatorischen Maßnahmen für die Einrichtung, die Pflege und den sicheren Betrieb der einheitlichen Meldeplattform gemäß Absatz 1bereit und setzt sie um, einschließlich zumindest der Sicherheitsvorkehrungen im Zusammenhang mit der Einrichtung, dem Betrieb und der Wartung der einheitlichen Meldeplattform sowie der von den als Koordinatoren auf nationaler Ebene benannten CSIRTs und der ENISA auf Unionsebene eingerichteten Endpunkte für die elektronische Meldung, einschließlich Verfahrensaspekten, um sicherzustellen, dass Informationen über diese Schwachstellen im Einklang mit strengen Sicherheitsprotokollen und nach dem Grundsatz „Kenntnis nur, wenn nötig“ weitergegeben werden, wenn für eine gemeldete Schwachstelle keine Korrektur- oder Risikominderungsmaßnahmen verfügbar sind.
+( 6 )  Wurde ein CSIRT, das als Koordinator benannt wurde, im Rahmen eines koordinierten Verfahrens zur Offenlegung von Schwachstellen gemäß Artikel 12 Absatz 1 der  Richtlinie (EU) 2022/2555  auf eine aktiv ausgenutzte Schwachstelle aufmerksam gemacht, so kann das als Koordinator benannte CSIRT, das die Meldung ursprünglich erhalten hat, die Verbreitung der betreffenden Meldung über die einheitliche Meldeplattform aus berechtigten Gründen im Zusammenhang mit der Cybersicherheit um einen Zeitraum aufschieben, der nicht länger als unbedingt erforderlich ist, bis die beteiligten Parteien der koordinierten Offenlegung von Schwachstellen ihre Zustimmung zur Offenlegung erteilt haben. Diese Anforderung hindert die Hersteller nicht daran, eine solche Schwachstelle freiwillig nach dem in diesem Artikel festgelegten Verfahren zu melden.
+Auslegung der EU-Kommission
+Guidance vom 27. Juli 2026
+Die EU-Kommissions-Guidance vom 27. Juli 2026 enthält offizielle Auslegungshinweise zu dieser Vorschrift. Jeder Abschnitt: Kurzfassung, Kernaussagen und was das konkret für Sie bedeutet.
+Abschnitt   9.1 Meldepflichten: seit 11. September 2026, „Bewusstwerden“ und Nutzerinformation  +   Die Meldepflichten nach Artikel 14 gelten seit dem 11. September 2026 für alle Produkte im Anwendungsbereich des EU CRA — auch für vor dem 11. Dezember 2027 in Verkehr gebrachte und für Produkte nach Supportende. „Bewusstwerden“ heißt: hinreichende Gewissheit nach unverzüglicher Erstbewertung — ab dann laufen die Fristen (24 h Frühwarnung, 72 h Meldung, 14 Tage bzw. 1 Monat Abschlussbericht).
+Kernaussagen
+Keine retroaktive Meldung: Aktive Ausnutzung, die dem Hersteller schon vor dem 11.09.2026 bekannt war, ist nicht meldepflichtig; wird die Ausnutzung erst danach bekannt, greift die Pflicht.
+Dritt-Komponenten: Meldepflichtig ist nur eine aktiv ausgenutzte Schwachstelle, die im eigenen Produkt ausnutzbar ist bzw. ausgenutzt wurde — sonst nur freiwillige Meldung (Art. 15) plus Upstream-Meldung an den Komponenten-Maintainer (Art. 13 Abs. 6).
+Der Begriff „Bewusstwerden“ ist bewusst konsistent mit der NIS-2-Durchführungsverordnung und den GDPR-Guidelines ausgelegt.
+Nutzerinformation (Art. 14 Abs. 8) ist risikobasiert: keine indiskriminierte Veröffentlichung — bei sensiblen Umgebungen darf die Detailinformation auf betroffene Nutzer beschränkt werden; breitere Offenlegung nach Behebung, Pflicht-Veröffentlichung fixer Schwachstellen nach Anhang I Teil II Nr. 4.
+Die Meldepflichten laufen — anders als die Schwachstellenbehandlung — auch nach Ende des Supportzeitraums weiter.
+Für die Praxis
+Definieren Sie jetzt, wer Verdachtsfälle wie schnell erstbewertet — ab „hinreichender Gewissheit“ läuft die 24-Stunden-Frist. Der Prozess muss seit dem 11. September 2026 laufen und deckt auch Altprodukte und Produkte nach Supportende ab. Legen Sie zusätzlich fest, wie Sie Nutzer risikobasiert informieren: erst betroffene Kunden gezielt, breite Veröffentlichung nach der Behebung.
+Abschnitt im Guidance-Überblick
+Alle Guidance-Kapitel im Überblick        EU-Kommissions-Guidance (C(2026) 5252 final)  —  Die Guidance gibt die Auslegung der Europäischen Kommission wieder und ist rechtlich nicht bindend. Eine verbindliche Auslegung des EU CRA kann nur der Gerichtshof der Europäischen Union vornehmen.
+Verwandte Erwägungsgründe
+( 2 )
+76   Die Hersteller von Produkten mit digitalen Elementen sollten Konzepte für die koordinierte Offenlegung von Schwachstellen einführen, um das Melden von Schwachstellen durch natürliche oder juristische…
+77   Zur Erleichterung der Schwachstellenanalyse sollten die Hersteller feststellen und dokumentieren, welche Komponenten in den Produkten mit digitalen Elementen enthalten sind, und dazu gegebenenfalls ei…
+Vertiefung im Blog
+EU CRA Meldepflicht: Fristen ab 11. September 2026 + Checkliste
+Vorheriger Artikel
+Artikel   15  Artikel   15  -  Freiwillige Meldungen
+Nächster Artikel
+Artikel   17  Artikel   17  -  Sonstige Bestimmungen im Zusammenhang mit der Beri…
+CRA-Updates per E-Mail
+Fristen, Guidance und Mythos-Faktenchecks zum EU Cyber Resilience Act, kompakt im Newsletter.
+Newsletter ansehen
+Dieser Text wurde aus der Verordnung (EU) 2024/2847 des Europäischen Parlaments und des Rates vom 23. Oktober 2024 übernommen. Die Darstellung dient ausschließlich Informationszwecken und stellt keine Rechtsberatung dar. Maßgeblich ist allein der im Amtsblatt der Europäischen Union veröffentlichte Wortlaut.   Originaltext auf EUR-Lex
+Kunnus ist ein Produkt und Marke von   Think Ahead .
+Plattform
+Alle Funktionen
+Multi-Produkt-Plattform
+CRA-Abdeckung
+Walkthrough
+SBOM-Scanner
+Scanner-Doku
+Roadmap
+Demo anfordern
+Lösungen
+Startups
+KMU
+Enterprise
+Anwendungsfälle
+Branchen
+Industriemaschinen
+IoT & Konsumgüter
+Energie & Gebäudetechnik
+Industriekomponenten
+Smart Farming
+Telekommunikation
+Software & SaaS
+Embedded Systems
+Smart Home & Consumer
+Ressourcen
+Wissensdatenbank
+CRA Leitfaden
+SECURE-Förderung
+Blog
+Events
+CRA & Schweiz
+Newsletter
+Unternehmen
+Über uns
+Team
+Methodik
+Partnerprogramm
+Karriere
+Impressum
+GitHub
+©  2026  Think Ahead Technologies GmbH. All rights reserved.
+Datenschutz  Cookies  Sicherheit  Impressum

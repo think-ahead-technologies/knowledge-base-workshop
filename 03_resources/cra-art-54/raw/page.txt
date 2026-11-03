@@ -1,0 +1,109 @@
+EU CRA Artikel 54 — Nationale Verfahren für Produkte mit digitalen Elementen, die ein erhebliches Cybersicherheitsrisiko bergen
+
+Die ersten Pflichten des EU Cyber Resilience Act für Hersteller gelten seit dem 11. September 2026.Erste Pflichten seit September 2026Was jetzt zu tun ist
+
+Plattform
+Lösungen
+Ressourcen
+UnternehmenWissensdatenbank
+
+DEEinloggenDemo anfordernToggle menu
+WissensdatenbankArtikelArtikel 54
+Kapitel V - MARKTÜBERWACHUNG UND DURCHSETZUNG
+54
+
+Artikel 54
+Nationale Verfahren für Produkte mit digitalen Elementen, die ein erhebliches Cybersicherheitsrisiko bergen
+Verordnung (EU) 2024/2847 — veröffentlicht 10. Dezember 2024 · Letzte Prüfung durch Kunnus: März 2026
+
+(1)
+Hat die Marktüberwachungsbehörde eines Mitgliedstaats hinreichenden Grund zu der Annahme, dass ein Produkt mit digitalen Elementen, einschließlich der Behandlung von Schwachstellen, ein erhebliches Cybersicherheitsrisiko birgt, so führt sie unverzüglich, gegebenenfalls in Zusammenarbeit mit dem einschlägigen CSIRT, eine Konformitätsbewertung des betreffenden Produkts im Hinblick auf die in dieser Verordnung festgelegten Anforderungen durch. Die betroffenen Wirtschaftsakteure arbeiten im erforderlichen Umfang mit der Marktüberwachungsbehörde zusammen. Gelangt die Marktüberwachungsbehörde im Verlauf dieser Bewertung zu dem Ergebnis, dass das Produkt mit digitalen Elementen die Anforderungen dieser Verordnung nicht erfüllt, so fordert sie den betroffenen Wirtschaftsakteur unverzüglich dazu auf, innerhalb einer von der Marktüberwachungsbehörde vorgeschriebenen, der Art des Cybersicherheitsrisikos angemessenen Frist alle geeigneten Korrekturmaßnahmen zu ergreifen, um die Konformität des Produkts mit digitalen Elementen mit diesen Anforderungen herzustellen oder um das Produkt vom Markt zu nehmen oder es zurückzurufen. Die Marktüberwachungsbehörde unterrichtet die einschlägige notifizierte Stelle hierüber. Artikel 18 der Verordnung (EU) 2019/1020 gilt für die Korrekturmaßnahmen.
+(2)
+Bei der Bestimmung der Erheblichkeit eines Cybersicherheitsrisikos gemäß Absatz 1 berücksichtigen die Marktüberwachungsbehörden auch nichttechnische Risikofaktoren, insbesondere solche, die infolge koordinierter Risikobewertungen in Bezug auf die Sicherheit der Lieferketten auf Unionsebene gemäß Artikel 22 der Richtlinie (EU) 2022/2555 festgelegt wurden. Hat eine Marktüberwachungsbehörde hinreichenden Grund zu der Annahme, dass ein Produkt mit digitalen Elementen angesichts nichttechnischer Risikofaktoren ein erhebliches Cybersicherheitsrisiko birgt, unterrichtet sie die gemäß Artikel 8 der Richtlinie (EU) 2022/2555 benannten oder eingerichteten zuständigen Behörden und arbeitet mit diesen Behörden bei Bedarf zusammen.
+(3)
+Gelangt die Marktüberwachungsbehörde zu der Auffassung, dass die Nichtkonformität nicht auf ihr nationales Hoheitsgebiet beschränkt ist, unterrichtet sie die Kommission und die anderen Mitgliedstaaten über die Ergebnisse der Prüfung und über die Maßnahmen, zu denen sie den Wirtschaftsakteur aufgefordert hat.
+(4)
+Der Wirtschaftsakteur sorgt dafür, dass alle geeigneten Korrekturmaßnahmen in Bezug auf sämtliche betroffenen Produkte mit digitalen Elementen, die er in der Union auf dem Markt bereitgestellt hat, ergriffen werden.
+(5)
+Ergreift der Wirtschaftsakteur innerhalb der in Absatz 1 Unterabsatz 2 genannten Frist keine angemessenen Korrekturmaßnahmen, so treffen die Marktüberwachungsbehörden alle geeigneten vorläufigen Maßnahmen, um die Bereitstellung des Produkts mit digitalen Elementen auf ihrem nationalen Markt zu untersagen oder einzuschränken, das Produkt vom Markt zu nehmen oder es zurückzurufen. Diese Behörde notifiziert die Kommission und die anderen Mitgliedstaaten unverzüglich über diese Maßnahmen.
+(6)
+Die in Absatz 5 genannten Informationen enthalten alle verfügbaren Einzelheiten, insbesondere die notwendigen Daten für die Identifizierung des nichtkonformen Produkts mit digitalen Elementen, die Herkunft dieses Produkts mit digitalen Elementen, die Art der behaupteten Nichtkonformität und das damit verbundene Risiko sowie die Art und Dauer der getroffenen nationalen Maßnahmen und die Argumente des betreffenden Wirtschaftsakteurs. Die Marktüberwachungsbehörde gibt insbesondere an, ob die Nichtkonformität eine oder mehrere der folgenden Ursachen hat:
+a)
+Das Produkt mit digitalen Elementen oder die vom Hersteller festgelegten Verfahren erfüllen nicht die grundlegenden Cybersicherheitsanforderungen in Anhang I;
+b)
+Mängel in den harmonisierten Normen, den europäischen Schemata für die Cybersicherheitszertifizierung oder den gemeinsamen Spezifikationen gemäß Artikel 27.
+(7)
+Die Marktüberwachungsbehörden der Mitgliedstaaten, außer derjenigen, die das Verfahren eingeleitet hat, unterrichten unverzüglich die Kommission und die anderen Mitgliedstaaten von jeglichen Maßnahmen und ihnen vorliegenden zusätzlichen Erkenntnissen über die Nichtkonformität des betreffenden Produkts mit digitalen Elementen sowie über ihre Einwände, falls sie die ihnen mitgeteilte nationale Maßnahme ablehnen.
+(8)
+Erhebt weder ein Mitgliedstaat noch die Kommission innerhalb von drei Monaten nach Eingang der in Absatz 5 dieses Artikels genannten Notifizierung einen Einwand gegen eine vorläufige Maßnahme eines Mitgliedstaats, so gilt diese Maßnahme als gerechtfertigt. Die Verfahrensrechte des betreffenden Wirtschaftsakteurs nach Artikel 18 der Verordnung (EU) 2019/1020 bleiben hiervon unberührt.
+(9)
+Die Marktüberwachungsbehörden aller Mitgliedstaaten tragen dafür Sorge, dass unverzüglich geeignete einschränkende Maßnahmen in Bezug auf das betreffende Produkt mit digitalen Elementen ergriffen werden, indem sie beispielsweise dieses Produkt von ihrem Markt rücknehmen.
+
+Verwandte Erwägungsgründe(2)
+
+113
+
+Gibt es Hinweise auf eine Nichtkonformität mit dieser Verordnung in mehreren Mitgliedstaaten, so sollten die Marktüberwachungsbehörden in der Lage sein, gemeinsame Tätigkeiten mit anderen Behörden dur…
+114
+
+Gleichzeitige koordinierte Kontrollen („Sweeps“) sind besondere Durchsetzungsmaßnahmen, die von Marktüberwachungsbehörden durchgeführt werden und die Produktsicherheit weiter verbessern können. Sweeps…
+
+Vorheriger Artikel
+Artikel 53Artikel 53 - Zugang zu Daten und zur Dokumentation
+
+Nächster Artikel
+Artikel 55Artikel 55 - Schutzklauselverfahren der Union
+
+CRA-Updates per E-Mail
+Fristen, Guidance und Mythos-Faktenchecks zum EU Cyber Resilience Act, kompakt im Newsletter.Newsletter ansehen
+Dieser Text wurde aus der Verordnung (EU) 2024/2847 des Europäischen Parlaments und des Rates vom 23. Oktober 2024 übernommen. Die Darstellung dient ausschließlich Informationszwecken und stellt keine Rechtsberatung dar. Maßgeblich ist allein der im Amtsblatt der Europäischen Union veröffentlichte Wortlaut. Originaltext auf EUR-Lex
+
+Kunnus ist ein Produkt und Marke von Think Ahead.
+
+Plattform
+Alle Funktionen
+Multi-Produkt-Plattform
+CRA-Abdeckung
+Walkthrough
+SBOM-Scanner
+Scanner-Doku
+Roadmap
+Demo anfordern
+
+Lösungen
+Startups
+KMU
+Enterprise
+Anwendungsfälle
+
+Branchen
+Industriemaschinen
+IoT & Konsumgüter
+Energie & Gebäudetechnik
+Industriekomponenten
+Smart Farming
+Telekommunikation
+Software & SaaS
+Embedded Systems
+Smart Home & Consumer
+
+Ressourcen
+Wissensdatenbank
+CRA Leitfaden
+SECURE-Förderung
+Blog
+Events
+CRA & Schweiz
+Newsletter
+
+Unternehmen
+Über uns
+Team
+Methodik
+Partnerprogramm
+Karriere
+Impressum
+GitHub
+
+© 2026 Think Ahead Technologies GmbH. All rights reserved.
+DatenschutzCookiesSicherheitImpressum

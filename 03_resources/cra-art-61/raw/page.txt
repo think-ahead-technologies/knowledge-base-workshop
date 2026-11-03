@@ -1,0 +1,96 @@
+EU CRA Artikel 61 — Ausübung der Befugnisübertragung
+Die ersten Pflichten des EU Cyber Resilience Act für Hersteller gelten seit dem 11. September 2026. Erste Pflichten seit September 2026 Was jetzt zu tun ist
+Plattform
+Lösungen
+Ressourcen
+Unternehmen
+Wissensdatenbank
+
+DE
+Einloggen Demo anfordern Toggle menu
+
+Wissensdatenbank Artikel Artikel 61 Kapitel VI - ÜBERTRAGENE BEFUGNISSE UND AUSSCHUSSVERFAHREN
+61 Artikel 61
+Ausübung der Befugnisübertragung
+
+Verordnung (EU) 2024/2847 — veröffentlicht 10. Dezember 2024 · Letzte Prüfung durch Kunnus: März 2026
+( 1 ) Die Befugnis zum Erlass delegierter Rechtsakte wird der Kommission unter den in diesem Artikel festgelegten Bedingungen übertragen.
+
+( 2 ) Die Befugnis zum Erlass delegierter Rechtsakte gemäß Artikel 2 Absatz 5 Unterabsatz 2, Artikel 7 Absatz 3, Artikel 8 Absätze 1 und 2, Artikel 13 Absatz 8 Unterabsatz 4, Artikel 14 Absatz 9, Artikel 25 , Artikel 27 Absatz 9, Artikel 28 Absatz 5 und Artikel 31 Absatz 5 wird der Kommission für einen Zeitraum von fünf Jahren ab dem 10. Dezember 2024 übertragen. Die Kommission erstellt spätestens neun Monate vor Ablauf des Zeitraums von fünf Jahren einen Bericht über die Befugnisübertragung. Die Befugnisübertragung verlängert sich stillschweigend um Zeiträume gleicher Länge, es sei denn, das Europäische Parlament oder der Rat widersprechen einer solchen Verlängerung spätestens drei Monate vor Ablauf des jeweiligen Zeitraums.
+
+( 3 ) Die Befugnisübertragung gemäß Artikel 2 Absatz 5 Unterabsatz 2, Artikel 7 Absatz 3, Artikel 8 Absätze 1 und 2, Artikel 13 Absatz 8 Unterabsatz 4, Artikel 14 Absatz 9, Artikel 25 , Artikel 27 Absatz 9, Artikel 28 Absatz 5 und Artikel 31 Absatz 5 kann vom Europäischen Parlament oder vom Rat jederzeit widerrufen werden. Der Beschluss über den Widerruf beendet die Übertragung der in diesem Beschluss angegebenen Befugnis. Er wird am Tag nach seiner Veröffentlichung im Amtsblatt der Europäischen Union oder zu einem im Beschluss über den Widerruf angegebenen späteren Zeitpunkt wirksam. Die Gültigkeit von delegierten Rechtsakten, die bereits in Kraft sind, wird von dem Beschluss über den Widerruf nicht berührt.
+
+( 4 ) Vor dem Erlass eines delegierten Rechtsakts konsultiert die Kommission die von den einzelnen Mitgliedstaaten benannten Sachverständigen im Einklang mit den in der Interinstitutionellen Vereinbarung vom 13. April 2016 über bessere Rechtsetzung enthaltenen Grundsätzen.
+
+( 5 ) Sobald die Kommission einen delegierten Rechtsakt erlässt, übermittelt sie ihn gleichzeitig dem Europäischen Parlament und dem Rat.
+
+( 6 ) Ein delegierter Rechtsakt, der gemäß Artikel 2 Absatz 5 Unterabsatz 2, Artikel 7 Absatz 3, Artikel 8 Absätze 1 oder 2, Artikel 13 Absatz 8 Unterabsatz 4, Artikel 14 Absatz 9, Artikel 25 , Artikel 27 Absatz 9, Artikel 28 Absatz 5 oder Artikel 31 Absatz 5 erlassen wurde, tritt nur in Kraft, wenn weder das Europäische Parlament noch der Rat innerhalb einer Frist von zwei Monaten nach Übermittlung dieses Rechtsakts an das Europäische Parlament und den Rat Einwände erhoben haben oder wenn vor Ablauf dieser Frist das Europäische Parlament und der Rat beide der Kommission mitgeteilt haben, dass sie keine Einwände erheben werden. Auf Initiative des Europäischen Parlaments oder des Rates wird diese Frist um zwei Monate verlängert.
+
+Verwandte Erwägungsgründe
+( 2 )
+119 Zur Gewährleistung einer vertrauensvollen und konstruktiven Zusammenarbeit der Marktüberwachungsbehörden auf Ebene der Union und der Mitgliedstaaten sollten alle an der Anwendung dieser Verordnung bet…
+
+120 Um die wirksame Durchsetzung der in dieser Verordnung festgelegten Pflichten zu gewährleisten, sollte jede Marktüberwachungsbehörde befugt sein, Geldbußen aufzuerlegen oder ihre Auferlegung zu beantra…
+
+Vorheriger Artikel
+Artikel 60 Artikel 60 - Koordinierte Kontrollen (Sweeps)
+
+Nächster Artikel
+Artikel 62 Artikel 62 - Ausschussverfahren
+
+CRA-Updates per E-Mail
+Fristen, Guidance und Mythos-Faktenchecks zum EU Cyber Resilience Act, kompakt im Newsletter.
+
+Newsletter ansehen
+
+Dieser Text wurde aus der Verordnung (EU) 2024/2847 des Europäischen Parlaments und des Rates vom 23. Oktober 2024 übernommen. Die Darstellung dient ausschließlich Informationszwecken und stellt keine Rechtsberatung dar. Maßgeblich ist allein der im Amtsblatt der Europäischen Union veröffentlichte Wortlaut. Originaltext auf EUR-Lex
+
+Kunnus ist ein Produkt und Marke von Think Ahead .
+
+Plattform
+Alle Funktionen
+Multi-Produkt-Plattform
+CRA-Abdeckung
+Walkthrough
+SBOM-Scanner
+Scanner-Doku
+Roadmap
+Demo anfordern
+
+Lösungen
+Startups
+KMU
+Enterprise
+Anwendungsfälle
+
+Branchen
+Industriemaschinen
+IoT & Konsumgüter
+Energie & Gebäudetechnik
+Industriekomponenten
+Smart Farming
+Telekommunikation
+Software & SaaS
+Embedded Systems
+Smart Home & Consumer
+
+Ressourcen
+Wissensdatenbank
+CRA Leitfaden
+SECURE-Förderung
+Blog
+Events
+CRA & Schweiz
+Newsletter
+
+Unternehmen
+Über uns
+Team
+Methodik
+Partnerprogramm
+Karriere
+Impressum
+GitHub
+
+© 2026 Think Ahead Technologies GmbH. All rights reserved.
+Datenschutz Cookies Sicherheit Impressum

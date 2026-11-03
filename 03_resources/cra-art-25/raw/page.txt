@@ -1,0 +1,84 @@
+EU CRA Artikel 25 — Sicherheitsbescheinigung für freie und quelloffene Software
+Die ersten Pflichten des EU Cyber Resilience Act für Hersteller gelten seit dem 11. September 2026.Erste Pflichten seit September 2026Was jetzt zu tun ist
+Plattform
+Lösungen
+Ressourcen
+Unternehmen
+Wissensdatenbank
+
+DE
+EinloggenDemo anfordernToggle menu
+
+WissensdatenbankArtikelArtikel 25Kapitel II - PFLICHTEN DER WIRTSCHAFTSAKTEURE UND BESTIMMUNGEN IN BEZUG AUF FREIE UND QUELLOFFENE SOFTWARE
+25Artikel 25
+Sicherheitsbescheinigung für freie und quelloffene Software
+
+Verordnung (EU) 2024/2847 — veröffentlicht 10. Dezember 2024 · Letzte Prüfung durch Kunnus: März 2026
+Um die in Artikel 13 Absatz 5 festgelegte Sorgfaltspflicht zu erleichtern, insbesondere in Bezug auf Hersteller, die freie und quelloffene Softwarekomponenten in ihre Produkte mit digitalen Elementen integrieren, wird der Kommission die Befugnis übertragen, gemäß Artikel 61 delegierte Rechtsakte zu erlassen, um diese Verordnung durch die Einführung freiwilliger Programme zur Bescheinigung der Sicherheit zu ergänzen, die es den Entwicklern oder Nutzern von Produkten mit digitalen Elementen, die als freie und quelloffene Software gelten, sowie anderen Dritten ermöglichen, die Konformität dieser Produkte mit allen oder bestimmten grundlegenden Cybersicherheitsanforderungen oder sonstigen in dieser Verordnung festgelegten Verpflichtungen zu bewerten.
+
+Verwandte Erwägungsgründe
+(1)
+91Die Konformitätsbewertung von Produkten mit digitalen Elementen, die in dieser Verordnung nicht als wichtige oder kritische Produkte mit digitalen Elementen aufgeführt sind, kann vom Hersteller in eig…
+
+Vorheriger Artikel
+Artikel 24Artikel 24 - Pflichten der Verwalter quelloffener Software
+
+Nächster Artikel
+Artikel 26Artikel 26 - Leitlinien
+
+CRA-Updates per E-Mail
+Fristen, Guidance und Mythos-Faktenchecks zum EU Cyber Resilience Act, kompakt im Newsletter.
+
+Newsletter ansehen
+
+Dieser Text wurde aus der Verordnung (EU) 2024/2847 des Europäischen Parlaments und des Rates vom 23. Oktober 2024 übernommen. Die Darstellung dient ausschließlich Informationszwecken und stellt keine Rechtsberatung dar. Maßgeblich ist allein der im Amtsblatt der Europäischen Union veröffentlichte Wortlaut. Originaltext auf EUR-Lex
+
+Kunnus ist ein Produkt und Marke von Think Ahead.
+
+Plattform
+Alle Funktionen
+Multi-Produkt-Plattform
+CRA-Abdeckung
+Walkthrough
+SBOM-Scanner
+Scanner-Doku
+Roadmap
+Demo anfordern
+
+Lösungen
+Startups
+KMU
+Enterprise
+Anwendungsfälle
+
+Branchen
+Industriemaschinen
+IoT & Konsumgüter
+Energie & Gebäudetechnik
+Industriekomponenten
+Smart Farming
+Telekommunikation
+Software & SaaS
+Embedded Systems
+Smart Home & Consumer
+
+Ressourcen
+Wissensdatenbank
+CRA Leitfaden
+SECURE-Förderung
+Blog
+Events
+CRA & Schweiz
+Newsletter
+
+Unternehmen
+Über uns
+Team
+Methodik
+Partnerprogramm
+Karriere
+Impressum
+GitHub
+
+© 2026 Think Ahead Technologies GmbH. All rights reserved.
+DatenschutzCookiesSicherheitImpressum

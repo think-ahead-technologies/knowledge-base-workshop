@@ -1,0 +1,189 @@
+{
+  "version": 1,
+  "generated_at": "2026-11-03T08:13:05.305010+00:00",
+  "nodes": [
+    {
+      "id": "domain/index",
+      "title": "Domains Hub",
+      "path": "domains/index.md",
+      "domain": "",
+      "type": "hub",
+      "status": "active",
+      "tags": [
+        "domain",
+        "hub"
+      ],
+      "last_reviewed": "2026-11-03",
+      "outbound_links": [
+        "repository/index",
+        "resource/index"
+      ],
+      "inbound_count": 3
+    },
+    {
+      "id": "knowledge-base/home",
+      "title": "Knowledge Base",
+      "path": "README.md",
+      "domain": "",
+      "type": "hub",
+      "status": "active",
+      "tags": [
+        "knowledge-base",
+        "agents",
+        "docs"
+      ],
+      "last_reviewed": "2026-11-03",
+      "outbound_links": [
+        "domain/index",
+        "meta/agent-query-guide",
+        "repository/index",
+        "resource/index"
+      ],
+      "inbound_count": 0
+    },
+    {
+      "id": "meta/agent-query-guide",
+      "title": "Agent Query Guide",
+      "path": "AGENT_QUERY_GUIDE.md",
+      "domain": "",
+      "type": "meta",
+      "status": "active",
+      "tags": [
+        "agents",
+        "jq",
+        "graph"
+      ],
+      "last_reviewed": "2026-11-03",
+      "outbound_links": [],
+      "inbound_count": 1
+    },
+    {
+      "id": "repository/index",
+      "title": "Repositories Hub",
+      "path": "repositories/index.md",
+      "domain": "",
+      "type": "hub",
+      "status": "active",
+      "tags": [
+        "repository",
+        "hub"
+      ],
+      "last_reviewed": "2026-11-03",
+      "outbound_links": [
+        "domain/index",
+        "resource/index"
+      ],
+      "inbound_count": 3
+    },
+    {
+      "id": "resource/index",
+      "title": "Resources Hub",
+      "path": "resources/index.md",
+      "domain": "",
+      "type": "hub",
+      "status": "active",
+      "tags": [
+        "resource",
+        "hub"
+      ],
+      "last_reviewed": "2026-11-03",
+      "outbound_links": [
+        "domain/index",
+        "repository/index"
+      ],
+      "inbound_count": 3
+    }
+  ],
+  "edges": [
+    {
+      "from": "domain/index",
+      "to": "repository/index",
+      "kind": "markdown_link",
+      "type": "related",
+      "anchor_text": "Repositories Hub",
+      "annotation": "Where the domains are implemented",
+      "weight": 1.0
+    },
+    {
+      "from": "domain/index",
+      "to": "resource/index",
+      "kind": "markdown_link",
+      "type": "related",
+      "anchor_text": "Resources Hub",
+      "annotation": "Material that gives the domains context",
+      "weight": 1.0
+    },
+    {
+      "from": "knowledge-base/home",
+      "to": "domain/index",
+      "kind": "markdown_link",
+      "type": "related",
+      "anchor_text": "Domains Hub",
+      "annotation": "Lists the working domains",
+      "weight": 1.0
+    },
+    {
+      "from": "knowledge-base/home",
+      "to": "meta/agent-query-guide",
+      "kind": "markdown_link",
+      "type": "see-also",
+      "anchor_text": "Agent Query Guide",
+      "annotation": "Graph schema and jq queries for agents",
+      "weight": 1.0
+    },
+    {
+      "from": "knowledge-base/home",
+      "to": "repository/index",
+      "kind": "markdown_link",
+      "type": "related",
+      "anchor_text": "Repositories Hub",
+      "annotation": "Lists the documented repositories",
+      "weight": 1.0
+    },
+    {
+      "from": "knowledge-base/home",
+      "to": "resource/index",
+      "kind": "markdown_link",
+      "type": "related",
+      "anchor_text": "Resources Hub",
+      "annotation": "Lists the resources that give domains context",
+      "weight": 1.0
+    },
+    {
+      "from": "repository/index",
+      "to": "domain/index",
+      "kind": "markdown_link",
+      "type": "related",
+      "anchor_text": "Domains Hub",
+      "annotation": "The domains these repositories implement",
+      "weight": 1.0
+    },
+    {
+      "from": "repository/index",
+      "to": "resource/index",
+      "kind": "markdown_link",
+      "type": "related",
+      "anchor_text": "Resources Hub",
+      "annotation": "Reference material",
+      "weight": 1.0
+    },
+    {
+      "from": "resource/index",
+      "to": "domain/index",
+      "kind": "markdown_link",
+      "type": "related",
+      "anchor_text": "Domains Hub",
+      "annotation": "The domains these resources give context to",
+      "weight": 1.0
+    },
+    {
+      "from": "resource/index",
+      "to": "repository/index",
+      "kind": "markdown_link",
+      "type": "related",
+      "anchor_text": "Repositories Hub",
+      "annotation": "Code repositories",
+      "weight": 1.0
+    }
+  ]
+}

@@ -1,0 +1,11 @@
+#!/usr/bin/env bash
+set -euo pipefail
+
+echo "[pre-commit] Generating and validating graph..."
+make graph
+
+if ! git diff --quiet -- index/graph.json; then
+	echo "[pre-commit] index/graph.json was modified by generation."
+	echo "[pre-commit] Run 'make graph' and stage index/graph.json before committing."
+	exit 1
+fi
